@@ -649,15 +649,15 @@ define([
         queryParams.num = resultRecordCount;
 
         // jaykaron - query data before edit
-        console.log("WHERE");
-        console.log(where);
-        console.log("Geo");
-        console.log(geometry);
+        // console.log("WHERE");
+        // console.log(where);
+        // console.log("Geo");
+        // console.log(geometry);
 
         //set sorting info
         var orderByFields = this.currentAttrs.config.orderByFields;
-        console.log("ORDER:");
-        console.log(orderByFields);
+        // console.log("ORDER:");
+        // console.log(orderByFields);
         if(orderByFields && orderByFields.length > 0){
           queryParams.orderByFields = orderByFields;
 
@@ -676,33 +676,77 @@ define([
 
         var queryTask = new QueryTask(this.currentAttrs.config.url);
 
-
-        var petsBool = $("#petsCheck")[0].checked;
-        console.log(petsBool);
-
-
-
+        // note if first query has no results second doesn't run
         // jaykaron editing the query
         //queryParams.where += " AND Bedrooms = 2";
 
-
+        console.log("PARAMS:");
         console.log(queryParams);
-        var queryResults = queryTask.execute(queryParams);
-        console.log("RESULTS:");
-        console.log(queryResults);
+        var queryPromise = queryTask.execute(queryParams);
+        console.log("PROMISE:");
+        console.log(queryPromise);
 
         // attempt to reorder
-        // console.log(queryResults.then(
-        //   function(val) {
-        //     console.log(val);
-        //   }
-        // ));
-        var resultsArray = queryResults.features;
-        console.log(resultsArray);
-        // var temp = resultsArray[0];
-        // resultsArray[0] = resultsArray[1];
-        // resultsArray[1] = temp;
-        return queryResults;
+        var newPromise = queryPromise.then(
+          function(originalQueryResults) {
+            console.log("INNER");
+            console.log(originalQueryResults);
+            // do processing in here
+            var apartments = originalQueryResults.features;
+
+            // get user weights  -- 11 fields
+            // ordered Park, Crime, School, Subway, POI, Bar, Gym, Library, Restaraunt, Supermarket, Cafe
+            var weights = [];
+
+            // setting test weights
+            weights = [80, 40, 40, 10, 40, 5, 3, 3, 50, 10, 1];
+
+            var wMin = Math.min.apply(Math, weights);
+            wMin = 1.0 * Math.max(wMin, 1);   // don't want 0, cast to double
+
+            var wSum = 0.0;
+            for (var i=0; i<weights.length; i++) {
+              wSum += weights[i];
+            }
+
+            // normalize
+            for (var i=0; i<weights.length; i++) {
+              weights[i] = (weights[i] / wMin) / wSum;
+            }
+            console.log(weights);
+
+            // make apartment table
+            var apData = [][];
+
+
+            // total score for every apartment in filter query
+            ids = [];
+            scores = [];
+
+            for (var c=0; c<weights.length; c++) {
+              // get cMin and Cmax
+              // var cMin = Math.min.apply(Math, weights);
+              // wMin = 1.0 * Math.max(wMin, 1);   // don't want 0, cast to double
+              //
+              // var wSum = 0.0;
+              // for (var i=0; i<weights.length; i++) {
+              //   wSum += weights[i];
+              // }
+              // for every apartment
+                // compute Cnorm
+                // add to apartment score with weight
+
+            }
+
+            // return another query promise
+            queryParams.where = "Price BETWEEN 1300 AND 1400";
+            return queryTask.execute(queryParams);
+
+          }
+        );
+        console.log("NEW");
+        console.log(newPromise);
+        return newPromise;
         // return queryTask.execute(queryParams);
       }
 
