@@ -14,6 +14,14 @@
     <div class="not-visible" data-dojo-attach-point="noFilterTip">${nls.noAttributeSpatialFilterTip}</div>
     <div class="attributes-section" data-dojo-attach-point="attributesSectionDiv">
       <div class="first-stress attribute-filter-label">${nls.queryCriteira}</div>
+      <div class="jaykaron">
+        <form>
+          <input type="checkbox" value="pets" id="petsCheck" name="petsCheck"><label for="pets"> Pet Friendly</label>
+          <br /><br />
+          <label for="schoolRange"> School Proximity:</label> <br />
+          <input type="range" value="school" id="schoolRange" name="schoolRange" min="0" max="10" step="1" list="tickmarks">
+        </form>
+      </div>
       <div class="sql-div jimu-widget-note" data-dojo-attach-point="sqlDiv"></div>
     </div>
     <div class="spatial-section" data-dojo-attach-point="spatialSectionDiv">

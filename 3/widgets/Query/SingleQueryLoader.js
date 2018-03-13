@@ -94,12 +94,8 @@ define([
         var where = this.currentAttrs.query.where;
         var geometry = this.currentAttrs.query.geometry;
 
-        console.log('Query for First TIME: INFO >>>>>>>>>>>>> Geometry');
-        console.log(geometry);
-        console.log(where);
-        console.log("QUERY TYPE " + this.currentAttrs.queryType);
-
-
+        // jaykaron - consoling
+        console.log('Query Parent Function');
 
         if(this.currentAttrs.queryType === 1){
           def = this.doQuery_SupportOrderByAndPagination(where, geometry);
@@ -651,6 +647,8 @@ define([
         //set pagination info
         queryParams.start = resultOffset;
         queryParams.num = resultRecordCount;
+
+        // jaykaron - query data before edit
         console.log("WHERE");
         console.log(where);
         console.log("Geo");
@@ -679,16 +677,33 @@ define([
         var queryTask = new QueryTask(this.currentAttrs.config.url);
 
 
+        var petsBool = $("#petsCheck")[0].checked;
+        console.log(petsBool);
 
 
 
-
-        // edit where clause here
-
+        // jaykaron editing the query
+        //queryParams.where += " AND Bedrooms = 2";
 
 
         console.log(queryParams);
-        return queryTask.execute(queryParams);
+        var queryResults = queryTask.execute(queryParams);
+        console.log("RESULTS:");
+        console.log(queryResults);
+
+        // attempt to reorder
+        // console.log(queryResults.then(
+        //   function(val) {
+        //     console.log(val);
+        //   }
+        // ));
+        var resultsArray = queryResults.features;
+        console.log(resultsArray);
+        // var temp = resultsArray[0];
+        // resultsArray[0] = resultsArray[1];
+        // resultsArray[1] = temp;
+        return queryResults;
+        // return queryTask.execute(queryParams);
       }
 
     });
