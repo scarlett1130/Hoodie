@@ -680,11 +680,7 @@ define([
         // jaykaron editing the query
         //queryParams.where += " AND Bedrooms = 2";
 
-        console.log("PARAMS:");
-        console.log(queryParams);
         var queryPromise = queryTask.execute(queryParams);
-        console.log("PROMISE:");
-        console.log(queryPromise);
 
         // attempt to reorder
         var newPromise = queryPromise.then(
@@ -696,58 +692,102 @@ define([
 
             // get user weights  -- 11 fields
             // ordered Park, Crime, School, Subway, POI, Bar, Gym, Library, Restaraunt, Supermarket, Cafe
+            var cNames = ["Park", "Crime", "School", "Subway", "Poi", "Bar", "Gym", "Library", "Restaurant", "Supermarke", "Caffe"];
+            var cToMin = ["Park", "Crime", "School", "Subway", "Gym", "Library", "Supermarke"]
+            var cToMax = ["Poi", "Bar", "Restaurant", "Caffe"];
             var weights = [];
 
             // setting test weights
-            weights = [80, 40, 40, 10, 40, 5, 3, 3, 50, 10, 1];
+            weights = [80, 4, 4, 1, 4, 5, 3, 3, 5, 1, 1];
 
             var wMin = Math.min.apply(Math, weights);
-            wMin = 1.0 * Math.max(wMin, 1);   // don't want 0, cast to double
+            wMin = 1.0 * Math.max(wMin, 0.1);   // don't want 0, cast to double
+
+            var cMins = [];
+            var cMaxs = [];
+            // normalize
+            for (var i=0; i<weights.length; i++) {
+              cMins.push(99999999999999);   // hopefully bigger than any possible score value
+              cMaxs.push(0);
+              weights[i] = (weights[i] / wMin);
+            }
 
             var wSum = 0.0;
             for (var i=0; i<weights.length; i++) {
               wSum += weights[i];
             }
-
-            // normalize
             for (var i=0; i<weights.length; i++) {
-              weights[i] = (weights[i] / wMin) / wSum;
+              weights[i] = (weights[i] / wSum);
             }
-            console.log(weights);
 
-            // make apartment table
-            var apData = [][];
+            // make apartment table, just for debugging
+            var apData = [];
+            var ids = [];
+            var scores = [];
+            for (var a=0; a<apartments.length; a++) {
+              apData.push([]);
+              scores.push(0.0);
+              ids.push(apartments[a].attributes["FID"]);
 
+              for (var c=0; c<cNames.length; c++) {
+                var cScore = apartments[a].attributes[cNames[c]]
+                apData[a].push(cScore);
 
-            // total score for every apartment in filter query
-            ids = [];
-            scores = [];
+                if (cScore < cMins[c])
+                  cMins[c] = cScore;
+                if (cScore > cMaxs[c])
+                  cMaxs[c] = cScore;
+              }
+            }
+
+            console.log("DATA");
+            console.log(apData);
 
             for (var c=0; c<weights.length; c++) {
-              // get cMin and Cmax
-              // var cMin = Math.min.apply(Math, weights);
-              // wMin = 1.0 * Math.max(wMin, 1);   // don't want 0, cast to double
-              //
-              // var wSum = 0.0;
-              // for (var i=0; i<weights.length; i++) {
-              //   wSum += weights[i];
-              // }
-              // for every apartment
-                // compute Cnorm
-                // add to apartment score with weight
+                var cMax = cMaxs[c];
+                var cMin = cMins[c];
+                var cRange = cMax - cMin;
+                cRange = cRange != 0 ? cRange : 0.1;
+                var w = weights[c]
 
+                for (var a=0; a<apartments.length; a++) {
+                  var cScore = apartments[a].attributes[cNames[c]];
+                  // minimize
+                  if (cToMin.indexOf(cNames[c]) != -1) {
+                    scores[a] += w * (cMax - cScore) / cRange;
+                  }
+                  else if (cToMax.indexOf(cNames[c]) != -1) {
+                    scores[a] += w * (cScore - cMin) / cRange;
+                  }
+                  else {
+                    console.log("Error finding " + cNames[c] + " in cToMin or cToMax");
+                  }
+                }
             }
-
+            console.log(scores);
+            console.log(ids);
             // return another query promise
-            queryParams.where = "Price BETWEEN 1300 AND 1400";
+            var newWhere = "";
+            var nResults = 10;
+            for (var i=1; i<=nResults; i++) {
+              var best = 0;
+              for (var j=0; j<scores.length; j++) {
+                if (scores[j] > scores[best])
+                  best = j;
+              }
+              newWhere += "(FID=" + ids[best] + ")";
+              if (i < nResults)
+                newWhere += " OR ";
+              scores.splice(best, 1);
+              ids.splice(best, 1);
+            }
+            console.log(newWhere);
+            queryParams.where = newWhere;
             return queryTask.execute(queryParams);
 
           }
         );
-        console.log("NEW");
-        console.log(newPromise);
         return newPromise;
-        // return queryTask.execute(queryParams);
       }
 
     });

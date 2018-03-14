@@ -16,7 +16,16 @@
       <div class="first-stress attribute-filter-label">${nls.queryCriteira}</div>
       <div class="jaykaron">
         <form>
-          <input type="checkbox" value="pets" id="petsCheck" name="petsCheck"><label for="pets"> Pet Friendly</label>
+          <div class="checks">
+            <style scoped="true">
+              input {
+                margin-right: 1rem;
+              }
+            </style>
+            <label for="petsCheck">Pet Friendly: </label><input type="checkbox" value="pets" id="petsCheck" name="petsCheck">
+            <label for="accessCheck">Accessible: </label><input type="checkbox" value="access" id="accessCheck" name="accessCheck">
+            <label for="smokeCheck">Smoking: </label><input type="checkbox" value="smoke" id="smokeCheck" name="smokeCheck">
+          </div>
           <br /><br />
           <label for="schoolRange"> School Proximity:</label> <br />
           <input type="range" value="school" id="schoolRange" name="schoolRange" min="0" max="10" step="1" list="tickmarks">
