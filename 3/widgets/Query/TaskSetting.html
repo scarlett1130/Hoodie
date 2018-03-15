@@ -5,34 +5,88 @@
         <div class="back-arrow" data-dojo-attach-event="onclick:_onBtnParamsBackClicked"></div>
       </td>
       <td class="second-td">
-        <div class="task-name jimu-ellipsis" data-dojo-attach-point="taskNameDiv"></div>
+        <div style="display:none;" class="task-name jimu-ellipsis" data-dojo-attach-point="taskNameDiv"></div>
       </td>
       <td class="third-td"></td>
     </tr>
   </table>
-  <div class="params-container" data-dojo-attach-point="paramsContainer">
+  <div class="params-container" data-dojo-attach-point="paramsContainer" style="top:10px">
     <div class="not-visible" data-dojo-attach-point="noFilterTip">${nls.noAttributeSpatialFilterTip}</div>
-    <div class="attributes-section" data-dojo-attach-point="attributesSectionDiv">
+    <div class="attributes-section" data-dojo-attach-point="attributesSectionDiv" style="display: none;">
       <div class="first-stress attribute-filter-label">${nls.queryCriteira}</div>
-      <div class="jaykaron">
-        <form>
-          <div class="checks">
-            <style scoped="true">
-              input {
-                margin-right: 1rem;
-              }
-            </style>
-            <label for="petsCheck">Pet Friendly: </label><input type="checkbox" value="pets" id="petsCheck" name="petsCheck">
-            <label for="accessCheck">Accessible: </label><input type="checkbox" value="access" id="accessCheck" name="accessCheck">
-            <label for="smokeCheck">Smoking: </label><input type="checkbox" value="smoke" id="smokeCheck" name="smokeCheck">
-          </div>
-          <br /><br />
-          <label for="schoolRange"> School Proximity:</label> <br />
-          <input type="range" value="school" id="schoolRange" name="schoolRange" min="0" max="10" step="1" list="tickmarks">
-        </form>
-      </div>
       <div class="sql-div jimu-widget-note" data-dojo-attach-point="sqlDiv"></div>
     </div>
+
+    <!-- USER INPUT FORM -->
+    <form>
+      <p>
+        <strong style="font-size:1.1rem">Price:</strong> <span>$<output name="lowerPrice" id="lowerPrice">1500</output> to $<output name="higherPrice" id="higherPrice">1500</output></span>
+      </p>
+        <p>From:</p>
+        <input type="range" name="lowerPriceInput" id="lowerPriceInput" value="1500" min="0" max="7000" oninput="lowerPrice.value = lowerPriceInput.value"><br />
+        <p>To:</p>
+        <input type="range" name="higherPriceInput" id="higherPriceInput" value="1500" min="0" max="7000" oninput="higherPrice.value = higherPriceInput.value"> <br />
+        <div class="control-group">
+            <p class="pull-left">Number of Bedrooms:</p>
+            <div class="controls span2">
+                <label class="checkbox">
+                    <input type="checkbox" id="bed1"> 1
+                </label>
+                <label class="checkbox">
+                    <input type="checkbox" id="bed2"> 2
+                </label>
+                <label class="checkbox">
+                    <input type="checkbox" id="bed3"> 3
+                </label>
+                <label class="checkbox">
+                    <input type="checkbox" id="bed4"> 4+
+                </label>
+            </div>
+        </div>
+        <div class="control-group">
+            <p class="pull-left">Other Options:</p>
+            <div class="controls span2">
+                <label class="checkbox">
+                    <input type="checkbox" id="pets"> Pets
+                </label>
+                <label class="checkbox">
+                    <input type="checkbox" id="accessible"> Accessible
+                </label>
+                <label class="checkbox">
+                    <input type="checkbox" id="smoking"> Smoking
+                </label>
+            </div>
+        </div>
+      <p>
+        <strong style="font-size:1.1rem">Preferences:</strong>
+      </p>
+      <div data-role="rangeslider" style="display:inline-block;">
+          <span><p>Schools</p></span>
+          <input type="range" name="inputName" id="School" value="50" min="0" max="100" oninput="schoolsOut.value = School.value">  <output name="schoolsOut" id="schoolsOut">50</output><br />
+          <span><p>Parks</p></span>
+          <input type="range" name="inputName" id="Park" value="50" min="0" max="100" oninput="parksOut.value = Park.value">  <output name="parksOut" id="parksOut">50</output><br />
+          <span><p>Subways</p></span>
+          <input type="range" name="inputName" id="Subway" value="50" min="0" max="100" oninput="subwaysOut.value = Subway.value">  <output name="subwaysOut" id="subwaysOut">50</output><br />
+          <span><p>Libraries</p></span>
+          <input type="range" name="inputName" id="Library" value="50" min="0" max="100" oninput="librariesOut.value = Library.value">  <output name="librariesOut" id="librariesOut">50</output><br />
+          <span><p>Entertainment</p></span>
+          <input type="range" name="inputName" id="Poi" value="50" min="0" max="100" oninput="entertainmentOut.value = Poi.value">  <output name="entertainmentOut" id="entertainmentOut">50</output><br />
+          <span><p>Gyms</p></span>
+          <input type="range" name="inputName" id="Gym" value="50" min="0" max="100" oninput="gymsOut.value = Gym.value">  <output name="gymsOut" id="gymsOut">50</output><br />
+          <span><p>Supermarkets</p></span>
+          <input type="range" name="inputName" id="Supermarke" value="50" min="0" max="100" oninput="supermarketsOut.value = Supermarke.value">  <output name="supermarketsOut" id="supermarketsOut">50</output><br />
+          <span><p>Restaurants</p></span>
+          <input type="range" name="inputName" id="Restaurant" value="50" min="0" max="100" oninput="restaurantsOut.value = Restaurant.value">  <output name="restaurantsOut" id="restaurantsOut">50</output><br />
+          <span><p>Cafés</p></span>
+          <input type="range" name="inputName" id="Caffe" value="50" min="0" max="100" oninput="cafesOut.value = Caffe.value">  <output name="cafesOut" id="cafesOut">50</output><br />
+          <span><p>Pubs & Bars</p></span>
+          <input type="range" name="inputName" id="Bar" value="50" min="0" max="100" oninput="barsOut.value = Bar.value">  <output name="barsOut" id="barsOut">50</output><br />
+          <span><p>Safety</p></span>
+          <input type="range" name="inputName" id="Crime" value="50" min="0" max="100" oninput="safetyOut.value = Crime.value">  <output name="safetyOut" id="safetyOut">50</output><br />
+        </div>
+    </form>
+    <!-- END -->
+
     <div class="spatial-section" data-dojo-attach-point="spatialSectionDiv">
       <div class="spearator not-visible" data-dojo-attach-point="spatialSpearator"></div>
       <div class="first-stress spatial-filter-label">${nls.spatialFilter}</div>

@@ -677,6 +677,9 @@ define([
         var queryTask = new QueryTask(this.currentAttrs.config.url);
 
         // jaykaron editing the query
+        var initialWhere = "Price BETWEEN " + low;
+        var low = $("#lowerPriceInput").val();
+        var high = $("#lowerPriceInput").val();
 
         var queryPromise = queryTask.execute(queryParams);
 

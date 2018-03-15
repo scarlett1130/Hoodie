@@ -1,4 +1,4 @@
-![Hoodie Logo](imgs/logo2.png "Hoodie Logo")
+![Hoodie Logo](imgs/logo4.png "Hoodie Logo")
 ## The Problem
 Toronto is a **BIG** city. With over 6 million people in the GTA, every year thousands of people move to, or around the city.
 
