@@ -697,11 +697,8 @@ define([
           initialWhere += " AND (dis = 1)";
         if ($("#smoking").prop('checked'))
           initialWhere += " AND (smo = 1)";
-        
+
         console.log(initialWhere);
-
-
-
 
         queryParams.where = initialWhere;
         var queryPromise = queryTask.execute(queryParams);
@@ -724,9 +721,13 @@ define([
             var cToMax = ["Poi", "Bar", "Restaurant", "Caffe"];
             var weights = [];
 
-            // setting test weights
-            weights = [40, 4, 4, 1, 4, 50, 3, 3, 5, 1, 1];
-
+            // get users weights
+            //weights = [40, 4, 4, 1, 4, 50, 3, 3, 5, 1, 1];
+            for (var c=0; c<cNames.length; c++) {
+              weights.push($("#"+cNames[c]).val());
+            }
+            console.log(cNames);
+            console.log(weights);
             var wMin = Math.min.apply(Math, weights);
             wMin = 1.0 * Math.max(wMin, 0.1);   // don't want 0, cast to double
 

@@ -19,13 +19,20 @@
 
     <!-- USER INPUT FORM -->
     <form>
+      <style>
+        .longSlider
+        {
+          width:80%;
+          margin-right: 10px;
+        }
+      </style>
       <p>
         <strong style="font-size:1.1rem">Price:</strong> <span>$<output name="lowerPrice" id="lowerPrice">1500</output> to $<output name="higherPrice" id="higherPrice">1500</output></span>
       </p>
         <p>From:</p>
-        <input type="range" name="lowerPriceInput" id="lowerPriceInput" value="1500" min="0" max="7000" oninput="lowerPrice.value = lowerPriceInput.value"><br />
+        <input type="range" class="longSlider" name="lowerPriceInput" id="lowerPriceInput" value="1500" min="0" max="7000" oninput="lowerPrice.value = lowerPriceInput.value"><br />
         <p>To:</p>
-        <input type="range" name="higherPriceInput" id="higherPriceInput" value="1500" min="0" max="7000" oninput="higherPrice.value = higherPriceInput.value"> <br />
+        <input type="range" class="longSlider" name="higherPriceInput" id="higherPriceInput" value="1500" min="0" max="7000" oninput="higherPrice.value = higherPriceInput.value"> <br />
         <div class="control-group">
             <p class="pull-left">Number of Bedrooms:</p>
             <div class="controls span2">
@@ -60,29 +67,29 @@
       <p>
         <strong style="font-size:1.1rem">Preferences:</strong>
       </p>
-      <div data-role="rangeslider" style="display:inline-block;">
+      <div data-role="rangeslider" style="display:inline-block; width:100%;">
           <span><p>Schools</p></span>
-          <input type="range" name="inputName" id="School" value="50" min="0" max="100" oninput="schoolsOut.value = School.value">  <output name="schoolsOut" id="schoolsOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="School" value="0" min="0" max="100" oninput="schoolsOut.value = School.value">  <output name="schoolsOut" id="schoolsOut">0</output><br />
           <span><p>Parks</p></span>
-          <input type="range" name="inputName" id="Park" value="50" min="0" max="100" oninput="parksOut.value = Park.value">  <output name="parksOut" id="parksOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="Park" value="0" min="0" max="100" oninput="parksOut.value = Park.value">  <output name="parksOut" id="parksOut">0</output><br />
           <span><p>Subways</p></span>
-          <input type="range" name="inputName" id="Subway" value="50" min="0" max="100" oninput="subwaysOut.value = Subway.value">  <output name="subwaysOut" id="subwaysOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="Subway" value="0" min="0" max="100" oninput="subwaysOut.value = Subway.value">  <output name="subwaysOut" id="subwaysOut">0</output><br />
           <span><p>Libraries</p></span>
-          <input type="range" name="inputName" id="Library" value="50" min="0" max="100" oninput="librariesOut.value = Library.value">  <output name="librariesOut" id="librariesOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="Library" value="0" min="0" max="100" oninput="librariesOut.value = Library.value">  <output name="librariesOut" id="librariesOut">0</output><br />
           <span><p>Entertainment</p></span>
-          <input type="range" name="inputName" id="Poi" value="50" min="0" max="100" oninput="entertainmentOut.value = Poi.value">  <output name="entertainmentOut" id="entertainmentOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="Poi" value="0" min="0" max="100" oninput="entertainmentOut.value = Poi.value">  <output name="entertainmentOut" id="entertainmentOut">0</output><br />
           <span><p>Gyms</p></span>
-          <input type="range" name="inputName" id="Gym" value="50" min="0" max="100" oninput="gymsOut.value = Gym.value">  <output name="gymsOut" id="gymsOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="Gym" value="0" min="0" max="100" oninput="gymsOut.value = Gym.value">  <output name="gymsOut" id="gymsOut">0</output><br />
           <span><p>Supermarkets</p></span>
-          <input type="range" name="inputName" id="Supermarke" value="50" min="0" max="100" oninput="supermarketsOut.value = Supermarke.value">  <output name="supermarketsOut" id="supermarketsOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="Supermarke" value="0" min="0" max="100" oninput="supermarketsOut.value = Supermarke.value">  <output name="supermarketsOut" id="supermarketsOut">0</output><br />
           <span><p>Restaurants</p></span>
-          <input type="range" name="inputName" id="Restaurant" value="50" min="0" max="100" oninput="restaurantsOut.value = Restaurant.value">  <output name="restaurantsOut" id="restaurantsOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="Restaurant" value="0" min="0" max="100" oninput="restaurantsOut.value = Restaurant.value">  <output name="restaurantsOut" id="restaurantsOut">0</output><br />
           <span><p>Cafés</p></span>
-          <input type="range" name="inputName" id="Caffe" value="50" min="0" max="100" oninput="cafesOut.value = Caffe.value">  <output name="cafesOut" id="cafesOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="Caffe" value="0" min="0" max="100" oninput="cafesOut.value = Caffe.value">  <output name="cafesOut" id="cafesOut">0</output><br />
           <span><p>Pubs & Bars</p></span>
-          <input type="range" name="inputName" id="Bar" value="50" min="0" max="100" oninput="barsOut.value = Bar.value">  <output name="barsOut" id="barsOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="Bar" value="0" min="0" max="100" oninput="barsOut.value = Bar.value">  <output name="barsOut" id="barsOut">0</output><br />
           <span><p>Safety</p></span>
-          <input type="range" name="inputName" id="Crime" value="50" min="0" max="100" oninput="safetyOut.value = Crime.value">  <output name="safetyOut" id="safetyOut">50</output><br />
+          <input type="range" class="longSlider" name="inputName" id="Crime" value="0" min="0" max="100" oninput="safetyOut.value = Crime.value">  <output name="safetyOut" id="safetyOut">0</output><br />
         </div>
     </form>
     <!-- END -->
