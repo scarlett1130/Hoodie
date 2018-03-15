@@ -648,16 +648,8 @@ define([
         queryParams.start = resultOffset;
         queryParams.num = resultRecordCount;
 
-        // jaykaron - query data before edit
-        // console.log("WHERE");
-        // console.log(where);
-        // console.log("Geo");
-        // console.log(geometry);
-
         //set sorting info
         var orderByFields = this.currentAttrs.config.orderByFields;
-        // console.log("ORDER:");
-        // console.log(orderByFields);
         if(orderByFields && orderByFields.length > 0){
           queryParams.orderByFields = orderByFields;
 
@@ -677,19 +669,53 @@ define([
         var queryTask = new QueryTask(this.currentAttrs.config.url);
 
         // jaykaron editing the query
-        var initialWhere = "Price BETWEEN " + low;
+        var initialWhere;
         var low = $("#lowerPriceInput").val();
-        var high = $("#lowerPriceInput").val();
+        var high = $("#higherPriceInput").val();
+        initialWhere = "(1=1) AND (Price BETWEEN " + low + " AND " + high + ")";
 
+        var bedS = "";
+        for (var i=1; i<=4; i++){
+          if ($("#bed"+i).prop('checked')) {
+            if (bedS.length != 0) {
+              bedS += " OR ";
+            }
+            if (i != 4)
+              bedS += "(Bedrooms = " + i + ")";
+            else
+              bedS += "(Bedrooms >= 4)";
+          }
+        }
+        if (bedS.length != 0) {
+          bedS = "(" + bedS + " AND (1=1))";
+          initialWhere += " AND " + bedS;
+        }
+
+        if ($("#pets").prop('checked'))
+          initialWhere += " AND (pet = 1)";
+        if ($("#accessible").prop('checked'))
+          initialWhere += " AND (dis = 1)";
+        if ($("#smoking").prop('checked'))
+          initialWhere += " AND (smo = 1)";
+        
+        console.log(initialWhere);
+
+
+
+
+        queryParams.where = initialWhere;
         var queryPromise = queryTask.execute(queryParams);
 
-        // attempt to reorder
         var newPromise = queryPromise.then(
           function(originalQueryResults) {
             console.log("INNER");
             console.log(originalQueryResults);
             // do processing in here
             var apartments = originalQueryResults.features;
+
+            // prevents an error if no results from filter
+            if (apartments.length == 0)
+              return queryTask.execute(queryParams);
 
             // get user weights  -- 11 fields
             // ordered Park, Crime, School, Subway, POI, Bar, Gym, Library, Restaraunt, Supermarket, Cafe
