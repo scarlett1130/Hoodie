@@ -676,9 +676,7 @@ define([
 
         var queryTask = new QueryTask(this.currentAttrs.config.url);
 
-        // note if first query has no results second doesn't run
         // jaykaron editing the query
-        //queryParams.where += " AND Bedrooms = 2";
 
         var queryPromise = queryTask.execute(queryParams);
 
@@ -698,17 +696,23 @@ define([
             var weights = [];
 
             // setting test weights
-            weights = [80, 4, 4, 1, 4, 5, 3, 3, 5, 1, 1];
+            weights = [40, 4, 4, 1, 4, 50, 3, 3, 5, 1, 1];
 
             var wMin = Math.min.apply(Math, weights);
             wMin = 1.0 * Math.max(wMin, 0.1);   // don't want 0, cast to double
 
+            var highestWeight = 0;
+            var highestWeightI = 0;
             var cMins = [];
             var cMaxs = [];
             // normalize
             for (var i=0; i<weights.length; i++) {
               cMins.push(99999999999999);   // hopefully bigger than any possible score value
               cMaxs.push(0);
+              if (weights[i] > highestWeight){
+                highestWeightI = i;
+                highestWeight = weights[i];
+              }
               weights[i] = (weights[i] / wMin);
             }
 
@@ -768,6 +772,7 @@ define([
             console.log(ids);
             // return another query promise
             var newWhere = "";
+            // find top n results
             var nResults = 10;
             for (var i=1; i<=nResults; i++) {
               var best = 0;
@@ -775,16 +780,22 @@ define([
                 if (scores[j] > scores[best])
                   best = j;
               }
-              newWhere += "(FID=" + ids[best] + ")";
-              if (i < nResults)
-                newWhere += " OR ";
+              newWhere += "(FID=" + ids[best] + ")";    // add top results ID to new query
               scores.splice(best, 1);
               ids.splice(best, 1);
+              if (ids.length == 0)
+                break;
+              if (i < nResults)
+                newWhere += " OR ";
             }
-            console.log(newWhere);
             queryParams.where = newWhere;
-            return queryTask.execute(queryParams);
 
+            var mainOrder = cNames[highestWeightI] + (cToMax.indexOf(cNames[highestWeightI]) != -1 ? " DESC" : " ASC");
+            var order = [mainOrder, "Price ASC"];
+            queryParams.orderByFields = order;
+
+            console.log(queryParams);
+            return queryTask.execute(queryParams);
           }
         );
         return newPromise;

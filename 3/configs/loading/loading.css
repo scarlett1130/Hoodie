@@ -1,10 +1,13 @@
 #main-loading{
-	background-color:#508dca;
+	background-color:#ffa300;
 	position:relative;
 }
 #main-loading #app-loading{
 	position: absolute;
+	background-image: url('images/background.png');
 	background-repeat: no-repeat;
+	width:484px;
+	height:400px;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
