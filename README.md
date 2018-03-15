@@ -14,7 +14,8 @@ Hoodie attempts to close this information gap. Our mission statement is to empow
 Hoodie enables users to apply advanced spatial analysis techniques when looking for a new place to rent. We do this by integrating data from many sources into one multi-criteria spatial decision making engine. Each available apartment is given a score based on many criteria, such as; distance to schools, restaurant density, and safety level. The user then inputs which criteria is important to them and the app compute the top 10 apartments that will provide the best fit for their personal needs.
 
 In addition to regular filters like price and number of bedrooms, our app sorts through 11 types of spatial data including:
-0. Distance to schools
+
+1. Distance to schools
 0. Distance to Parks
 0. Distance to Subway stations
 0. Distance to Libraries
