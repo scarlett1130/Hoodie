@@ -1,0 +1,2663 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-12T22:35:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281658961",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "Queen Street Warehouse",
+        "old_name": "Everest Restaurant and Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3901805,
+          43.6501905
+        ]
+      },
+      "id": "node/281658961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344478164",
+        "amenity": "bar",
+        "name": "Friends Bar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3722469,
+          43.6583384
+        ]
+      },
+      "id": "node/344478164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368384751",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "379",
+        "addr:province": "ON",
+        "addr:street": "Spadina Avenue",
+        "amenity": "bar",
+        "name": "Grossman's Tavern",
+        "opening_hours": "Mo-Su 11:00-02:00",
+        "payment:bitcoin": "yes",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3989471,
+          43.6560303
+        ]
+      },
+      "id": "node/368384751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/401511715",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1942",
+        "addr:street": "Gerrard Street East",
+        "amenity": "bar",
+        "name": "Ruby Tuesdays",
+        "opening_hours": "14:00-02:00, Su 17:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3110505,
+          43.6810043
+        ]
+      },
+      "id": "node/401511715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/412344987",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "36-38",
+        "addr:postcode": "M5E 1C7",
+        "addr:province": "ON",
+        "addr:street": "Wellington Street East",
+        "amenity": "bar",
+        "name": "east thirty-six"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3751438,
+          43.6484423
+        ]
+      },
+      "id": "node/412344987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/426126329",
+        "amenity": "bar",
+        "name": "Puck 'n Wings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4153947,
+          43.7804554
+        ]
+      },
+      "id": "node/426126329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/575254646",
+        "addr:city": "Toronto",
+        "addr:housenumber": "563",
+        "addr:street": "Bloor Street West",
+        "amenity": "bar",
+        "name": "Insomnia",
+        "note": "restaurant/bar/lounge",
+        "phone": "+1-416-588-3907",
+        "website": "http://www.insomniacafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4107448,
+          43.6650495
+        ]
+      },
+      "id": "node/575254646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/595495532",
+        "amenity": "bar",
+        "name": "Proof",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.396436,
+          43.6684036
+        ]
+      },
+      "id": "node/595495532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/595987870",
+        "amenity": "bar",
+        "name": "Vivid",
+        "note": "For movie theatre, overpriced"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3910357,
+          43.6488055
+        ]
+      },
+      "id": "node/595987870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/600645227",
+        "addr:housenumber": "285",
+        "addr:street": "Enfield Place",
+        "amenity": "bar",
+        "cuisine": "pancake;ice_cream;crepe;cake;coffee_shop",
+        "name": "Cafe Demetre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6356524,
+          43.5903604
+        ]
+      },
+      "id": "node/600645227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/803221914",
+        "addr:city": "Toronto",
+        "addr:housenumber": "837",
+        "addr:street": "Dundas Street West",
+        "amenity": "bar",
+        "name": "Dunas vídeo",
+        "source": "CanVec 6.0 - NRCan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.409483,
+          43.6514549
+        ]
+      },
+      "id": "node/803221914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/803230842",
+        "addr:city": "Toronto",
+        "addr:housenumber": "923",
+        "addr:postcode": "M6J 1W3",
+        "addr:street": "Dundas Street West",
+        "amenity": "bar",
+        "name": "Cocktail Bar",
+        "opening_hours": "Mo-Su 18:30-02:00",
+        "phone": "+1-416-792-7511",
+        "source": "CanVec 6.0 - NRCan",
+        "website": "http://hoofcocktailbar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4132602,
+          43.6506852
+        ]
+      },
+      "id": "node/803230842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/997790284",
+        "amenity": "bar",
+        "name": "On the Curve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6383614,
+          43.5937581
+        ]
+      },
+      "id": "node/997790284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1023038741",
+        "amenity": "bar",
+        "name": "Zodiac Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2687012,
+          43.7315396
+        ]
+      },
+      "id": "node/1023038741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1076446811",
+        "amenity": "bar",
+        "name": "Platform 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3516464,
+          43.8223313
+        ]
+      },
+      "id": "node/1076446811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125199935",
+        "amenity": "bar",
+        "name": "HY Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41128,
+          43.764187
+        ]
+      },
+      "id": "node/1125199935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1314646189",
+        "addr:city": "Markham",
+        "addr:housenumber": "3621",
+        "addr:postcode": "L3R 8X6",
+        "addr:province": "ON",
+        "addr:street": "Highway 7",
+        "amenity": "bar",
+        "capacity": "60",
+        "name": "St Louis Wings",
+        "opening_hours": "11:00-02:00",
+        "phone": "+1-905-604-7788",
+        "smoking": "outside",
+        "website": "http://www.stlouiswings.com/locations/ontario-north/markham/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3369639,
+          43.8542807
+        ]
+      },
+      "id": "node/1314646189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1367399729",
+        "amenity": "bar",
+        "created_by": "iLOE 1.9",
+        "name": "Sogo Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.288021,
+          43.783694
+        ]
+      },
+      "id": "node/1367399729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375313519",
+        "amenity": "bar",
+        "created_by": "iLOE 1.9",
+        "name": "Jingles Lounge & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.393584,
+          43.686178
+        ]
+      },
+      "id": "node/1375313519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1447779280",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1980",
+        "addr:postcode": "M4L 1J2",
+        "addr:street": "Queen Street East",
+        "amenity": "bar",
+        "name": "The Salty Dog",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3008034,
+          43.6700071
+        ]
+      },
+      "id": "node/1447779280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1516012530",
+        "amenity": "bar",
+        "name": "Occassions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.318211,
+          43.6733165
+        ]
+      },
+      "id": "node/1516012530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1641078054",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1468",
+        "addr:postcode": "M6C 1C6",
+        "addr:street": "Saint Clair Avenue West",
+        "amenity": "bar",
+        "name": "Castelo Sports Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4518816,
+          43.676224
+        ]
+      },
+      "id": "node/1641078054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1660067017",
+        "amenity": "bar",
+        "name": "Gate 403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4507328,
+          43.6509722
+        ]
+      },
+      "id": "node/1660067017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1660067046",
+        "amenity": "bar",
+        "name": "The Local"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4510239,
+          43.6510058
+        ]
+      },
+      "id": "node/1660067046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1755470033",
+        "amenity": "bar",
+        "created_by": "iLOE 1.9",
+        "name": "Café Chic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.425161,
+          43.825537
+        ]
+      },
+      "id": "node/1755470033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832667858",
+        "addr:housenumber": "2601",
+        "addr:street": "Rutherford Road",
+        "amenity": "bar",
+        "name": "Wegz Stadium Bar",
+        "opening_hours": "Su-We 11:00-24:00, Th 11:00-01:00, Fr,Sa 11:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.521406,
+          43.833143
+        ]
+      },
+      "id": "node/1832667858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1885527581",
+        "addr:city": "Etobicoke",
+        "addr:country": "CA",
+        "addr:housenumber": "2902",
+        "addr:province": "ON",
+        "addr:street": "Lake Shore Boulevard West",
+        "amenity": "bar",
+        "name": "Konrad Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5043789,
+          43.6011002
+        ]
+      },
+      "id": "node/1885527581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2151295440",
+        "amenity": "bar",
+        "name": "Ontario Spring Water Sake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3599549,
+          43.6498894
+        ]
+      },
+      "id": "node/2151295440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2286832916",
+        "amenity": "bar",
+        "name": "Bar Neon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4392633,
+          43.6591839
+        ]
+      },
+      "id": "node/2286832916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2295005012",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housename": "2nd floor",
+        "addr:housenumber": "489b",
+        "addr:postcode": "M4Y 2C6",
+        "addr:province": "ON",
+        "addr:street": "Church Street",
+        "amenity": "bar",
+        "name": "Pegasus on Church",
+        "website": "http://www.pegasusonchurch.com",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3805852,
+          43.6651247
+        ]
+      },
+      "id": "node/2295005012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2393229038",
+        "amenity": "bar",
+        "contact:email": "info@barvolo.com",
+        "name": "Bar Volo",
+        "opening_hours": "Mo-Th 0:00-2:00,14:00-24:00, Fr-Su 0:00-2:00,14:00-24:00",
+        "website": "http://barvolo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3848094,
+          43.6659656
+        ]
+      },
+      "id": "node/2393229038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410400053",
+        "amenity": "bar",
+        "name": "spacco restaurant bar/alleycatz Restaurant Jazz Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3989468,
+          43.7104268
+        ]
+      },
+      "id": "node/2410400053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2441896407",
+        "amenity": "bar",
+        "name": "Porto Novo Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4534488,
+          43.6760264
+        ]
+      },
+      "id": "node/2441896407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2441898139",
+        "amenity": "bar",
+        "name": "Ti Carlo's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4504536,
+          43.6765218
+        ]
+      },
+      "id": "node/2441898139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2473990957",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "60",
+        "addr:province": "ON",
+        "addr:street": "Yorkville Avenue",
+        "amenity": "bar",
+        "name": "d|bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.389953,
+          43.6715691
+        ]
+      },
+      "id": "node/2473990957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2479117050",
+        "amenity": "bar",
+        "name": "Thirty Bar & Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3812189,
+          43.6616217
+        ]
+      },
+      "id": "node/2479117050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2482519936",
+        "amenity": "bar",
+        "name": "Salutè Piano & Wine Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3909943,
+          43.6708502
+        ]
+      },
+      "id": "node/2482519936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2523425212",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housename": "10 Dundas",
+        "addr:housenumber": "10",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street East",
+        "amenity": "bar",
+        "name": "Shark Club Sports Bar Grill",
+        "source": "http://www.sharkclubs.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3805941,
+          43.6565439
+        ]
+      },
+      "id": "node/2523425212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2546385039",
+        "amenity": "bar",
+        "name": "TKO The Sports Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3232075,
+          43.6836159
+        ]
+      },
+      "id": "node/2546385039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2558957608",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "1608",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street West",
+        "amenity": "bar",
+        "name": "Bola Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4353546,
+          43.650044
+        ]
+      },
+      "id": "node/2558957608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2603690237",
+        "addr:city": "Toronto",
+        "addr:housenumber": "972",
+        "addr:street": "Danforth Avenue",
+        "amenity": "bar",
+        "name": "The Only Cafe",
+        "website": "http://www.theonlycafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3378399,
+          43.6804838
+        ]
+      },
+      "id": "node/2603690237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2603842762",
+        "addr:city": "Toronto",
+        "addr:housenumber": "923",
+        "addr:postcode": "M6J 1W3",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street West",
+        "amenity": "bar",
+        "name": "Black Hoof Cocktail Bar",
+        "phone": "+1 416 792 7511",
+        "website": "http://hoofcocktailbar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4132304,
+          43.6507099
+        ]
+      },
+      "id": "node/2603842762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2623084485",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "3030",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street West",
+        "amenity": "bar",
+        "name": "3030",
+        "website": "http://www.3030dundaswest.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4704103,
+          43.6656225
+        ]
+      },
+      "id": "node/2623084485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2681568487",
+        "amenity": "bar",
+        "name": "Ritz Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3869779,
+          43.6455571
+        ]
+      },
+      "id": "node/2681568487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721781504",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "17",
+        "addr:province": "ON",
+        "addr:street": "Church Street",
+        "amenity": "bar",
+        "name": "D. W. Alexander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3735482,
+          43.648248
+        ]
+      },
+      "id": "node/2721781504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2780209329",
+        "amenity": "bar",
+        "name": "Novo Horizonte Sports Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4296684,
+          43.6497499
+        ]
+      },
+      "id": "node/2780209329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2780221461",
+        "amenity": "bar",
+        "name": "New Açor Sports Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4133807,
+          43.6509715
+        ]
+      },
+      "id": "node/2780221461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2797903393",
+        "amenity": "bar",
+        "name": "Yakitori Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.392321,
+          43.6561136
+        ]
+      },
+      "id": "node/2797903393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2812100597",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "488",
+        "addr:province": "ON",
+        "addr:street": "College Street",
+        "amenity": "bar",
+        "name": "Snakes & Lagers Board Game Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4085589,
+          43.6561366
+        ]
+      },
+      "id": "node/2812100597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2832484299",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "190",
+        "addr:postcode": "M4G 3W2",
+        "addr:province": "ON",
+        "addr:street": "Laird Drive",
+        "amenity": "bar",
+        "name": "Fox and Fiddle",
+        "phone": "+1-416-467-8682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3638149,
+          43.710514
+        ]
+      },
+      "id": "node/2832484299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3297122349",
+        "amenity": "bar",
+        "name": "Char No. 5 Whisky Bar",
+        "opening_hours": "Mo 16:30-24:00; Tu-Th 00:00-01:00,16:30-24:00; Fr 16:00-24:00; Sa 00:00-02:00,16:00-24:00; Su 00:00-02:00",
+        "phone": "+1-416-637-5484",
+        "website": "https://www.deltahotels.com/Hotels/Delta-Toronto/Restaurants-Dining/Char-No.-5-Whisky-Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3839621,
+          43.6428808
+        ]
+      },
+      "id": "node/3297122349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3306925616",
+        "amenity": "bar",
+        "name": "Saxony Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3761802,
+          43.6710825
+        ]
+      },
+      "id": "node/3306925616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337040783",
+        "amenity": "bar",
+        "name": "PLAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3807491,
+          43.6429038
+        ]
+      },
+      "id": "node/3337040783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337181357",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "461",
+        "addr:postcode": "M5V 1K4",
+        "addr:province": "ON",
+        "addr:street": "King Street West",
+        "amenity": "bar",
+        "name": "SPiN",
+        "phone": "+1-416-599-7746",
+        "smoking": "no",
+        "website": "http://toronto.spingalactic.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3962082,
+          43.6443295
+        ]
+      },
+      "id": "node/3337181357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337210207",
+        "amenity": "bar",
+        "name": "The Calvin Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3805306,
+          43.6497018
+        ]
+      },
+      "id": "node/3337210207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370253300",
+        "amenity": "bar",
+        "name": "Bar Hop",
+        "opening_hours": "Mo-Su 12:00-02:00",
+        "website": "http://barhopbar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3935831,
+          43.6456142
+        ]
+      },
+      "id": "node/3370253300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475354263",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "554",
+        "addr:postcode": "M4X 1P7",
+        "addr:province": "ON",
+        "addr:street": "Parliament Street",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Alice's Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3692093,
+          43.6669064
+        ]
+      },
+      "id": "node/3475354263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3587012517",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "587",
+        "addr:postcode": "M5V 1M5",
+        "addr:province": "ON",
+        "addr:street": "King Street West",
+        "amenity": "bar",
+        "name": "Portland Variety",
+        "note": "This is NOT a convenience store",
+        "phone": "+1-416-368-5151",
+        "website": "http://portlandvariety.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4001695,
+          43.6442721
+        ]
+      },
+      "id": "node/3587012517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3587014129",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "569",
+        "addr:province": "ON",
+        "addr:street": "King Street West",
+        "amenity": "bar",
+        "name": "2 Cats Cocktail Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3994646,
+          43.6444211
+        ]
+      },
+      "id": "node/3587014129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3715706464",
+        "addr:city": "Toronto",
+        "addr:housenumber": "15",
+        "addr:postcode": "M5J 0A3",
+        "addr:province": "Ontario",
+        "addr:street": "York Street",
+        "amenity": "bar",
+        "name": "Corks",
+        "note": "Pub is located inside the Longo's grocery store",
+        "operator": "Longo's Brothers",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3809468,
+          43.6426978
+        ]
+      },
+      "id": "node/3715706464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3746122151",
+        "amenity": "bar",
+        "name": "V.I.P. Pool & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3012488,
+          43.7605345
+        ]
+      },
+      "id": "node/3746122151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3763305785",
+        "amenity": "bar",
+        "name": "Fossil and Haggis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1954533,
+          43.7902632
+        ]
+      },
+      "id": "node/3763305785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790946157",
+        "amenity": "bar",
+        "name": "Barchef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.400186,
+          43.648095
+        ]
+      },
+      "id": "node/3790946157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3888608280",
+        "addr:city": "Toronto",
+        "addr:housenumber": "467",
+        "addr:street": "Church Street",
+        "amenity": "bar",
+        "name": "Woody's",
+        "website": "http://woodystoronto.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3801019,
+          43.6642715
+        ]
+      },
+      "id": "node/3888608280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3993976407",
+        "amenity": "bar",
+        "name": "Habibi Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6432873,
+          43.7037825
+        ]
+      },
+      "id": "node/3993976407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4015266892",
+        "addr:city": "Toronto",
+        "addr:housenumber": "250",
+        "addr:province": "Ontario",
+        "addr:street": "Adelaide Street West",
+        "amenity": "bar",
+        "name": "Rock N' Horse",
+        "operator": "MRG",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3893253,
+          43.6477366
+        ]
+      },
+      "id": "node/4015266892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4015586067",
+        "addr:city": "Toronto",
+        "addr:housenumber": "552",
+        "addr:postcode": "M4X 1P8",
+        "addr:province": "Ontario",
+        "addr:street": "Parliament Street",
+        "amenity": "bar",
+        "name": "Cabbagetown Brew",
+        "opening_hours": "Fr 09:00-21:00; Sa 09:00-19:00; Su 09:00-19:00; Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00",
+        "phone": "+1-416-353-5551",
+        "website": "http://www.cabbagetownbrew.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.369179,
+          43.6668467
+        ]
+      },
+      "id": "node/4015586067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4015586073",
+        "addr:city": "Toronto",
+        "addr:housenumber": "51",
+        "addr:postcode": "M4X 1P3",
+        "addr:province": "ON",
+        "addr:street": "Winchester Street",
+        "amenity": "bar",
+        "name": "Planet Paradise",
+        "opening_hours": "Mo-Su 12:00-1:00",
+        "phone": "+1 647 346 0710",
+        "website": "http://www.theplanetparadise.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3680644,
+          43.6658865
+        ]
+      },
+      "id": "node/4015586073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4015701350",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "401",
+        "addr:province": "ON",
+        "addr:street": "King Street West",
+        "amenity": "bar",
+        "name": "Bloke",
+        "website": "http://www.bloketoronto.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.394175,
+          43.645511
+        ]
+      },
+      "id": "node/4015701350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4035832189",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1181",
+        "addr:postcode": "M6H 1Y3",
+        "addr:province": "Ontario",
+        "addr:street": "Dundas Street West",
+        "amenity": "bar",
+        "name": "Get Well",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "phone": "+1-647-351-2337",
+        "smoking": "outside",
+        "website": "http://getwellbar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4219338,
+          43.6492599
+        ]
+      },
+      "id": "node/4035832189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158506194",
+        "amenity": "bar",
+        "name": "Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4030441,
+          43.6566189
+        ]
+      },
+      "id": "node/4158506194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4192033189",
+        "addr:housenumber": "537",
+        "addr:street": "College Street",
+        "amenity": "bar",
+        "name": "Mullins Irish Pub (College St)",
+        "opening_hours": "Mo-Su 11:00-02:00",
+        "phone": "+1-416-972-6859",
+        "website": "http://mullinspub.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4114981,
+          43.6555418
+        ]
+      },
+      "id": "node/4192033189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228224273",
+        "addr:city": "Toronto",
+        "addr:housenumber": "158",
+        "addr:postcode": "M5T 2L5",
+        "addr:province": "ON",
+        "addr:street": "Augusta Avenue",
+        "amenity": "bar",
+        "name": "The Boat",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4015641,
+          43.6529415
+        ]
+      },
+      "id": "node/4228224273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228284102",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1v1",
+        "addr:postcode": "M6J 1V1",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street West",
+        "amenity": "bar",
+        "name": "Hard Luck",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4075349,
+          43.6521206
+        ]
+      },
+      "id": "node/4228284102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4251248990",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "15",
+        "addr:province": "ON",
+        "addr:street": "Mercer Street",
+        "amenity": "bar",
+        "name": "Maison Mercer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3906963,
+          43.645593
+        ]
+      },
+      "id": "node/4251248990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4267064093",
+        "addr:city": "Toronto",
+        "addr:housenumber": "488",
+        "addr:province": "ON",
+        "addr:street": "College Street",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "PointBar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4095284,
+          43.6562675
+        ]
+      },
+      "id": "node/4267064093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4277492304",
+        "amenity": "bar",
+        "name": "Eat My Martini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4160525,
+          43.6551444
+        ]
+      },
+      "id": "node/4277492304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336290289",
+        "addr:housenumber": "159",
+        "addr:street": "Augusta Avenue",
+        "amenity": "bar",
+        "name": "Handlebar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4012412,
+          43.6528158
+        ]
+      },
+      "id": "node/4336290289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4345159520",
+        "addr:city": "Toronto",
+        "addr:housenumber": "9390",
+        "addr:street": "Sheppard Avenue East",
+        "amenity": "bar",
+        "name": "Red Fox Bar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1761861,
+          43.8074647
+        ]
+      },
+      "id": "node/4345159520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4352578097",
+        "amenity": "bar",
+        "name": "The Hideout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.400851,
+          43.648743
+        ]
+      },
+      "id": "node/4352578097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4362723894",
+        "amenity": "bar",
+        "name": "3 Brewers Adelaide",
+        "name:en": "3 Brewers Adelaide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3833789,
+          43.6499558
+        ]
+      },
+      "id": "node/4362723894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4362779892",
+        "addr:housenumber": "21",
+        "addr:street": "Adelaide Street West",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Speakeasy21",
+        "name:en": "Speakeasy21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3798026,
+          43.6499301
+        ]
+      },
+      "id": "node/4362779892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462028721",
+        "addr:city": "Toronto",
+        "addr:housenumber": "133",
+        "addr:postcode": "M5R 1C4",
+        "addr:province": "Ontario",
+        "addr:street": "Yorkville Avenue",
+        "amenity": "bar",
+        "cuisine": "italian",
+        "name": "Cibo Wine Bar",
+        "opening_hours": "11:30+",
+        "website": "http://www.cibowinebar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3940453,
+          43.6704113
+        ]
+      },
+      "id": "node/4462028721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4569869566",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "859",
+        "addr:place": "H Bar",
+        "addr:postcode": "M6J 1G4",
+        "addr:province": "ON",
+        "addr:street": "Queen Street West",
+        "amenity": "bar",
+        "name": "H Bar",
+        "opening_hours": "Sunday 11:00 –23:00, Monday 12:00 – 23:00, Tuesday 12:00 – 23:59, Wednesday 12:00 – 23:59, Thursday 12:00 – 23:59, Friday 12:00 – 23:59, Saturday 11:00 – 02:00",
+        "phone": "+1-647-352-4227",
+        "website": "hbartoronto.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4104527,
+          43.6457595
+        ]
+      },
+      "id": "node/4569869566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4606835791",
+        "addr:city": "Toronto",
+        "addr:street": "1296 Queen St. West",
+        "amenity": "bar",
+        "name": "Cadillac Lounge",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.cadillaclounge.com",
+        "wheelchair": "limited",
+        "wheelchair:description": "Staff need notice to open side door which is wheelchair accessible."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4306974,
+          43.641939
+        ]
+      },
+      "id": "node/4606835791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4636332137",
+        "addr:city": "Toronto",
+        "addr:housenumber": "178",
+        "addr:province": "ON",
+        "addr:street": "Bathurst Street",
+        "amenity": "bar",
+        "name": "The Paddock Traven",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4041073,
+          43.6469256
+        ]
+      },
+      "id": "node/4636332137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4802815497",
+        "amenity": "bar",
+        "name": "Bass Line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4246336,
+          43.6620303
+        ]
+      },
+      "id": "node/4802815497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4802823864",
+        "amenity": "bar",
+        "name": "Civil Liberties"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4252129,
+          43.6622195
+        ]
+      },
+      "id": "node/4802823864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4817041734",
+        "alt_name": "Cliniton's Tavern",
+        "amenity": "bar",
+        "name": "Cliniton's",
+        "website": "http://www.clintons.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4173266,
+          43.6636643
+        ]
+      },
+      "id": "node/4817041734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4818159674",
+        "addr:housenumber": "881",
+        "addr:street": "Bloor Street West",
+        "amenity": "bar",
+        "name": "Monica's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4252307,
+          43.6619528
+        ]
+      },
+      "id": "node/4818159674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4818159683",
+        "addr:housenumber": "937",
+        "addr:street": "Bloor Street West",
+        "amenity": "bar",
+        "name": "The Piston",
+        "website": "https://www.thepiston.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4276085,
+          43.6614182
+        ]
+      },
+      "id": "node/4818159683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4857481524",
+        "addr:housenumber": "488",
+        "addr:street": "Wellington Street West",
+        "amenity": "bar",
+        "name": "The Cloak Bar",
+        "name:en": "The Cloak Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.398516,
+          43.6431998
+        ]
+      },
+      "id": "node/4857481524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4857481525",
+        "addr:housenumber": "12",
+        "addr:street": "Kensington Avenue",
+        "amenity": "bar",
+        "fixme": "position",
+        "name": "Last Temptation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4001497,
+          43.6528969
+        ]
+      },
+      "id": "node/4857481525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4857500921",
+        "addr:housenumber": "15",
+        "addr:street": "Mercer Street",
+        "amenity": "bar",
+        "name": "Odd Thomas",
+        "name:en": "Odd Thomas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3908808,
+          43.6455505
+        ]
+      },
+      "id": "node/4857500921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4886819776",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housename": "Stones Place",
+        "addr:housenumber": "1255",
+        "addr:place": "Stones Place",
+        "addr:street": "Queen St W",
+        "amenity": "bar",
+        "name": "Stones Place",
+        "website": "http://stonesplace.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4308361,
+          43.641648
+        ]
+      },
+      "id": "node/4886819776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4908556321",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4155427,
+          43.8805224
+        ]
+      },
+      "id": "node/4908556321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919962390",
+        "amenity": "bar",
+        "name": "The Dock Ellis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4254313,
+          43.6496191
+        ]
+      },
+      "id": "node/4919962390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919964045",
+        "amenity": "bar",
+        "name": "Northwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4221266,
+          43.6626257
+        ]
+      },
+      "id": "node/4919964045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919964046",
+        "amenity": "bar",
+        "name": "Apropos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6117943,
+          43.6792564
+        ]
+      },
+      "id": "node/4919964046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937750713",
+        "amenity": "bar",
+        "name": "Glamour Sports Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4532339,
+          43.675923
+        ]
+      },
+      "id": "node/4937750713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937750714",
+        "amenity": "bar",
+        "name": "O Espeta Bar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45382,
+          43.6759449
+        ]
+      },
+      "id": "node/4937750714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4962969727",
+        "addr:city": "Toronto",
+        "addr:housenumber": "360",
+        "addr:postcode": "M5B 1S5",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "alt_name": "Bar Plus Karaoke Lounge",
+        "alt_name_1": "Barplus Karaoke Lounge",
+        "amenity": "bar",
+        "level": "2",
+        "name": "Bar+ Karaoke Lounge",
+        "opening_hours": "Su-Th 17:00-03:00, Fr-Sa 15:00-03:00",
+        "outdoor_seating": "no",
+        "phone": "+1-416-340-7154",
+        "smoking": "outside",
+        "website": "https://bar-plus.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3819746,
+          43.6582949
+        ]
+      },
+      "id": "node/4962969727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4966971103",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "205",
+        "addr:postcode": "M9W 5L7",
+        "addr:province": "ON",
+        "addr:street": "Humber College Boulevard",
+        "amenity": "bar",
+        "name": "LINX Lounge",
+        "opening_hours": "Mo-We 10:00-20:00; Th 10:00-02:00; Fr 10:00-18:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-416-675-5003",
+        "smoking": "no",
+        "website": "http://linxlounge.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6092145,
+          43.7274518
+        ]
+      },
+      "id": "node/4966971103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5020901822",
+        "addr:housenumber": "582",
+        "addr:street": "College Street",
+        "amenity": "bar",
+        "name": "Bar italia",
+        "name:fr": "Bar italia",
+        "phone": "+1-416-535-3621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4132624,
+          43.6554494
+        ]
+      },
+      "id": "node/5020901822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5120625022",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housename": "Tequila Bookworm",
+        "addr:housenumber": "512",
+        "addr:place": "Tequila Bookworm",
+        "addr:postcode": "M5V 2B3",
+        "addr:province": "ON",
+        "addr:street": "Queen St W",
+        "amenity": "bar",
+        "name": "Tequila Bookworm",
+        "phone": "+1-416-504-2334",
+        "toilets:wheelchair": "no",
+        "website": "tequilabookworm.ca",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.401579,
+          43.647811
+        ]
+      },
+      "id": "node/5120625022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5150012804",
+        "amenity": "bar",
+        "cuisine": "canadian;indian",
+        "name": "Toronto Style!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4531626,
+          43.6563341
+        ]
+      },
+      "id": "node/5150012804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5155596525",
+        "amenity": "bar",
+        "name": "CODA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4114538,
+          43.665324
+        ]
+      },
+      "id": "node/5155596525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166314128",
+        "amenity": "bar",
+        "name": "The Cork & Well",
+        "name:it": "The Cork & Well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6238451,
+          43.6850036
+        ]
+      },
+      "id": "node/5166314128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166314137",
+        "amenity": "bar",
+        "name": "Booster Juice",
+        "name:it": "Booster Juice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6193831,
+          43.6847786
+        ]
+      },
+      "id": "node/5166314137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166409222",
+        "amenity": "bar",
+        "name": "Vinifera",
+        "name:it": "Vinifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6206553,
+          43.6824754
+        ]
+      },
+      "id": "node/5166409222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166409226",
+        "amenity": "bar",
+        "name": "Beerhive",
+        "name:it": "Beerhive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.619857,
+          43.6849565
+        ]
+      },
+      "id": "node/5166409226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166414321",
+        "amenity": "bar",
+        "name": "Ice",
+        "name:it": "Ice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6202527,
+          43.6825046
+        ]
+      },
+      "id": "node/5166414321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166414323",
+        "amenity": "bar",
+        "name": "Corso",
+        "name:it": "Corso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6201671,
+          43.6836358
+        ]
+      },
+      "id": "node/5166414323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166414521",
+        "amenity": "bar",
+        "name": "Acer",
+        "name:it": "Acer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6201762,
+          43.6823649
+        ]
+      },
+      "id": "node/5166414521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5181200156",
+        "amenity": "bar",
+        "name": "Mua Bui Karaoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4830002,
+          43.6696228
+        ]
+      },
+      "id": "node/5181200156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5220252166",
+        "amenity": "bar",
+        "name": "Georgy Porgy's Grill & Bar",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3147393,
+          43.7419014
+        ]
+      },
+      "id": "node/5220252166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5227330670",
+        "addr:city": "Toronto",
+        "addr:housenumber": "69",
+        "addr:postcode": "M5V 2P6",
+        "addr:province": "ON",
+        "addr:street": "Bathurst Street",
+        "amenity": "bar",
+        "description": "An inclusive community hub for entrepreneurs and creatives where work fuses with play.",
+        "email": "guest@lovechildsocial.com",
+        "name": "Love Child Social House",
+        "opening_hours": "Su-We 08:00-19:00, Th-Sa 08:00-03:00",
+        "operator": "Love Child Inc",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "website": "www.lovechildsocial.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4022578,
+          43.6434734
+        ]
+      },
+      "id": "node/5227330670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5270939321",
+        "addr:housenumber": "242",
+        "addr:postcode": "M4L 3B2",
+        "addr:street": "Coxwell Avenue",
+        "amenity": "bar",
+        "name": "Godspeed Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3194964,
+          43.6727326
+        ]
+      },
+      "id": "node/5270939321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5278953021",
+        "addr:housenumber": "1554",
+        "addr:postcode": "M6R 1A6",
+        "addr:street": "Queen Street West",
+        "amenity": "bar",
+        "name": "Tennessee Tavern",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "phone": "+1-416-535-7777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4401569,
+          43.6400087
+        ]
+      },
+      "id": "node/5278953021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5328579421",
+        "addr:housenumber": "1070",
+        "addr:postcode": "M6J 1H8",
+        "addr:street": "Queen Street West",
+        "amenity": "bar",
+        "name": "Bar Fancy",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "phone": "+1-416-546-1416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.421448,
+          43.6437915
+        ]
+      },
+      "id": "node/5328579421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5364588121",
+        "addr:housenumber": "150",
+        "addr:postcode": "M6N 3T1",
+        "addr:street": "Symes Road",
+        "amenity": "bar",
+        "email": "info@junctioncraft.com",
+        "name": "Junction Craft Brewing",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+1-416-766-1616",
+        "website": "http://junctioncraft.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47909,
+          43.6738232
+        ]
+      },
+      "id": "node/5364588121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5401926921",
+        "addr:city": "Toronto",
+        "addr:housenumber": "197",
+        "addr:street": "Baldwin Street",
+        "amenity": "bar",
+        "name": "Thirsty and Miserable",
+        "phone": "+1-647-607-0134",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.401552,
+          43.6545022
+        ]
+      },
+      "id": "node/5401926921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5426885823",
+        "addr:city": "Toronto",
+        "addr:housenumber": "693",
+        "addr:street": "Bloor Street West",
+        "amenity": "bar",
+        "name": "Clinton's",
+        "phone": "+1-416-535-9541",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4173007,
+          43.6636069
+        ]
+      },
+      "id": "node/5426885823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5427126422",
+        "addr:city": "Toronto",
+        "addr:housenumber": "12",
+        "addr:street": "Clinton Street",
+        "amenity": "bar",
+        "name": "Monarch Tavern",
+        "phone": "+1-416-531-5833",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.413524,
+          43.6540174
+        ]
+      },
+      "id": "node/5427126422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5431808521",
+        "addr:city": "Toronto",
+        "addr:housenumber": "573",
+        "addr:street": "College Street",
+        "amenity": "bar",
+        "name": "Ted's Collision and Body Repair",
+        "phone": "+1-416-530-7569",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4129996,
+          43.6552591
+        ]
+      },
+      "id": "node/5431808521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5438074421",
+        "addr:city": "Toronto",
+        "addr:housenumber": "561",
+        "addr:street": "Danforth Avenue",
+        "amenity": "bar",
+        "name": "St. Louis Bar & Grill",
+        "phone": "+1-647-351-1112",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3470402,
+          43.678372
+        ]
+      },
+      "id": "node/5438074421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5438158321",
+        "addr:city": "Toronto",
+        "addr:housenumber": "729",
+        "addr:street": "Danforth Avenue",
+        "amenity": "bar",
+        "name": "Gabby's",
+        "phone": "+1-416-405-8100",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.343027,
+          43.6791974
+        ]
+      },
+      "id": "node/5438158321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5438173121",
+        "addr:city": "Toronto",
+        "addr:housenumber": "748",
+        "addr:street": "Broadview Ave",
+        "amenity": "bar",
+        "name": "Si Espresso Bar",
+        "phone": "+1-416-463-5550",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3586862,
+          43.6757929
+        ]
+      },
+      "id": "node/5438173121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5438222121",
+        "addr:city": "Toronto",
+        "addr:housenumber": "774",
+        "addr:street": "Danforth Avenue",
+        "amenity": "bar",
+        "name": "Legends Sports Lounge",
+        "phone": "+1-416-901-1022",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3421001,
+          43.6796274
+        ]
+      },
+      "id": "node/5438222121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5440185422",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2183",
+        "addr:street": "Danforth Avenue",
+        "amenity": "bar",
+        "name": "Time Capsule Board Game Cafe",
+        "phone": "+1-416-666-8875",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3100465,
+          43.6861588
+        ]
+      },
+      "id": "node/5440185422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5443306421",
+        "addr:city": "Toronto",
+        "addr:housenumber": "876",
+        "addr:street": "Dundas Street West",
+        "amenity": "bar",
+        "name": "May",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41138,
+          43.6513473
+        ]
+      },
+      "id": "node/5443306421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5446279521",
+        "addr:city": "Toronto",
+        "addr:housenumber": "667",
+        "addr:street": "King Street West",
+        "amenity": "bar",
+        "name": "Wheat Sheaf Tavern",
+        "phone": "+1-416-504-9912",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.402851,
+          43.6437493
+        ]
+      },
+      "id": "node/5446279521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5448489221",
+        "addr:city": "Toronto",
+        "addr:housenumber": "69",
+        "addr:street": "Nassau Street",
+        "amenity": "bar",
+        "name": "Ronnie's Local 069",
+        "phone": "+1-416-340-1110",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40251,
+          43.6550528
+        ]
+      },
+      "id": "node/5448489221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5452217107",
+        "addr:city": "Toronto",
+        "addr:housenumber": "107",
+        "addr:province": "ON",
+        "addr:street": "Danforth Avenue",
+        "amenity": "bar",
+        "name": "The Edmund Burke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3581164,
+          43.6761864
+        ]
+      },
+      "id": "node/5452217107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457306331",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1980",
+        "addr:street": "Queen Street East",
+        "amenity": "bar",
+        "name": "Salty Dog Bar + Grill",
+        "phone": "+1-416-849-5064",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3007783,
+          43.6699891
+        ]
+      },
+      "id": "node/5457306331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457513121",
+        "addr:city": "Toronto",
+        "addr:housenumber": "686",
+        "addr:street": "Queen Street East",
+        "amenity": "bar",
+        "name": "Aft Kitchen & Bar",
+        "phone": "+1-647-346-1541",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3506777,
+          43.6588233
+        ]
+      },
+      "id": "node/5457513121"
+    }
+  ]
+}

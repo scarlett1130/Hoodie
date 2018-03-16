@@ -1,0 +1,1527 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-12T22:35:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/54965547",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "327",
+        "addr:province": "ON",
+        "addr:street": "Bathurst Street",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Sanderson",
+        "opendata:type": "107009",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.405463,
+          43.6521007
+        ]
+      },
+      "id": "node/54965547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/158712789",
+        "alt_name": "Davenport Public Library",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Davenport Branch",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4283501,
+          43.6746638
+        ]
+      },
+      "id": "node/158712789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277139349",
+        "addr:city": "East York",
+        "addr:country": "CA",
+        "addr:housenumber": "48",
+        "addr:province": "ON",
+        "addr:street": "Thorncliffe Park Drive",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Thorncliffe Branch",
+        "opendata:type": "107009",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3425925,
+          43.7029518
+        ]
+      },
+      "id": "node/277139349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279677537",
+        "addr:city": "East York",
+        "addr:country": "CA",
+        "addr:housenumber": "416",
+        "addr:province": "ON",
+        "addr:street": "Dawes Road",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Dawes Road",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2972467,
+          43.7012177
+        ]
+      },
+      "id": "node/279677537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291954268",
+        "addr:city": "Toronto",
+        "addr:housenumber": "40",
+        "addr:postcode": "M4R 1B9",
+        "addr:province": "ON",
+        "addr:street": "Orchard View Boulevard",
+        "amenity": "library",
+        "hst_number": "873275499RT0001",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Northern District Library",
+        "operator": "Toronto Public Library",
+        "phone": "+1-416-393-7610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4000683,
+          43.7083798
+        ]
+      },
+      "id": "node/291954268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321551783",
+        "amenity": "library",
+        "name": "Thornhill Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3999182,
+          43.8195071
+        ]
+      },
+      "id": "node/321551783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344352917",
+        "amenity": "library",
+        "college": "University College",
+        "name": "Laidlaw Library",
+        "operator": "University of Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3958201,
+          43.6632524
+        ]
+      },
+      "id": "node/344352917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344352924",
+        "amenity": "library",
+        "name": "John W. Graham Library",
+        "operator": "Trinity College, University of Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3964653,
+          43.6650721
+        ]
+      },
+      "id": "node/344352924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/349203862",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "5120",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "North York Central Library",
+        "opendata:type": "107009",
+        "opening_hours": "Mo-Fr 9:00-20:30; Sa 9:00-17:00; Su 13:30-17:00",
+        "operator": "Toronto Public Library",
+        "website": "www.torontopubliclibrary.ca",
+        "wikidata": "Q7057444",
+        "wikipedia": "en:North York Central Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4147988,
+          43.7681311
+        ]
+      },
+      "id": "node/349203862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371732150",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "2900",
+        "addr:province": "ON",
+        "addr:street": "Warden Avenue",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Bridlewood",
+        "opendata:type": "107009",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3192542,
+          43.7992424
+        ]
+      },
+      "id": "node/371732150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/380027517",
+        "addr:city": "Toronto",
+        "addr:housenumber": "495",
+        "addr:province": "ON",
+        "addr:street": "Sherbourne Street",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - St. James' Town",
+        "opening_hours": "Tu,Th 12:30-20:30; Mo,Fr 10:00-18:00; Sa 10:00-17:00",
+        "operator": "Toronto Public Library",
+        "phone": "+1-416-393-7744"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3742632,
+          43.6673836
+        ]
+      },
+      "id": "node/380027517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/380040875",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "171",
+        "addr:province": "ON",
+        "addr:street": "Front Street East",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - St. Lawrence",
+        "operator": "Toronto Public Library",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3684534,
+          43.6499639
+        ]
+      },
+      "id": "node/380040875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/382988939",
+        "addr:city": "Markham",
+        "addr:housenumber": "6031",
+        "addr:postcode": "L3P 3A7",
+        "addr:province": "ON",
+        "addr:street": "Highway 7",
+        "amenity": "library",
+        "email": "LRucchetto@markham.library.on.ca",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Public",
+        "name": "Markham Village Public Library",
+        "opening_hours": "Mo-Th 9:30-21:00, Fr 9:30-17:00, Sa 9:00-17:00, Su 1:00-5:00,",
+        "operator": "Markham Public Library",
+        "phone": "+1-905-513-7977",
+        "website": "https://www.markham.ca/wps/portal/Markham/RecreationCulture/Library/AboutTheLibrary/BranchesAndHours/MarkhamVillage",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.258652,
+          43.8732677
+        ]
+      },
+      "id": "node/382988939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/390360251",
+        "addr:city": "North York",
+        "addr:housenumber": "2901",
+        "addr:province": "ON",
+        "addr:street": "Bayview Avenue",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bayview Public Library",
+        "note": "closed sun-mon",
+        "opendata:type": "107009",
+        "operator": "Toronto Public Library",
+        "phone": "+1-416-395-5460",
+        "website": "http://www.torontopubliclibrary.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3848826,
+          43.7685073
+        ]
+      },
+      "id": "node/390360251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/392146011",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Todmorden Room",
+        "operator": "Toronto Public Library",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3494163,
+          43.6916206
+        ]
+      },
+      "id": "node/392146011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495884112",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Guildwood",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1996733,
+          43.7468707
+        ]
+      },
+      "id": "node/495884112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/544671711",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Armour Heights",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4217072,
+          43.7392676
+        ]
+      },
+      "id": "node/544671711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/557784661",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "95",
+        "addr:province": "ON",
+        "addr:street": "Lavinia Avenue",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Swansea Memorial",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4778706,
+          43.6476015
+        ]
+      },
+      "id": "node/557784661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/600243439",
+        "amenity": "library",
+        "name": "Piere Burton Resource Library",
+        "operator": "Vaughan Public Libraries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.595937,
+          43.8174992
+        ]
+      },
+      "id": "node/600243439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/647621883",
+        "addr:city": "Toronto",
+        "addr:housenumber": "701",
+        "addr:street": "Pape Avenue",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Pape Danforth Public Library",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3445463,
+          43.6784828
+        ]
+      },
+      "id": "node/647621883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/658419968",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1432",
+        "addr:postcode": "M4L 1Z6",
+        "addr:province": "ON",
+        "addr:street": "Gerrard Street East",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Gerrard/Ashdale Library",
+        "operator": "Toronto Public Library",
+        "phone": "+1-416-393-7717",
+        "website": "http://www.torontopubliclibrary.ca/hou_az_ge.jsp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3220909,
+          43.6724724
+        ]
+      },
+      "id": "node/658419968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/760747792",
+        "amenity": "library",
+        "name": "Regis College Library",
+        "operator": "University of Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3901445,
+          43.6639023
+        ]
+      },
+      "id": "node/760747792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/766976287",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "20",
+        "addr:province": "ON",
+        "addr:street": "Willcocks Street",
+        "amenity": "library",
+        "name": "New College Library",
+        "operator": "New College, University of Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4001637,
+          43.6617897
+        ]
+      },
+      "id": "node/766976287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/822251784",
+        "amenity": "library",
+        "name": "University of Toronto at Scarborough Library",
+        "name:ta": "ரொறன்ரோ பல்கலைக்கழகம் - இசுகார்புரோ வளாக நூலகம்",
+        "operator": "University of Toronto Scarborough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1863453,
+          43.7838442
+        ]
+      },
+      "id": "node/822251784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848371910",
+        "addr:city": "Markham",
+        "addr:housenumber": "7600",
+        "addr:street": "Kennedy Road",
+        "amenity": "library",
+        "name": "Milliken Mills Library",
+        "operator": "Markham Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3050951,
+          43.8396267
+        ]
+      },
+      "id": "node/848371910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/862559309",
+        "addr:city": "Toronto",
+        "addr:housenumber": "252",
+        "addr:postcode": "M5S 1V6",
+        "addr:province": "ON",
+        "addr:street": "Bloor Street West",
+        "amenity": "library",
+        "name": "OISE Library",
+        "note": "The OISE Library belongs to Ontario Institution for Study of Education",
+        "operator": "University of Toronto",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3985772,
+          43.6683064
+        ]
+      },
+      "id": "node/862559309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874496269",
+        "addr:housenumber": "2380",
+        "addr:postcode": "M1K 2P3",
+        "addr:street": "Eglinton Avenue East",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Kennedy/Eglinton",
+        "operator": "Toronto Public Library",
+        "phone": "+1-416-396-8924",
+        "source": "survey",
+        "website": "http://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMLIB138&R=LIB138",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2704268,
+          43.7322688
+        ]
+      },
+      "id": "node/874496269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/938166471",
+        "amenity": "library",
+        "name": "Engineering Library",
+        "operator": "University of Toronto",
+        "source": "approx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3949804,
+          43.6601686
+        ]
+      },
+      "id": "node/938166471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112049841",
+        "amenity": "library",
+        "name": "Osgoode Hall Library",
+        "operator": "York University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.504089,
+          43.77103
+        ]
+      },
+      "id": "node/1112049841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1153342892",
+        "amenity": "library",
+        "name": "Joseph L. Rotman Library",
+        "operator": "University of Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3985,
+          43.665098
+        ]
+      },
+      "id": "node/1153342892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1172146540",
+        "amenity": "library",
+        "name": "Mississauga Valley Branch Library",
+        "operator": "Mississauga Library System"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6242336,
+          43.5970331
+        ]
+      },
+      "id": "node/1172146540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1219703142",
+        "addr:city": "Toronto",
+        "addr:housenumber": "700",
+        "addr:street": "Eglinton Avenue West",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Forest Hill",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.420661,
+          43.702236
+        ]
+      },
+      "id": "node/1219703142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1302306758",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "599",
+        "addr:province": "ON",
+        "addr:street": "Mount Pleasant Road",
+        "alt_name": "Mount Pleasant",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library Mount Pleasant Branch",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3881996,
+          43.7039289
+        ]
+      },
+      "id": "node/1302306758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329964658",
+        "addr:city": "Toronto",
+        "addr:housenumber": "766",
+        "addr:province": "ON",
+        "addr:street": "College Street",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - College / Shaw",
+        "opening_hours": "Mo 10:00-20:30; Tu 12:30-20:30; We 10:00-18:00; Th 12:30-20:30; Fr 10:00-18:00; Sa 9:00-17:00; Su off",
+        "operator": "Toronto Public Library",
+        "phone": "+1-416-393-7668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.420111,
+          43.6550781
+        ]
+      },
+      "id": "node/1329964658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1565428920",
+        "addr:city": "Toronto",
+        "addr:housenumber": "137",
+        "addr:street": "Main Street",
+        "amenity": "library",
+        "designation": "Main Street branch, Toronto Public Library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Main Street Library",
+        "operator": "Toronto Public Library",
+        "source": "http://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMLIB062&R=LIB062",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2994443,
+          43.6834165
+        ]
+      },
+      "id": "node/1565428920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769482732",
+        "addr:city": "Mississauga",
+        "addr:housenumber": "3650",
+        "addr:street": "Dixie Road",
+        "amenity": "library",
+        "name": "Burnhamthorpe Library",
+        "operator": "Mississauga Library System"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6030751,
+          43.6211321
+        ]
+      },
+      "id": "node/1769482732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2143284305",
+        "amenity": "library",
+        "name": "Emmanuel College Library",
+        "operator": "University of Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3926981,
+          43.666578
+        ]
+      },
+      "id": "node/2143284305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2143434330",
+        "amenity": "library",
+        "name": "Hart House Library",
+        "operator": "University of Toronto",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3947865,
+          43.663612
+        ]
+      },
+      "id": "node/2143434330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2159618485",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - New Toronto Branch",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5096039,
+          43.599049
+        ]
+      },
+      "id": "node/2159618485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2160319554",
+        "addr:city": "Etobicoke",
+        "addr:country": "CA",
+        "addr:housenumber": "2",
+        "addr:province": "ON",
+        "addr:street": "Orianna Drive",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Alderwood Public Library",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5473673,
+          43.601598
+        ]
+      },
+      "id": "node/2160319554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2203975941",
+        "amenity": "library",
+        "name": "Dufferin Clark Public Library",
+        "operator": "Vaughan Public Libraries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4716068,
+          43.7968738
+        ]
+      },
+      "id": "node/2203975941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345177399",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "1081",
+        "addr:postcode": "M1B 5Z6",
+        "addr:street": "Progress Avenue",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library Burrows Hall Branch",
+        "operator": "Toronto Public Library",
+        "phone": "+1 416-396-8740",
+        "website": "http://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMLIB030&R=LIB030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2343514,
+          43.794133
+        ]
+      },
+      "id": "node/2345177399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345177400",
+        "amenity": "library",
+        "layer": "1",
+        "name": "Richard Charles Lee Resource Centre",
+        "name:zh": "利銘澤資訊中心",
+        "note": "Very small special library belonging to the Chinese Cultural Centre of Greater Toronto that is open to the public",
+        "operator": "Chinese Cultural Centre of Greater Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2339223,
+          43.7943847
+        ]
+      },
+      "id": "node/2345177400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345304440",
+        "amenity": "library",
+        "layer": "1",
+        "name": "Dorothy H. Hoover Library",
+        "operator": "OCAD University",
+        "website": "http://www.ocadu.ca/library.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3900504,
+          43.6533748
+        ]
+      },
+      "id": "node/2345304440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345869570",
+        "addr:city": "Etobicoke",
+        "addr:country": "CA",
+        "addr:housenumber": "1515",
+        "addr:province": "ON",
+        "addr:street": "Albion Road",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Albion Public Library",
+        "opendata:type": "107009",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5841715,
+          43.7398615
+        ]
+      },
+      "id": "node/2345869570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345869576",
+        "addr:city": "Etobicoke",
+        "addr:country": "CA",
+        "addr:housenumber": "1513",
+        "addr:province": "ON",
+        "addr:street": "Albion Road",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "opendata:type": "107009",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5838095,
+          43.7398045
+        ]
+      },
+      "id": "node/2345869576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2348626187",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "375",
+        "addr:street": "Bamburgh Circle",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Steeles Public Library",
+        "opendata:type": "107009",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3222893,
+          43.8157711
+        ]
+      },
+      "id": "node/2348626187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2478475864",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "City Hall Library",
+        "opening_hours": "Mo-Fr; Sa-Su off",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3832344,
+          43.65313
+        ]
+      },
+      "id": "node/2478475864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2535697014",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1748",
+        "addr:street": "Street Clair Avenue West",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "St. Clair Silverthorn Public Library",
+        "opendata:type": "107009",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.460672,
+          43.6743469
+        ]
+      },
+      "id": "node/2535697014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2536958379",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "16",
+        "addr:province": "ON",
+        "addr:street": "Bradstock Road",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Woodview Park Public Library",
+        "opendata:type": "107009",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5385514,
+          43.7393833
+        ]
+      },
+      "id": "node/2536958379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2536973513",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "2977",
+        "addr:province": "ON",
+        "addr:street": "Kingston Road",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Cliffcrest",
+        "opendata:type": "107009",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2304786,
+          43.7256046
+        ]
+      },
+      "id": "node/2536973513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2767009824",
+        "amenity": "library",
+        "name": "Ansley Grove Library",
+        "operator": "Vaughan Public Libraries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5635387,
+          43.795875
+        ]
+      },
+      "id": "node/2767009824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2795494063",
+        "addr:housenumber": "295",
+        "addr:street": "Alton Towers Circle",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Goldhawk Park",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.277979,
+          43.8241124
+        ]
+      },
+      "id": "node/2795494063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2801716666",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "190",
+        "addr:province": "ON",
+        "addr:street": "Fort York Boulevard",
+        "amenity": "library",
+        "name": "Toronto Public Library - Fort York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4003765,
+          43.6392266
+        ]
+      },
+      "id": "node/2801716666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2853026332",
+        "amenity": "library",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Woodside Square",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2698128,
+          43.8088632
+        ]
+      },
+      "id": "node/2853026332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868793761",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "30",
+        "addr:street": "Sewells Road",
+        "after_hours_return": "no",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Malvern",
+        "operator": "Toronto Public Library",
+        "return_machine": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2161024,
+          43.8080316
+        ]
+      },
+      "id": "node/2868793761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2892352944",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Toronto Public Library - Maryvale",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3120686,
+          43.7569779
+        ]
+      },
+      "id": "node/2892352944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2960528961",
+        "addr:city": "Mississauga",
+        "addr:housenumber": "3024",
+        "addr:postcode": "L5B 4M4",
+        "addr:province": "ON",
+        "addr:street": "Hurontario Street",
+        "addr:unit": "Suite 212",
+        "amenity": "library",
+        "name": "Cooksville Library",
+        "operator": "Mississauga Library",
+        "phone": "+1-905-615-4855",
+        "source": "http://www.mississauga.ca/portal/residents/cooksvillelibrary",
+        "website": "http://www.mississauga.ca/portal/residents/cooksvillelibrary",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6172825,
+          43.5805334
+        ]
+      },
+      "id": "node/2960528961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2998586814",
+        "amenity": "library",
+        "name": "Seneca College Library",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3499498,
+          43.795741
+        ]
+      },
+      "id": "node/2998586814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3108416942",
+        "amenity": "library",
+        "level": "1",
+        "name": "University of Toronto Dentistry Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3872144,
+          43.6560088
+        ]
+      },
+      "id": "node/3108416942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3519724300",
+        "amenity": "library",
+        "name": "Flemingdon Park Library",
+        "operator": "Toronto Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3315243,
+          43.7180345
+        ]
+      },
+      "id": "node/3519724300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3620998434",
+        "amenity": "library",
+        "name": "Woodbridge Library",
+        "operator": "Vaughan Public Libraries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5934612,
+          43.7849402
+        ]
+      },
+      "id": "node/3620998434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3720192600",
+        "addr:city": "Mississauga",
+        "addr:country": "CA",
+        "addr:housenumber": "3540",
+        "addr:postcode": "L4T 1Y2",
+        "addr:province": "ON",
+        "addr:street": "Morning Star Drive",
+        "amenity": "library",
+        "name": "Malton Library",
+        "operator": "Mississauga Public Library",
+        "phone": "+1 905 615 4640",
+        "website": "http://www.mississauga.ca/portal/residents/maltonlibrary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6387,
+          43.7232925
+        ]
+      },
+      "id": "node/3720192600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733276159",
+        "amenity": "library",
+        "name": "Map & Data Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3994417,
+          43.6645816
+        ]
+      },
+      "id": "node/3733276159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733743224",
+        "amenity": "library",
+        "name": "Centennial College Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2280141,
+          43.7855051
+        ]
+      },
+      "id": "node/3733743224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3739272041",
+        "amenity": "library",
+        "name": "Humberwood Library",
+        "operator": "Toronto Public Library",
+        "phone": "+1 416 394-5210",
+        "website": "http://www.torontopubliclibrary.ca/detail.jsp?Nr=p_cat_branch_name:Humberwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6192529,
+          43.7287017
+        ]
+      },
+      "id": "node/3739272041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4145235691",
+        "addr:housenumber": "269",
+        "addr:street": "Gerrard Street East",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "name": "Toronto Public Library, Parliament Street Branch",
+        "opening_hours": "Mo-Fr 09:00-20:30; Sa 09:00-17:00; Su 13:30-17:00",
+        "phone": "+1-416-393-7663",
+        "website": "http://www.torontopubliclibrary.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3679671,
+          43.6618595
+        ]
+      },
+      "id": "node/4145235691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4305351940",
+        "amenity": "library",
+        "name": "Mooredale Little Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3804649,
+          43.6783422
+        ]
+      },
+      "id": "node/4305351940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4482456190",
+        "amenity": "library",
+        "name": "Waterfront Library Learning Commons",
+        "operator": "George Brown College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3656079,
+          43.6441001
+        ]
+      },
+      "id": "node/4482456190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5284107327",
+        "addr:city": "Markham",
+        "addr:housenumber": "3201",
+        "addr:postcode": "L6B 0T2",
+        "addr:province": "ON",
+        "addr:street": "Bur Oak Avenue",
+        "amenity": "library",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Public",
+        "name": "Cornell Library",
+        "opening_hours": "Mo-Th 9:30-21:00, Fr 9:30-21:00, Sa 9:00-17:00, Su 13:00-17:00",
+        "phone": "+1-905-513-7977",
+        "website": "http://www.markham.ca/wps/portal/Markham/RecreationCulture/Library/AboutTheLibrary/BranchesAndHours/CornellBranch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2289758,
+          43.8844571
+        ]
+      },
+      "id": "node/5284107327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5326185328",
+        "addr:city": "Markham",
+        "addr:housenumber": "5665",
+        "addr:postcode": "L3S 3K5",
+        "addr:province": "ON",
+        "addr:street": "14th Avenue",
+        "amenity": "library",
+        "email": "psaliba@markham.library.on.ca",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Public",
+        "name": "Aaniin Branch Public Library",
+        "opening_hours": "Mo-Th 9:30-21:00,Fr 9:30-17:00, Sa 9:00-17:00, Su 13:00-17:00",
+        "website": "https://www.markham.ca/wps/portal/Markham/RecreationCulture/Library/AboutTheLibrary/BranchesAndHours/Aaniin/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2659366,
+          43.8519313
+        ]
+      },
+      "id": "node/5326185328"
+    }
+  ]
+}

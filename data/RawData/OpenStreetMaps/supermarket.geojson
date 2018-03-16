@@ -1,0 +1,7978 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-13T18:33:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/48553740",
+        "alt_name": "IGA",
+        "name": "Foodland",
+        "operator": "Sobeys",
+        "phone": "+1 416 466 5371",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3457523,
+          43.6786172
+        ]
+      },
+      "id": "node/48553740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60796350",
+        "name": "Food Plus Market",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4069106,
+          43.675014
+        ]
+      },
+      "id": "node/60796350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/67344197",
+        "name": "Sobeys",
+        "shop": "supermarket",
+        "website": "http://www.sobeys.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4275199,
+          43.6709162
+        ]
+      },
+      "id": "node/67344197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/214312005",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "351",
+        "addr:province": "ON",
+        "addr:street": "Bloor Street West",
+        "name": "Galleria The Kitchen Express",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4010556,
+          43.6669087
+        ]
+      },
+      "id": "node/214312005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/241246724",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "81",
+        "addr:province": "ON",
+        "addr:street": "Saint Clair Avenue East",
+        "name": "Sobeys Urban Fresh",
+        "opening_hours": "24/7",
+        "operator": "Sobeys",
+        "phone": "+1 416 413 0594",
+        "shop": "supermarket",
+        "store_name": "St. Clair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3907706,
+          43.6884988
+        ]
+      },
+      "id": "node/241246724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/241270779",
+        "name": "The Food Depot",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4028204,
+          43.6755767
+        ]
+      },
+      "id": "node/241270779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252533062",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.270236,
+          43.8102374
+        ]
+      },
+      "id": "node/252533062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254315320",
+        "name": "Metro",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3768916,
+          43.658216
+        ]
+      },
+      "id": "node/254315320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262696259",
+        "name": "Freshmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4019695,
+          43.654752
+        ]
+      },
+      "id": "node/262696259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/264107390",
+        "name": "Metro",
+        "opening_hours": "24/7",
+        "phone": "+1-416-686-8585",
+        "ref": "037",
+        "shop": "supermarket",
+        "tim_hortons": "yes",
+        "website": "http://www.metro.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2886122,
+          43.6897382
+        ]
+      },
+      "id": "node/264107390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/264107691",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "2490",
+        "addr:street": "Gerrard Street East",
+        "gst_number": "869755272",
+        "name": "Freshco",
+        "old_name": "Price Chopper",
+        "phone": "+1-416-698-3353",
+        "shop": "supermarket",
+        "store_name": "Gerrard Price Chopper",
+        "store_ref": "7855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2848579,
+          43.6877825
+        ]
+      },
+      "id": "node/264107691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/267314164",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "717",
+        "addr:province": "ON",
+        "addr:street": "Bay Street",
+        "name": "Fine Food Market",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3846663,
+          43.6586568
+        ]
+      },
+      "id": "node/267314164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/267314474",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "207",
+        "addr:province": "ON",
+        "addr:street": "Queen's Quay West",
+        "name": "Sobeys Urban Fresh",
+        "opening_hours": "Mo-Sa 08:00-23:00; Su 09:00-23:00",
+        "operator": "Sobeys",
+        "phone": "+1 416 603 1212",
+        "shop": "supermarket",
+        "store_name": "Queen's Quay",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3805122,
+          43.6394101
+        ]
+      },
+      "id": "node/267314474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/267315345",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "252",
+        "addr:province": "ON",
+        "addr:street": "Queen's Quay West",
+        "atm": "yes",
+        "atm:operator": "RBC",
+        "name": "Rabba Fine Foods",
+        "opening_hours": "24/7",
+        "phone": "+1 416 260 8869",
+        "shop": "supermarket",
+        "website": "http://www.rabba.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3853778,
+          43.6392311
+        ]
+      },
+      "id": "node/267315345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271813303",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "1800",
+        "addr:province": "ON",
+        "addr:street": "Eglinton Avenue East",
+        "gst_number": "87330-6963 RT0001",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "store_name": "Dickie's No Frills",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2997516,
+          43.7266499
+        ]
+      },
+      "id": "node/271813303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/276474902",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "80",
+        "addr:postcode": "M5E 1T4",
+        "addr:province": "ON",
+        "addr:street": "Front Street East",
+        "name": "Metro",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3731597,
+          43.6490236
+        ]
+      },
+      "id": "node/276474902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/276835363",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3495059,
+          43.6906434
+        ]
+      },
+      "id": "node/276835363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277120902",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1015",
+        "addr:street": "Broadview Avenue",
+        "gst_number": "R104902135",
+        "name": "Sobeys",
+        "opening_hours": "24/7",
+        "phone": "+1-416-421-5906",
+        "ref": "511",
+        "shop": "supermarket",
+        "website": "http://www.sobeys.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3561899,
+          43.6848669
+        ]
+      },
+      "id": "node/277120902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281361239",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3720609,
+          43.6680319
+        ]
+      },
+      "id": "node/281361239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281361618",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "140",
+        "addr:province": "ON",
+        "addr:street": "Carlton Street",
+        "name": "Little Bee Supermarket",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.374966,
+          43.6629585
+        ]
+      },
+      "id": "node/281361618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281361734",
+        "name": "Jarvis Market",
+        "opening_hours": "Mo-Su 8:00-24:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3759927,
+          43.6602649
+        ]
+      },
+      "id": "node/281361734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/286547439",
+        "addr:city": "Toronto",
+        "addr:housenumber": "348",
+        "addr:street": "Danforth Avenue",
+        "name": "The Big Carrot",
+        "phone": "+1-416-466-2129",
+        "shop": "supermarket",
+        "supermarket": "organic",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.353073,
+          43.677689
+        ]
+      },
+      "id": "node/286547439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297103242",
+        "created_by": "Merkaartor 0.11",
+        "name": "Galati Bros. Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3687435,
+          43.7980131
+        ]
+      },
+      "id": "node/297103242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302045060",
+        "created_by": "Merkaartor 0.11",
+        "name": "Sunny Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3667359,
+          43.7908402
+        ]
+      },
+      "id": "node/302045060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302045073",
+        "alt_name": "Richard's No Frills",
+        "name": "No Frills",
+        "opening_hours": "Mo-We 8:00-21:00; Th-Fr 8:00-21:30; Sa-Su 8:00-20:00",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3544452,
+          43.7944656
+        ]
+      },
+      "id": "node/302045073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302171973",
+        "name": "Longo's",
+        "shop": "supermarket",
+        "website": "http://www.longos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3568496,
+          43.7544858
+        ]
+      },
+      "id": "node/302171973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302411295",
+        "addr:city": "Toronto",
+        "addr:housenumber": "3030",
+        "addr:postcode": "M2Z 3C1",
+        "addr:province": "ON",
+        "addr:street": "Don Mills Road East",
+        "cuisine": "chinese",
+        "name": "Tone Tai Supermarket",
+        "name:en": "Tone Tai Supermarket",
+        "name:zh": "鼎泰超市",
+        "operator": "Foody Mart",
+        "phone": "+1-416-756-1668",
+        "shop": "supermarket",
+        "website": "http://www.foodymart.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3519255,
+          43.7854727
+        ]
+      },
+      "id": "node/302411295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302473945",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "291",
+        "addr:province": "ON",
+        "addr:street": "York Mills Road",
+        "name": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3855761,
+          43.7473505
+        ]
+      },
+      "id": "node/302473945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303207540",
+        "amenity": "pharmacy",
+        "name": "Loblaws great food",
+        "old_name": "Loblaws",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.loblaws.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4495878,
+          43.6551536
+        ]
+      },
+      "id": "node/303207540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307900405",
+        "name": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4813402,
+          43.7281543
+        ]
+      },
+      "id": "node/307900405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308696835",
+        "addr:city": "Toronto",
+        "addr:housenumber": "55",
+        "addr:province": "ON",
+        "addr:street": "Bloor Street West",
+        "gst_number": "80598-9258 RT0001",
+        "loc_name": "Loblaws",
+        "manager": "Maisie Desousa",
+        "name": "Bloor Street Market",
+        "note": "Signage says \"Bloor Street Market, Home of President's Choice\". Is really a Loblaws.",
+        "operator": "Loblaw Companies Limited",
+        "phone": "+1-416-923-8831",
+        "shop": "supermarket",
+        "store_ref": "00479",
+        "website": "http://www.bloorstreetmarket.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3879316,
+          43.6687519
+        ]
+      },
+      "id": "node/308696835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310146977",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "503",
+        "addr:postcode": "M5S 1Y2",
+        "addr:province": "ON",
+        "addr:street": "Bloor Street West",
+        "name": "Bulk Barn",
+        "opening_hours": "Mo-Sa 8:00-21:00; Su 10:00-19:00",
+        "phone": "+1 416 927 7964",
+        "shop": "supermarket",
+        "source": "#RyersonGEO441",
+        "store_name": "Bloor & Bathurst",
+        "website": "http://www.bulkbarn.ca/en-ca/locations/on/bulk-food-toronto-25.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4082588,
+          43.6655691
+        ]
+      },
+      "id": "node/310146977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315646221",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1860",
+        "addr:street": "Queen Street East",
+        "name": "Meat on the Beach",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3072382,
+          43.6685545
+        ]
+      },
+      "id": "node/315646221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317428329",
+        "alt_name": "Beach FoodLand",
+        "name": "FoodLand",
+        "operator": "Sobeys",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2981684,
+          43.6705745
+        ]
+      },
+      "id": "node/317428329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321552029",
+        "addr:city": "Markham",
+        "addr:country": "CA",
+        "addr:housenumber": "7355",
+        "addr:province": "ON",
+        "addr:street": "Bayview Avenue",
+        "name": "Longo's",
+        "shop": "supermarket",
+        "website": "http://www.longos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3986651,
+          43.8138589
+        ]
+      },
+      "id": "node/321552029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/331345551",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "700",
+        "addr:province": "ON",
+        "addr:street": "Lawrence Avenue West",
+        "gst_number": "89867-7133 RT0001",
+        "name": "Fortinos",
+        "operator": "Loblaw Companies Limited",
+        "phone": "+1 416 785 9843",
+        "shop": "supermarket",
+        "website": "http://www.fortinos.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4477087,
+          43.7171898
+        ]
+      },
+      "id": "node/331345551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339530251",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "600",
+        "addr:province": "ON",
+        "addr:street": "Sheppard Avenue West",
+        "hst_number": "R105216170",
+        "name": "Metro",
+        "phone": "+1 416 636 5136",
+        "shop": "supermarket",
+        "store_ref": "401",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4399163,
+          43.7560351
+        ]
+      },
+      "id": "node/339530251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344545245",
+        "name": "Super Freshmart",
+        "note": "does not sell meat",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3807221,
+          43.6647378
+        ]
+      },
+      "id": "node/344545245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357059431",
+        "name": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1396049,
+          43.7885898
+        ]
+      },
+      "id": "node/357059431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/359213941",
+        "name": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2982443,
+          43.724202
+        ]
+      },
+      "id": "node/359213941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360998386",
+        "name": "Sunny Foodmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5905515,
+          43.7420991
+        ]
+      },
+      "id": "node/360998386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360998388",
+        "addr:city": "Etobicoke",
+        "addr:country": "CA",
+        "addr:housenumber": "1530",
+        "addr:province": "ON",
+        "addr:street": "Albion Road",
+        "name": "No Frills",
+        "opendata:type": "107004",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5861406,
+          43.7419987
+        ]
+      },
+      "id": "node/360998388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364270561",
+        "name": "Loblaws",
+        "note": "approximate location",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.loblaws.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5196868,
+          43.6616878
+        ]
+      },
+      "id": "node/364270561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/365652967",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5187499,
+          43.7590268
+        ]
+      },
+      "id": "node/365652967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367103951",
+        "name": "Metro",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2822142,
+          43.7708926
+        ]
+      },
+      "id": "node/367103951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368385300",
+        "atm": "yes",
+        "name": "Foodlane",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3916381,
+          43.6449069
+        ]
+      },
+      "id": "node/368385300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370206556",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5618463,
+          43.736305
+        ]
+      },
+      "id": "node/370206556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370206561",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5596544,
+          43.7354658
+        ]
+      },
+      "id": "node/370206561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370216492",
+        "name": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5311043,
+          43.6912998
+        ]
+      },
+      "id": "node/370216492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371730158",
+        "name": "Metro",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3178182,
+          43.7974011
+        ]
+      },
+      "id": "node/371730158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371731147",
+        "created_by": "Potlatch 0.10f",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3187536,
+          43.7992163
+        ]
+      },
+      "id": "node/371731147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371811938",
+        "floor": "-1",
+        "level": "-1",
+        "name": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3832231,
+          43.6608863
+        ]
+      },
+      "id": "node/371811938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/372345333",
+        "name": "Bulk Barn",
+        "old_name": "Tridel Store",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3825865,
+          43.6615267
+        ]
+      },
+      "id": "node/372345333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/372368935",
+        "addr:housenumber": "449",
+        "addr:postcode": "M4K 3H9",
+        "addr:street": "Carlaw Avenue",
+        "name": "No Frills",
+        "note": "approximate location",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Loblaw Companies Limited",
+        "phone": "+1-866-987-6453",
+        "shop": "supermarket",
+        "website": "http://nofrills.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3424151,
+          43.6684636
+        ]
+      },
+      "id": "node/372368935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/372507286",
+        "name": "Wayne's Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3294384,
+          43.6971399
+        ]
+      },
+      "id": "node/372507286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/380040874",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "175",
+        "addr:province": "ON",
+        "addr:street": "Front Street East",
+        "atm": "yes",
+        "atm:operator": "RBC",
+        "name": "Rabba Fine Foods",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.rabba.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3679879,
+          43.6502166
+        ]
+      },
+      "id": "node/380040874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/380199493",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1868613,
+          43.7691082
+        ]
+      },
+      "id": "node/380199493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/380202725",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "2650",
+        "addr:province": "ON",
+        "addr:street": "Lawrence Avenue East",
+        "name": "FreshCo",
+        "old_name": "Price Chopper",
+        "opening_hours": "Mo-Fr 8:00-22:00; Sa-Su 8:00-21:00; PH off",
+        "operator": "Sobeys",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2635392,
+          43.7527128
+        ]
+      },
+      "id": "node/380202725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/380312432",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4417275,
+          43.882903
+        ]
+      },
+      "id": "node/380312432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/382054433",
+        "name": "Starsky",
+        "name:en": "Starsky",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5680919,
+          43.6222004
+        ]
+      },
+      "id": "node/382054433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/383400199",
+        "addr:housenumber": "#Y007 - 1",
+        "addr:postcode": "L4J 4P8",
+        "addr:street": "Promenade Circle",
+        "name": "T&T Supermarket",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.tnt-supermarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4523392,
+          43.808221
+        ]
+      },
+      "id": "node/383400199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/383551095",
+        "name": "Danforth Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6000709,
+          43.751717
+        ]
+      },
+      "id": "node/383551095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/383551103",
+        "created_by": "iLOE 1.9",
+        "name": "Bestco Food Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5890847,
+          43.7330145
+        ]
+      },
+      "id": "node/383551103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/383562238",
+        "addr:city": "Etobicoke",
+        "addr:country": "CA",
+        "addr:housenumber": "201",
+        "addr:postcode": "M9B 6H6",
+        "addr:province": "ON",
+        "addr:street": "Lloyd Manor Road",
+        "name": "Metro",
+        "opening_hours": "24/7",
+        "operator": "Metro",
+        "phone": "+1 416 236 3217",
+        "shop": "supermarket",
+        "source": "http://www.metro.ca/en/on/utilities/locate-store-detail.html?method=searchDetail&noSite=100704",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5558369,
+          43.6749571
+        ]
+      },
+      "id": "node/383562238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/384785122",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2309343,
+          43.7572657
+        ]
+      },
+      "id": "node/384785122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/385623941",
+        "name": "Country Farms Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2440143,
+          43.7530728
+        ]
+      },
+      "id": "node/385623941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/386776792",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "2877",
+        "addr:province": "ON",
+        "addr:street": "Bayview Avenue",
+        "contact:website": "http://www.loblaws.ca/",
+        "gst_number": "12223-5922 RT10001",
+        "name": "Loblaws great food",
+        "note": "To access by car use multi-level parking (NOT the south side parking, shopping carts cannot go out that way!). To enter by foot, use the mall entrance east of Loblaws and enter via the mall.",
+        "old_name": "Loblaws",
+        "opening_hours": "08:00-23:00",
+        "operator": "Loblaw Companies Limited",
+        "phone": "+1 416 733 1783",
+        "shop": "supermarket",
+        "stars": "6.0",
+        "stars:system": "10 star rating",
+        "store_ref": "1019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3872517,
+          43.7687732
+        ]
+      },
+      "id": "node/386776792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387446824",
+        "name": "Bloor Meat & Grocery",
+        "phone": "+1-416-538-9379",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4166176,
+          43.6640904
+        ]
+      },
+      "id": "node/387446824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387449941",
+        "name": "Bloor Fruit Market",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.415889,
+          43.6642503
+        ]
+      },
+      "id": "node/387449941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387456107",
+        "addr:city": "Toronto",
+        "addr:housenumber": "580",
+        "addr:street": "Bloor Street West",
+        "name": "Super Fresh Village Market",
+        "open": "7 days a week",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4122035,
+          43.6649726
+        ]
+      },
+      "id": "node/387456107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387772003",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "3331",
+        "addr:province": "ON",
+        "addr:street": "Sheppard Avenue East",
+        "name": "Food Depot Supermarket",
+        "name:zh": "泰锦",
+        "phone": "+1 416 756 1880",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3080225,
+          43.7776124
+        ]
+      },
+      "id": "node/387772003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387792400",
+        "fair_trade": "yes",
+        "name": "Metro",
+        "opening_hours": "24/7",
+        "operator": "Metro Inc.",
+        "organic": "yes",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3434239,
+          43.7339225
+        ]
+      },
+      "id": "node/387792400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388610380",
+        "addr:city": "East York",
+        "addr:country": "CA",
+        "addr:housenumber": "45",
+        "addr:province": "ON",
+        "addr:street": "Overlea Boulevard",
+        "hst_number": "R105216170",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "phone": "+1 416 421 1732",
+        "shop": "supermarket",
+        "store_ref": "672",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3471935,
+          43.705034
+        ]
+      },
+      "id": "node/388610380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/391013475",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "5095",
+        "addr:postcode": "M2N 6Z4",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "level": "-1",
+        "name": "Loblaws Great Food",
+        "operator": "Loblaw Companies Limited",
+        "phone": "+1 416 512 9430",
+        "self_checkout": "yes",
+        "shop": "supermarket",
+        "store_name": "Loblaws Empress",
+        "website": "http://www.loblaws.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4120104,
+          43.7689803
+        ]
+      },
+      "id": "node/391013475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/391166248",
+        "name": "L-Mart Oriental Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3805574,
+          43.787994
+        ]
+      },
+      "id": "node/391166248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/391180767",
+        "addr:city": "Toronto",
+        "addr:housenumber": "703",
+        "addr:postcode": "M4Y 2B2",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "cuisine": "korean",
+        "name": "H Mart",
+        "payment:american_express": "no",
+        "payment:cash": "yes",
+        "payment:interac": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 647 340 3500",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3861865,
+          43.6692366
+        ]
+      },
+      "id": "node/391180767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/392512380",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2300",
+        "addr:postcode": "M4P 1E4",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "hst_number": "R105216170",
+        "level": "0",
+        "name": "Metro",
+        "old_name": "Dominion",
+        "phone": "+1-416-483-7340",
+        "shop": "supermarket",
+        "store_ref": "752",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3994246,
+          43.7069238
+        ]
+      },
+      "id": "node/392512380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/400707903",
+        "lottery_tickets": "yes",
+        "name": "Kullubi Food & Spice",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.364732,
+          43.6568803
+        ]
+      },
+      "id": "node/400707903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/402146104",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3027608,
+          43.6878156
+        ]
+      },
+      "id": "node/402146104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/402146105",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3021948,
+          43.6879373
+        ]
+      },
+      "id": "node/402146105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/402150073",
+        "name": "Fresh & Wild Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3947694,
+          43.6457617
+        ]
+      },
+      "id": "node/402150073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410375809",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.509795,
+          43.7198074
+        ]
+      },
+      "id": "node/410375809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410375814",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5104206,
+          43.7216822
+        ]
+      },
+      "id": "node/410375814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410376790",
+        "name": "Centra Food Market",
+        "old_name": "Oriental Food Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5617812,
+          43.7485292
+        ]
+      },
+      "id": "node/410376790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410801728",
+        "name": "Galaxy",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3518979,
+          43.6654205
+        ]
+      },
+      "id": "node/410801728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/411670085",
+        "name": "valu-mart",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.valumart.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6006472,
+          43.6111843
+        ]
+      },
+      "id": "node/411670085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/411670118",
+        "name": "Grant's Food Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5945101,
+          43.6178522
+        ]
+      },
+      "id": "node/411670118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414574534",
+        "addr:city": "Mississauga",
+        "addr:country": "CA",
+        "addr:housenumber": "3100",
+        "addr:province": "ON",
+        "addr:street": "Dixie Road",
+        "hst_number": "862903929RT0001",
+        "name": "FreshCo",
+        "operator": "Sobeys",
+        "phone": "+1 905 279 8840",
+        "shop": "supermarket",
+        "store_name": "Dixie & Dundas",
+        "website": "http://www.freshco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5858112,
+          43.6092143
+        ]
+      },
+      "id": "node/414574534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414579649",
+        "name": "Oceans",
+        "shop": "supermarket",
+        "website": "http://www.oceansfood.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.648854,
+          43.6061377
+        ]
+      },
+      "id": "node/414579649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414579659",
+        "name": "Rabba",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.rabba.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6638215,
+          43.6137137
+        ]
+      },
+      "id": "node/414579659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414581262",
+        "name": "Highland Farms",
+        "shop": "supermarket",
+        "website": "http://www.highlandfarms.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6707836,
+          43.6214515
+        ]
+      },
+      "id": "node/414581262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414737985",
+        "name": "Metro",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5552082,
+          43.6305037
+        ]
+      },
+      "id": "node/414737985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414945703",
+        "name": "FreshCo",
+        "operator": "Sobeys",
+        "shop": "supermarket",
+        "website": "http://www.freshco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.614533,
+          43.5778975
+        ]
+      },
+      "id": "node/414945703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414951325",
+        "addr:city": "Mississauga",
+        "addr:country": "CA",
+        "addr:housenumber": "1240",
+        "addr:postcode": "L5V 1N3",
+        "addr:province": "ON",
+        "addr:street": "Eglinton Avenue West",
+        "name": "Marché Adonis",
+        "phone": "+1 905 363 0707",
+        "shop": "supermarket",
+        "website": "http://groupeadonis.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6816992,
+          43.5796578
+        ]
+      },
+      "id": "node/414951325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414951337",
+        "addr:city": "Mississauga",
+        "addr:country": "CA",
+        "addr:housenumber": "620",
+        "addr:province": "ON",
+        "addr:street": "Eglinton Avenue West",
+        "alt_name": "Daniel's No Frills",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "source": "Peel Food Check",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6668605,
+          43.593442
+        ]
+      },
+      "id": "node/414951337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/415730512",
+        "name": "Rabba Fine Foods",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.rabba.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5671438,
+          43.5694912
+        ]
+      },
+      "id": "node/415730512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416130760",
+        "name": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4769011,
+          43.7083728
+        ]
+      },
+      "id": "node/416130760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416130816",
+        "name": "FreshCo",
+        "operator": "Sobeys",
+        "shop": "supermarket",
+        "website": "http://www.freshco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6353389,
+          43.7184993
+        ]
+      },
+      "id": "node/416130816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417232563",
+        "name": "Metro",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4308024,
+          43.7197448
+        ]
+      },
+      "id": "node/417232563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/420539111",
+        "name": "Jerry's Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.327694,
+          43.6826172
+        ]
+      },
+      "id": "node/420539111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/421063904",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3257626,
+          43.7603737
+        ]
+      },
+      "id": "node/421063904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/421328735",
+        "alt_name": "Donwood valu-mart",
+        "garden_centre": "yes",
+        "name": "valu-mart",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.valumart.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3245982,
+          43.7461366
+        ]
+      },
+      "id": "node/421328735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/423019171",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Metro",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3135648,
+          43.7566148
+        ]
+      },
+      "id": "node/423019171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/431245952",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "40",
+        "addr:province": "ON",
+        "addr:street": "Asquith Avenue",
+        "gst_number": "R105222145",
+        "name": "Rabba",
+        "note": "main entrance is on Church",
+        "opening_hours": "24/7",
+        "payment:interac": "yes",
+        "phone": "+1 416 967 5326",
+        "shop": "supermarket",
+        "website": "http://www.rabba.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3848558,
+          43.6720009
+        ]
+      },
+      "id": "node/431245952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/431299397",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24815,
+          43.7093804
+        ]
+      },
+      "id": "node/431299397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/432772912",
+        "addr:city": "Etobicoke",
+        "addr:country": "CA",
+        "addr:housenumber": "1500",
+        "addr:postcode": "M9A 3L8",
+        "addr:province": "ON",
+        "addr:street": "Islington Avenue",
+        "name": "Foodland",
+        "old_name": "IGA",
+        "operator": "Sobeys",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5316571,
+          43.6629533
+        ]
+      },
+      "id": "node/432772912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/432783544",
+        "name": "Rabba Market Express",
+        "note": "open holidays",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.rabba.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6449144,
+          43.5875662
+        ]
+      },
+      "id": "node/432783544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/433542285",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "470",
+        "addr:postcode": "M1K 1C6",
+        "addr:street": "Danforth Road",
+        "name": "Sun Valley Foods",
+        "shop": "supermarket",
+        "source": "dinesafe",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2680234,
+          43.7082737
+        ]
+      },
+      "id": "node/433542285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436015841",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "5661",
+        "addr:postcode": "M1V 5P6",
+        "addr:street": "Steeles Avenue East",
+        "name": "Field Fresh Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.264872,
+          43.8317951
+        ]
+      },
+      "id": "node/436015841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436893990",
+        "amenity": "pharmacy",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2034768,
+          43.7841944
+        ]
+      },
+      "id": "node/436893990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/437981048",
+        "alt_name": "Gord's No Frills",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2661301,
+          43.8723563
+        ]
+      },
+      "id": "node/437981048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/470059355",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "1000",
+        "addr:postcode": "M4M 3G6",
+        "addr:province": "ON",
+        "addr:street": "Gerrard Street East",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3400369,
+          43.6692674
+        ]
+      },
+      "id": "node/470059355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474968530",
+        "addr:city": "Willowdale",
+        "addr:country": "CA",
+        "addr:housenumber": "5915",
+        "addr:postcode": "M2M 3T9",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "hst_number": "R105216710",
+        "name": "Food Basics",
+        "opening_hours": "Mo-Su 8:00-24:00",
+        "operator": "Metro",
+        "phone": "+1 416 221 2961",
+        "shop": "supermarket",
+        "store_ref": "686",
+        "website": "http://www.foodbasics.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4164208,
+          43.7867629
+        ]
+      },
+      "id": "node/474968530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495307176",
+        "addr:city": "North York",
+        "addr:housenumber": "38",
+        "addr:province": "ON",
+        "addr:street": "Karl Fraser Road",
+        "name": "McEwan",
+        "note": "high end supermarket with free valet parking",
+        "phone": "+1 416 444 6262",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3452638,
+          43.7363998
+        ]
+      },
+      "id": "node/495307176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495883888",
+        "name": "valu-mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2008768,
+          43.7465518
+        ]
+      },
+      "id": "node/495883888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/497250938",
+        "name": "Sue's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.457938,
+          43.8660295
+        ]
+      },
+      "id": "node/497250938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/498680874",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "111",
+        "addr:postcode": "M5G 1P7",
+        "addr:province": "ON",
+        "addr:street": "Elizabeth Street",
+        "name": "Longo's",
+        "note": "Starbucks Coffee inside",
+        "shop": "supermarket",
+        "website": "http://www.longos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3849589,
+          43.655348
+        ]
+      },
+      "id": "node/498680874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/501616666",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4240994,
+          43.8235031
+        ]
+      },
+      "id": "node/501616666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/501985559",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4514642,
+          43.6807442
+        ]
+      },
+      "id": "node/501985559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/504687090",
+        "addr:city": "Toronto",
+        "addr:housenumber": "900",
+        "addr:postcode": "M6H 4A9",
+        "addr:province": "ON",
+        "addr:street": "Dufferin Street",
+        "name": "Walmart Supercentre",
+        "old_name": "Wal-Mart Supercentre",
+        "opening_hours": "Mon - Sat: 7AM - 11PM, Sun: 7AM - 9PM",
+        "operator": "Walmart",
+        "phone": "+1-416-537-2561",
+        "shop": "supermarket",
+        "source": "DineSafe",
+        "store_name": "Dufferin",
+        "store_ref": "3106",
+        "website": "http://www.walmart.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4353017,
+          43.6564546
+        ]
+      },
+      "id": "node/504687090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/504687093",
+        "alt_name": "Joe's No Frills",
+        "gst_number": "88789-5134 RT0001",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4343897,
+          43.6554483
+        ]
+      },
+      "id": "node/504687093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/513952391",
+        "addr:city": "Toronto",
+        "addr:housenumber": "252",
+        "addr:province": "ON",
+        "addr:street": "Queen Street West",
+        "name": "Gardenview Convenience",
+        "opening_hours": "24/7",
+        "phone": "+1-416-593-2560",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.391233,
+          43.6499403
+        ]
+      },
+      "id": "node/513952391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/515553403",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "2995",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street West",
+        "name": "The Sweet Potato",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4691632,
+          43.6653509
+        ]
+      },
+      "id": "node/515553403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/519921378",
+        "level": "-1",
+        "name": "Kitchen Table",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3827007,
+          43.6564138
+        ]
+      },
+      "id": "node/519921378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/527025586",
+        "name": "H. N. Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4308233,
+          43.6475938
+        ]
+      },
+      "id": "node/527025586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/527033465",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housename": "The Kitchen Table",
+        "addr:housenumber": "705",
+        "addr:place": "The Kitchen Table",
+        "addr:postcode": "M5V 2W8",
+        "addr:province": "ON",
+        "addr:street": "King Street West",
+        "name": "Kitchen Table",
+        "phone": "+1-416-703-0636",
+        "shop": "supermarket",
+        "website": "thekitchentable.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4040401,
+          43.6434096
+        ]
+      },
+      "id": "node/527033465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530778589",
+        "name": "Master Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4499215,
+          43.6490436
+        ]
+      },
+      "id": "node/530778589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530783346",
+        "name": "Maple Produce",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4487713,
+          43.6459631
+        ]
+      },
+      "id": "node/530783346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530787073",
+        "name": "Sobeys Express",
+        "operator": "Sobeys",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4484881,
+          43.6452178
+        ]
+      },
+      "id": "node/530787073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530804330",
+        "name": "Roncesvalles Fruit Village",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4478177,
+          43.6436128
+        ]
+      },
+      "id": "node/530804330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530804372",
+        "name": "K Fruit Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4478031,
+          43.6435005
+        ]
+      },
+      "id": "node/530804372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530816335",
+        "name": "Galley Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4474888,
+          43.64273
+        ]
+      },
+      "id": "node/530816335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530816765",
+        "name": "Pearson Fruit Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4471491,
+          43.6418389
+        ]
+      },
+      "id": "node/530816765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/534020591",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "9",
+        "addr:postcode": "M4Y 1M7",
+        "addr:province": "ON",
+        "addr:street": "Isabella Street",
+        "name": "Rabba",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.rabba.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3850416,
+          43.6675553
+        ]
+      },
+      "id": "node/534020591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/534020592",
+        "name": "Rabba",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.rabba.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3876367,
+          43.6681893
+        ]
+      },
+      "id": "node/534020592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537074530",
+        "addr:city": "Toronto",
+        "addr:housenumber": "12",
+        "addr:postcode": "M4T 1L7",
+        "addr:province": "ON",
+        "addr:street": "Saint Clair Avenue East",
+        "gst_number": "12223-5922 RT0001",
+        "name": "Loblaws",
+        "operator": "Loblaw Companies Limited",
+        "payment:american_express": "no",
+        "payment:cash": "yes",
+        "payment:interac": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-416-960-8108",
+        "shop": "supermarket",
+        "store_name": "Loblaws St. Clair",
+        "store_ref": "1142",
+        "website": "http://www.loblaws.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3936836,
+          43.6885845
+        ]
+      },
+      "id": "node/537074530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/538159522",
+        "name": "Kitchen Table",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4124021,
+          43.6884125
+        ]
+      },
+      "id": "node/538159522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/541617929",
+        "name": "Afghan Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2242438,
+          43.758064
+        ]
+      },
+      "id": "node/541617929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/544651059",
+        "building:colour": "beige",
+        "fair_trade": "likely",
+        "name": "Pusateri's Fine Foods",
+        "note": "Closed due to fire in August 2015, scheduled to be rebuilt, presumed open due to inclusion on site, and due to an OSM note.",
+        "organic": "yes",
+        "shop": "supermarket",
+        "short_name": "Pusateri's",
+        "stars": "4.0",
+        "stars:system": "10 star rating",
+        "windows": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.415688,
+          43.7231028
+        ]
+      },
+      "id": "node/544651059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/544671715",
+        "name": "Bruno's Foods",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4198561,
+          43.7366651
+        ]
+      },
+      "id": "node/544671715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/549033787",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "1435",
+        "addr:province": "ON",
+        "addr:street": "King Street West",
+        "gst_number": "82760-4455 RT0001",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "store_name": "Vi's No Frills",
+        "store_ref": "00106",
+        "website": "http://www.shopnofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.436608,
+          43.6368636
+        ]
+      },
+      "id": "node/549033787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/550879622",
+        "name": "Wholesome Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2874631,
+          43.6728189
+        ]
+      },
+      "id": "node/550879622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/560196725",
+        "name": "Zito's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4425168,
+          43.7052158
+        ]
+      },
+      "id": "node/560196725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/560196733",
+        "addr:city": "York",
+        "addr:country": "CA",
+        "addr:housenumber": "145",
+        "addr:province": "ON",
+        "addr:street": "Marlee Avenue",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Sobeys Urban Fresh",
+        "operator": "Sobeys",
+        "phone": "+1 416 781 0145",
+        "shop": "supermarket",
+        "store_name": "Rosebury Sq. Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4408628,
+          43.7037166
+        ]
+      },
+      "id": "node/560196733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/560650171",
+        "level": "-1",
+        "name": "Supermarket",
+        "note": "in basement of Sheppard Centre",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4106478,
+          43.7622211
+        ]
+      },
+      "id": "node/560650171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/561181501",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2879377,
+          43.7460309
+        ]
+      },
+      "id": "node/561181501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/577454532",
+        "name": "7-Eleven",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3857508,
+          43.6673033
+        ]
+      },
+      "id": "node/577454532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/580005379",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "57",
+        "addr:province": "ON",
+        "addr:street": "Yorkville Avenue",
+        "name": "Pusateri's",
+        "note": "high end, expensive supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.390319,
+          43.6710763
+        ]
+      },
+      "id": "node/580005379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/582753955",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "22",
+        "addr:postcode": "M4S 1C1",
+        "addr:province": "ON",
+        "addr:street": "Balliol Street",
+        "gst_number": "895588788 RT0004",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "Sobeys Urban Fresh",
+        "opening_hours": "Mo-Su 7:00-23:00",
+        "operator": "Sobeys",
+        "payment:american_express": "yes",
+        "payment:coins": "yes",
+        "payment:interac": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 416 485 1022",
+        "self_checkout": "yes",
+        "shop": "supermarket",
+        "source": "approx",
+        "store_name": "Yonge & Balliol Sobeys #933",
+        "store_ref": "933",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3955072,
+          43.6978473
+        ]
+      },
+      "id": "node/582753955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/583868326",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "710",
+        "addr:province": "ON",
+        "addr:street": "Mount Pleasant Road",
+        "delivery": "yes",
+        "email": "SBYEX701MGR@sobeys.com",
+        "gst_number": "89558 8788 RT0001",
+        "hst_number": "89558 8788 RT0004",
+        "name": "Sobeys Urban Fresh",
+        "opening_hours": "Mo-Su 7:00-23:00",
+        "operator": "Sobeys",
+        "phone": "+1 416 483 1290",
+        "shop": "supermarket",
+        "store_name": "Mount Pleasant Sobeys",
+        "store_ref": "701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3896525,
+          43.7063795
+        ]
+      },
+      "id": "node/583868326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/598103300",
+        "name": "FreshCo",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4408504,
+          43.6675471
+        ]
+      },
+      "id": "node/598103300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599896644",
+        "name": "Longo's",
+        "shop": "supermarket",
+        "website": "http://www.longos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6064358,
+          43.8143963
+        ]
+      },
+      "id": "node/599896644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599896656",
+        "amenity": "pharmacy",
+        "name": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6092145,
+          43.823856
+        ]
+      },
+      "id": "node/599896656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599897446",
+        "name": "FreshCo",
+        "operator": "Sobeys",
+        "shop": "supermarket",
+        "website": "http://www.freshco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5577728,
+          43.8439665
+        ]
+      },
+      "id": "node/599897446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599897453",
+        "name": "Longo's",
+        "shop": "supermarket",
+        "website": "http://www.longos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5359902,
+          43.8515995
+        ]
+      },
+      "id": "node/599897453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/615954940",
+        "amenity": "pharmacy",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "source": "approx",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3248523,
+          43.7761811
+        ]
+      },
+      "id": "node/615954940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/640907871",
+        "addr:city": "Mississauga",
+        "addr:housenumber": "48",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street West",
+        "name": "Nader",
+        "phone": "+1-905-949-6895",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6174263,
+          43.579033
+        ]
+      },
+      "id": "node/640907871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/644023489",
+        "addr:city": "Mississauga",
+        "addr:country": "CA",
+        "addr:province": "ON",
+        "name": "Walmart Supercentre",
+        "operator": "Walmart",
+        "shop": "supermarket",
+        "store_name": "Square One",
+        "store_ref": "3055",
+        "website": "http://www.walmart.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.640834,
+          43.5942721
+        ]
+      },
+      "id": "node/644023489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/652152144",
+        "addr:city": "Mississauga",
+        "addr:country": "CA",
+        "addr:housenumber": "3445",
+        "addr:postcode": "L4X 2J4",
+        "addr:province": "ON",
+        "addr:street": "Fieldgate Drive",
+        "name": "IC Food World",
+        "phone": "+1 289 232-2763",
+        "shop": "supermarket",
+        "website": "http://www.icfoodworld.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5894387,
+          43.6245847
+        ]
+      },
+      "id": "node/652152144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/668989553",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.625912,
+          43.6023814
+        ]
+      },
+      "id": "node/668989553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/678894444",
+        "name": "Farm Fresh Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2670092,
+          43.7893697
+        ]
+      },
+      "id": "node/678894444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/682232893",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "100",
+        "addr:province": "ON",
+        "addr:street": "Bloor Street East",
+        "alt_name": "Longo's",
+        "gst_number": "R103382529",
+        "name": "The Market by Longo's",
+        "payment:cash": "yes",
+        "payment:interac": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 416 922 4797",
+        "shop": "supermarket",
+        "website": "http://www.longos.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3845092,
+          43.6708968
+        ]
+      },
+      "id": "node/682232893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/683617071",
+        "addr:city": "Markham",
+        "addr:country": "CA",
+        "addr:housenumber": "7070",
+        "addr:postcode": "L3R 5Y2",
+        "addr:province": "ON",
+        "addr:street": "Warden Avenue",
+        "gst_number": "135747137RT",
+        "name": "T & T Supermarket",
+        "name:zh": "大統華超級市場",
+        "operator": "Loblaw Companies Limited",
+        "payment:visa": "yes",
+        "phone": "+1 905 470 8113",
+        "shop": "supermarket",
+        "store_ref": "011",
+        "website": "http://www.tnt-supermarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3265803,
+          43.8221949
+        ]
+      },
+      "id": "node/683617071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/691071779",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "325",
+        "addr:province": "ON",
+        "addr:street": "Parliament Street",
+        "gst_number": "897060158RT0001",
+        "name": "FreshCo",
+        "operator": "Sobeys",
+        "phone": "+1 416 955 0717",
+        "shop": "supermarket",
+        "website": "http://www.freshco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3656451,
+          43.6597135
+        ]
+      },
+      "id": "node/691071779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/699671366",
+        "name": "Yuan Ming Supermarket",
+        "name:zh_hk": "元明超级市场",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6183182,
+          43.5819776
+        ]
+      },
+      "id": "node/699671366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/708779942",
+        "alt_name": "Food Basics",
+        "amenity": "pharmacy",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6158957,
+          43.5781867
+        ]
+      },
+      "id": "node/708779942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/708950984",
+        "addr:city": "Mississauga",
+        "addr:country": "CA",
+        "addr:housenumber": "2515",
+        "addr:province": "ON",
+        "addr:street": "Hurontario Street",
+        "addr:unit": "112",
+        "name": "African Caribbean Groceries",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6137483,
+          43.5793874
+        ]
+      },
+      "id": "node/708950984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/726453066",
+        "name": "Wholesale Club",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.wholesaleclub.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6383729,
+          43.5825997
+        ]
+      },
+      "id": "node/726453066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/729417874",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5572122,
+          43.6936451
+        ]
+      },
+      "id": "node/729417874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/732694525",
+        "addr:city": "Mississauga",
+        "addr:housenumber": "28",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street East",
+        "name": "Baba Grocers",
+        "phone": "+1-905-848-7000",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6153978,
+          43.580799
+        ]
+      },
+      "id": "node/732694525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/732809379",
+        "name": "Kaveri Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6157892,
+          43.5813786
+        ]
+      },
+      "id": "node/732809379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763638337",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "87",
+        "addr:postcode": "M5R 3R9",
+        "addr:province": "ON",
+        "addr:street": "Avenue Road",
+        "gst_number": "864826995",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Fr 9:00-22:00;Sa-Su 9:00-21:00",
+        "organic": "yes",
+        "phone": "+1 416 944 0500",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3951861,
+          43.6720106
+        ]
+      },
+      "id": "node/763638337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/764506393",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "1881",
+        "addr:postcode": "M4S 3C4",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "name": "Friends Fine Foods & Groceries",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3958347,
+          43.6976078
+        ]
+      },
+      "id": "node/764506393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/772352280",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "3259",
+        "addr:province": "ON",
+        "addr:street": "Bayview Avenue",
+        "name": "valu-mart",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "source": "DineSafe",
+        "website": "http://www.valumart.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3919898,
+          43.7908435
+        ]
+      },
+      "id": "node/772352280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775939140",
+        "atm": "yes",
+        "atm:operator": "CIBC",
+        "name": "Kitchen Table",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3754931,
+          43.6419126
+        ]
+      },
+      "id": "node/775939140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/797705352",
+        "name": "Best Ever Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2685434,
+          43.7889824
+        ]
+      },
+      "id": "node/797705352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/803149998",
+        "addr:city": "Toronto",
+        "addr:housenumber": "384",
+        "addr:street": "Bloor Street West",
+        "name": "Bloor Superfresh",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "source": "CanVec 6.0 - NRCan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.406573,
+          43.6662257
+        ]
+      },
+      "id": "node/803149998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823844709",
+        "name": "Rabba",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "http://www.rabba.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3756754,
+          43.6592764
+        ]
+      },
+      "id": "node/823844709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/836325051",
+        "name": "EconomyFruit",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4370374,
+          43.6597344
+        ]
+      },
+      "id": "node/836325051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/837041042",
+        "addr:housenumber": "731",
+        "addr:street": "Kennedy Road",
+        "name": "Yogas Meat",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.266804,
+          43.7305206
+        ]
+      },
+      "id": "node/837041042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848372388",
+        "name": "Bombay Bazaar Cash & Carry",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3034904,
+          43.8408956
+        ]
+      },
+      "id": "node/848372388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848374004",
+        "cuisine": "chinese",
+        "name": "Oriental Food Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.307399,
+          43.8333643
+        ]
+      },
+      "id": "node/848374004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/891977606",
+        "name": "India Town Food Centre",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6138776,
+          43.5811631
+        ]
+      },
+      "id": "node/891977606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/895259355",
+        "addr:city": "Toronto",
+        "addr:housenumber": "100",
+        "addr:province": "ON",
+        "addr:street": "King Street West",
+        "hst_number": "R103382529",
+        "name": "Longo's",
+        "note": "grocery store & take out food",
+        "phone": "+1-416-304-1147",
+        "shop": "supermarket",
+        "website": "http://www.longos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3819908,
+          43.6484799
+        ]
+      },
+      "id": "node/895259355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/903704604",
+        "name": "Three Star Food & Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4088885,
+          43.643847
+        ]
+      },
+      "id": "node/903704604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/911632130",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6056548,
+          43.6259583
+        ]
+      },
+      "id": "node/911632130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/927245838",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "20",
+        "addr:province": "ON",
+        "addr:street": "Church Avenue",
+        "hst_number": "R105216170",
+        "name": "Metro",
+        "note": "tennis court on top of Metro",
+        "opening_hours": "24/7",
+        "phone": "+1 416 224 2600",
+        "shop": "supermarket",
+        "store_ref": "712",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4130231,
+          43.7742307
+        ]
+      },
+      "id": "node/927245838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939906054",
+        "atm": "yes",
+        "name": "Antonia Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4445815,
+          43.6742457
+        ]
+      },
+      "id": "node/939906054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939906314",
+        "name": "Madeira Camara de Lobos Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4422899,
+          43.6755276
+        ]
+      },
+      "id": "node/939906314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939907414",
+        "atm": "yes",
+        "name": "Via Italia Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4443547,
+          43.6748739
+        ]
+      },
+      "id": "node/939907414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/968464560",
+        "addr:city": "Markham",
+        "addr:country": "CA",
+        "addr:housenumber": "5221",
+        "addr:province": "ON",
+        "addr:street": "Highway 7",
+        "name": "Foody Mart",
+        "old_name": "FoodyMart Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2851908,
+          43.8656206
+        ]
+      },
+      "id": "node/968464560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/977859688",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "6220",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "description": "mall entrance closes 6pm Sat-Sun",
+        "gst_number": "12223-5922 RT0001",
+        "name": "No Frills",
+        "note": "Sells Kosher food",
+        "operator": "Loblaw Companies Limited",
+        "payment:mastercard": "yes",
+        "shop": "supermarket",
+        "store_name": "Carlo's No Frills",
+        "store_ref": "03925",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.421928,
+          43.794868
+        ]
+      },
+      "id": "node/977859688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1023701329",
+        "name": "Sankar International",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2669376,
+          43.7321897
+        ]
+      },
+      "id": "node/1023701329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1024584687",
+        "name": "K&P Variety Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4111107,
+          43.6556106
+        ]
+      },
+      "id": "node/1024584687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1064555104",
+        "addr:city": "Vaughan",
+        "addr:housenumber": "9306",
+        "addr:street": "Bathurst Street",
+        "name": "Longo's",
+        "opening_hours": "Mo-Fr 7:00-22:00; Sa-su 7:00-20:00",
+        "operator": "Longo's",
+        "shop": "supermarket",
+        "website": "http://www.longos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4611657,
+          43.8478571
+        ]
+      },
+      "id": "node/1064555104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1071837751",
+        "addr:city": "Vaughan",
+        "addr:housenumber": "9200",
+        "addr:street": "Bathurst Street",
+        "addr:unit": "1",
+        "name": "Sobeys",
+        "shop": "supermarket",
+        "website": "http://www.sobeys.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4605942,
+          43.8460613
+        ]
+      },
+      "id": "node/1071837751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1073627085",
+        "name": "Bayview Food Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4081952,
+          43.8503772
+        ]
+      },
+      "id": "node/1073627085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1102836722",
+        "internet_access": "wlan",
+        "level": "-1",
+        "name": "Longo's",
+        "shop": "supermarket",
+        "website": "http://www.longos.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3807748,
+          43.6425677
+        ]
+      },
+      "id": "node/1102836722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125194004",
+        "name": "m2m Asian Grocery Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4111469,
+          43.7635305
+        ]
+      },
+      "id": "node/1125194004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1126749686",
+        "name": "Nutrition House",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3858756,
+          43.6706957
+        ]
+      },
+      "id": "node/1126749686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1131532988",
+        "name": "FreshCo",
+        "operator": "Sobeys",
+        "shop": "supermarket",
+        "website": "http://www.freshco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.447984,
+          43.792914
+        ]
+      },
+      "id": "node/1131532988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1132825237",
+        "name": "Marketplace",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3879664,
+          43.6463657
+        ]
+      },
+      "id": "node/1132825237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1134233888",
+        "name": "Tea Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.387079,
+          43.670371
+        ]
+      },
+      "id": "node/1134233888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1141372978",
+        "addr:city": "Toronto",
+        "layer": "-1",
+        "level": "-1",
+        "name": "Marketplace",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.386915,
+          43.644779
+        ]
+      },
+      "id": "node/1141372978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1141383055",
+        "name": "Whole Health",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3871543,
+          43.6446455
+        ]
+      },
+      "id": "node/1141383055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1208678967",
+        "name": "The Tea Emporium",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.409697,
+          43.704062
+        ]
+      },
+      "id": "node/1208678967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1267432262",
+        "name": "Harbour Green Farms",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3987636,
+          43.6356761
+        ]
+      },
+      "id": "node/1267432262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1288946074",
+        "name": "Esplanade Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3752699,
+          43.6462136
+        ]
+      },
+      "id": "node/1288946074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1291264958",
+        "name": "Red Mulberry Natural Health Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3655124,
+          43.7083614
+        ]
+      },
+      "id": "node/1291264958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1291985541",
+        "name": "Cumbrae's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3804263,
+          43.6648848
+        ]
+      },
+      "id": "node/1291985541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1309639627",
+        "name": "Town & Country Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.625597,
+          43.587535
+        ]
+      },
+      "id": "node/1309639627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1309646535",
+        "alt_name": "Jerry's No Frills",
+        "name": "No Frills",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.602825,
+          43.595577
+        ]
+      },
+      "id": "node/1309646535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1319709209",
+        "name": "The Apple Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6026031,
+          43.5776801
+        ]
+      },
+      "id": "node/1319709209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375337634",
+        "name": "Rabba",
+        "shop": "supermarket",
+        "website": "http://www.rabba.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.376233,
+          43.666606
+        ]
+      },
+      "id": "node/1375337634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1399172371",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2095",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "name": "Filipino Food Market",
+        "phone": "+1-416-487-2813",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.397349,
+          43.702894
+        ]
+      },
+      "id": "node/1399172371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1407769531",
+        "name": "Ming Yuan Chinese Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6582155,
+          43.5718549
+        ]
+      },
+      "id": "node/1407769531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1416514742",
+        "created_by": "iLOE 1.9",
+        "name": "Tuong Phat Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.441995,
+          43.772969
+        ]
+      },
+      "id": "node/1416514742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1421538657",
+        "addr:city": "North York",
+        "addr:housenumber": "4750",
+        "addr:postcode": "M3H 5S7",
+        "addr:province": "Ontario",
+        "addr:street": "Dufferin Street",
+        "name": "Coppa's Fresh Market",
+        "phone": "+1-416-736-6606",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4696515,
+          43.7766394
+        ]
+      },
+      "id": "node/1421538657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422601222",
+        "name": "Taj Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2108073,
+          43.8169644
+        ]
+      },
+      "id": "node/1422601222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422601336",
+        "name": "Sunrise Mark",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2112195,
+          43.8172129
+        ]
+      },
+      "id": "node/1422601336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1444959257",
+        "created_by": "iLOE 1.9",
+        "name": "Sobeys Kosher Market",
+        "operator": "Sobeys",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.438491,
+          43.804731
+        ]
+      },
+      "id": "node/1444959257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1459289096",
+        "name": "Chung Hing Supermarket",
+        "phone": "+1-416-293-0188",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.292776,
+          43.803458
+        ]
+      },
+      "id": "node/1459289096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1459401771",
+        "created_by": "iLOE 1.9",
+        "name": "Young's Fruit Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.204575,
+          43.78397
+        ]
+      },
+      "id": "node/1459401771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1471253919",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "777",
+        "addr:province": "ON",
+        "addr:street": "Bay Street",
+        "addr:unit": "C209",
+        "hst_number": "895588788RT0001",
+        "level": "0",
+        "name": "Sobeys Urban Fresh",
+        "opening_hours": "Mo-Su 7:00-23:00",
+        "operator": "Sobeys",
+        "phone": "+1 416 506 1626",
+        "self_checkout": "yes",
+        "shop": "supermarket",
+        "store_ref": "691",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3844864,
+          43.6603152
+        ]
+      },
+      "id": "node/1471253919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500853555",
+        "name": "FreshCo",
+        "operator": "Sobeys",
+        "shop": "supermarket",
+        "website": "http://www.freshco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4657378,
+          43.6926868
+        ]
+      },
+      "id": "node/1500853555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1502222352",
+        "name": "Kingston Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.172206,
+          43.7821024
+        ]
+      },
+      "id": "node/1502222352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518406892",
+        "name": "Loblaws",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.loblaws.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.401461,
+          43.64753
+        ]
+      },
+      "id": "node/1518406892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1526723625",
+        "name": "Loblaws Great Food",
+        "note": "In former Maple Leaf Gardens",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.loblaws.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3797164,
+          43.6619946
+        ]
+      },
+      "id": "node/1526723625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1569579009",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5662959,
+          43.5927264
+        ]
+      },
+      "id": "node/1569579009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1639866940",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3663593,
+          43.6511181
+        ]
+      },
+      "id": "node/1639866940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1647938744",
+        "name": "P A T Market East",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2966432,
+          43.744514
+        ]
+      },
+      "id": "node/1647938744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1647968772",
+        "name": "D & S Grocery & Variety",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4628416,
+          43.6737308
+        ]
+      },
+      "id": "node/1647968772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685297716",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5191103,
+          43.6319159
+        ]
+      },
+      "id": "node/1685297716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1689661489",
+        "addr:city": "Toronto",
+        "addr:housenumber": "181",
+        "addr:province": "ON",
+        "addr:street": "Eglinton Avenue East",
+        "email": "fresh@marcheleos.com",
+        "name": "Marcheleo's Gourmet Marketplace",
+        "opening_hours": "Mo-Fr 9:00-21:00; Sa-Su 10:00-18:00",
+        "payment:american_express": "yes",
+        "payment:interac": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-416-952-1100",
+        "shop": "supermarket",
+        "website": "http://www.marcheleos.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39197,
+          43.707884
+        ]
+      },
+      "id": "node/1689661489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1727149580",
+        "addr:country": "CA",
+        "addr:housenumber": "9255",
+        "addr:postcode": "L6C 1Y9",
+        "addr:province": "ON",
+        "addr:street": "Woodbine Avenue",
+        "name": "T&T Supermarket",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.tnt-supermarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3603219,
+          43.8690033
+        ]
+      },
+      "id": "node/1727149580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1727168611",
+        "name": "Michael Angelo's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3565829,
+          43.8510793
+        ]
+      },
+      "id": "node/1727168611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1730788042",
+        "addr:city": "Markham",
+        "addr:country": "CA",
+        "addr:housenumber": "2900",
+        "addr:province": "ON",
+        "addr:street": "Steeles Avenue East",
+        "hst_number": "R105216170",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "phone": "+1 905 881 4900",
+        "shop": "supermarket",
+        "store_ref": "679",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.357165,
+          43.813322
+        ]
+      },
+      "id": "node/1730788042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1816234844",
+        "created_by": "iLOE 1.9",
+        "name": "H Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.434913,
+          43.865422
+        ]
+      },
+      "id": "node/1816234844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1861798149",
+        "name": "MGA Food Market",
+        "shop": "supermarket",
+        "source": "image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5038313,
+          43.6009172
+        ]
+      },
+      "id": "node/1861798149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1861805904",
+        "name": "7 Sisters Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5025606,
+          43.6011974
+        ]
+      },
+      "id": "node/1861805904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1948589745",
+        "addr:city": "East York",
+        "addr:country": "CA",
+        "addr:housenumber": "93",
+        "addr:province": "ON",
+        "addr:street": "Laird Drive",
+        "name": "Longo's",
+        "shop": "supermarket",
+        "website": "http://www.longos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3596014,
+          43.7064574
+        ]
+      },
+      "id": "node/1948589745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1962058996",
+        "name": "Sobeys",
+        "shop": "supermarket",
+        "source": "Survey",
+        "website": "http://www.sobeys.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5239909,
+          43.6198537
+        ]
+      },
+      "id": "node/1962058996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1962183135",
+        "created_by": "iLOE 1.9",
+        "name": "Khorak Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.418013,
+          43.792073
+        ]
+      },
+      "id": "node/1962183135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1966025135",
+        "name": "T&T Supermarket",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.tnt-supermarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4326858,
+          43.8622441
+        ]
+      },
+      "id": "node/1966025135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2021650355",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "3066",
+        "addr:street": "Bloor Street West",
+        "name": "Organic Fine Foods",
+        "organic": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.513537,
+          43.6470172
+        ]
+      },
+      "id": "node/2021650355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2084949463",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2563",
+        "addr:street": "Yonge Street",
+        "name": "Summer's Best Fruits & Flowers",
+        "phone": "+1-416-488-2932",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.399687,
+          43.713857
+        ]
+      },
+      "id": "node/2084949463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2132778188",
+        "addr:city": "East York",
+        "addr:housenumber": "91",
+        "addr:street": "Laird Drive",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.360494,
+          43.7062136
+        ]
+      },
+      "id": "node/2132778188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2187921143",
+        "name": "Vital Planet Organic Food",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3704003,
+          43.6474419
+        ]
+      },
+      "id": "node/2187921143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2203975940",
+        "name": "Concord Food Centre",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4726545,
+          43.8067792
+        ]
+      },
+      "id": "node/2203975940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2243470928",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3002454,
+          43.72674
+        ]
+      },
+      "id": "node/2243470928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266244980",
+        "name": "Food Basics",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4941913,
+          43.6768789
+        ]
+      },
+      "id": "node/2266244980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2340888341",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "253",
+        "addr:postcode": "M5T 2E3",
+        "addr:province": "ON",
+        "addr:street": "Spadina Avenue",
+        "name": "Hua Long Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3972108,
+          43.6514848
+        ]
+      },
+      "id": "node/2340888341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2354348584",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "107",
+        "addr:province": "ON",
+        "addr:street": "Parkway Forest Drive",
+        "name": "Foodland",
+        "opendata:type": "112001",
+        "opening_hours": "24/7",
+        "operator": "Sobeys",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3401694,
+          43.773964
+        ]
+      },
+      "id": "node/2354348584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2366714885",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "2267",
+        "addr:postcode": "M9W 3W7",
+        "addr:province": "ON",
+        "addr:street": "Islington Avenue",
+        "name": "Fresh Value",
+        "opendata:type": "112001",
+        "opening_hours": "Mo-Th 09:30-21:00; Fr 09:30-21:30; Sa 09:00-21:30; Su 09:30-20:30",
+        "phone": "+1-416-743-6699",
+        "shop": "supermarket",
+        "website": "http://freshvalue.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5545106,
+          43.7166344
+        ]
+      },
+      "id": "node/2366714885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2369253779",
+        "addr:country": "CA",
+        "addr:housenumber": "8339",
+        "addr:province": "ON",
+        "addr:street": "Kennedy Road",
+        "name": "T&T Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.303517,
+          43.8572775
+        ]
+      },
+      "id": "node/2369253779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2405780606",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "2240",
+        "addr:province": "ON",
+        "addr:street": "Bloor Street West",
+        "name": "Mac's Convenient Store",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4770473,
+          43.651158
+        ]
+      },
+      "id": "node/2405780606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410396937",
+        "name": "Green Valley Products",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3990474,
+          43.710897
+        ]
+      },
+      "id": "node/2410396937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2437943980",
+        "name": "Price Chopper",
+        "note": "Not FreshCo",
+        "operator": "Sobeys",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4443054,
+          43.7913157
+        ]
+      },
+      "id": "node/2437943980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2454878864",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "22",
+        "addr:province": "ON",
+        "addr:street": "Fort York Boulevard",
+        "name": "Sobeys",
+        "phone": "+1 416 623 5111",
+        "shop": "supermarket",
+        "website": "http://www.sobeys.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3942463,
+          43.6404855
+        ]
+      },
+      "id": "node/2454878864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2470509496",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "841",
+        "addr:street": "Brown's Line",
+        "name": "Farm Boy",
+        "phone": "+1 416-253-9379",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5475302,
+          43.6100852
+        ]
+      },
+      "id": "node/2470509496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2533118241",
+        "addr:city": "York",
+        "addr:country": "CA",
+        "addr:housenumber": "3400",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street West",
+        "name": "FreshCo",
+        "operator": "Sobeys",
+        "shop": "supermarket",
+        "website": "http://www.freshco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4846631,
+          43.6662037
+        ]
+      },
+      "id": "node/2533118241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2534750304",
+        "name": "Wholesale Club",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.wholesaleclub.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4719358,
+          43.680935
+        ]
+      },
+      "id": "node/2534750304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2535397427",
+        "name": "Green Farms",
+        "phone": "+1-416-532-6622",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.417223,
+          43.6799798
+        ]
+      },
+      "id": "node/2535397427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2541753704",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "3715",
+        "addr:postcode": "M1G 1P7",
+        "addr:province": "ON",
+        "addr:street": "Lawrence Avenue East",
+        "fax": "+1-416-431-3389",
+        "name": "Skyland Food Mart",
+        "opendata:type": "115001",
+        "phone": "+1-416-431-3388",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2187102,
+          43.7605526
+        ]
+      },
+      "id": "node/2541753704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2546385051",
+        "name": "Plank Road Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3200961,
+          43.6843142
+        ]
+      },
+      "id": "node/2546385051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2547925647",
+        "name": "FreshCo",
+        "operator": "Sobeys",
+        "shop": "supermarket",
+        "website": "http://www.freshco.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4524873,
+          43.6581318
+        ]
+      },
+      "id": "node/2547925647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2564794500",
+        "name": "Danforth Food Market",
+        "shop": "supermarket",
+        "website": "http://danforthfoodmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5884763,
+          43.6060622
+        ]
+      },
+      "id": "node/2564794500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2571713024",
+        "addr:city": "Toronto",
+        "addr:housename": "Metro",
+        "addr:housenumber": "2155",
+        "addr:province": "ON",
+        "addr:street": "Saint Clair Avenue West",
+        "name": "Metro",
+        "opening_hours": "24/7",
+        "phone": "+1-416-769-8700",
+        "shop": "supermarket",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4733569,
+          43.6697098
+        ]
+      },
+      "id": "node/2571713024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2613031993",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "250",
+        "addr:postcode": "M1V 3Z4",
+        "addr:province": "ON",
+        "addr:street": "Alton Towers Circle",
+        "name": "Oriental Food Mart",
+        "note": "RIP Taiko Supermarket. Your shopping carts have lived on.",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2771774,
+          43.8254466
+        ]
+      },
+      "id": "node/2613031993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2633880430",
+        "addr:city": "East York",
+        "addr:country": "CA",
+        "addr:housenumber": "2",
+        "addr:postcode": "M4H 1H2",
+        "addr:province": "ON",
+        "addr:street": "Thorncliffe Park Drive",
+        "name": "Iqbal Halal Foods",
+        "phone": "+1-416-467-0177",
+        "shop": "supermarket",
+        "website": "http://www.iqbalhalalfoods.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.352044,
+          43.7059324
+        ]
+      },
+      "id": "node/2633880430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2700726061",
+        "addr:unit": "1",
+        "name": "Goodess Me!",
+        "phone": "+1 905 712-8402",
+        "shop": "supermarket",
+        "website": "http://goodnessme.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6793712,
+          43.5990843
+        ]
+      },
+      "id": "node/2700726061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2702058047",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "865",
+        "addr:postcode": "M3B 1Y5",
+        "addr:province": "ON",
+        "addr:street": "York Mills Road",
+        "cuisine": "korean",
+        "name": "Galleria Marketplace",
+        "phone": "+1 647 352 5004",
+        "shop": "supermarket",
+        "website": "http://www.galleriasm.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3493647,
+          43.7536755
+        ]
+      },
+      "id": "node/2702058047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2704255396",
+        "addr:city": "Toronto",
+        "kosher": "yes",
+        "name": "Tap Kosher Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.429199,
+          43.717808
+        ]
+      },
+      "id": "node/2704255396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2711781515",
+        "name": "Sam's Food Stores",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4403261,
+          43.6921105
+        ]
+      },
+      "id": "node/2711781515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2767158186",
+        "name": "Tindahan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.420862,
+          43.7981542
+        ]
+      },
+      "id": "node/2767158186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2775117808",
+        "addr:city": "Richmond Hill",
+        "addr:housenumber": "10309A",
+        "addr:postcode": "L4C 3B9",
+        "addr:street": "Yonge Street",
+        "name": "Tavazo Dried Nuts & Fruits",
+        "shop": "supermarket",
+        "source": "CanVec 6.0 - NRCan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4387548,
+          43.8788384
+        ]
+      },
+      "id": "node/2775117808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2784679445",
+        "addr:city": "Mississauga",
+        "addr:country": "CA",
+        "addr:housenumber": "7333",
+        "addr:province": "ON",
+        "addr:street": "Goreway Drive",
+        "name": "Walmart Supercentre",
+        "operator": "Walmart",
+        "shop": "supermarket",
+        "website": "http://www.walmart.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6396706,
+          43.7211959
+        ]
+      },
+      "id": "node/2784679445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2799015801",
+        "name": "Organic Garage",
+        "organic": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4528982,
+          43.8160597
+        ]
+      },
+      "id": "node/2799015801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2799797419",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4603891,
+          43.8100467
+        ]
+      },
+      "id": "node/2799797419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814033901",
+        "name": "JV Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4341222,
+          43.6801677
+        ]
+      },
+      "id": "node/2814033901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2833168699",
+        "name": "BJ Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3214231,
+          43.6722464
+        ]
+      },
+      "id": "node/2833168699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2850469552",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "1980",
+        "addr:province": "ON",
+        "addr:street": "Saint Clair Avenue West",
+        "name": "Nations Fresh Foods",
+        "old_name": "Target",
+        "shop": "supermarket",
+        "website": "http://www.target.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4701747,
+          43.6724214
+        ]
+      },
+      "id": "node/2850469552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2853037158",
+        "addr:city": "Mississauga",
+        "addr:housenumber": "1030",
+        "addr:postcode": "L4Y 2B8",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street East",
+        "name": "Távora Foods",
+        "phone": "+1 905 949-1592",
+        "shop": "supermarket",
+        "website": "http://tavora.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5917235,
+          43.6016325
+        ]
+      },
+      "id": "node/2853037158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864726714",
+        "name": "West End Food Coop",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4292097,
+          43.6419688
+        ]
+      },
+      "id": "node/2864726714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2881749401",
+        "name": "Young's Produce",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5108135,
+          43.6476442
+        ]
+      },
+      "id": "node/2881749401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2901438692",
+        "addr:city": "Toronto",
+        "name": "Bruno's Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.514901,
+          43.659336
+        ]
+      },
+      "id": "node/2901438692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2901438753",
+        "name": "Sara Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4930961,
+          43.6716157
+        ]
+      },
+      "id": "node/2901438753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2908425808",
+        "addr:city": "Markham",
+        "addr:housenumber": "7700",
+        "addr:postcode": "L3S 4S1",
+        "addr:province": "ON",
+        "addr:street": "Markham Road",
+        "fax": "+1-905-201-2980",
+        "name": "Sunny Foodmart",
+        "phone": "+1-905-201-2988",
+        "shop": "supermarket",
+        "website": "http://www.sunnysupermarket.com/Markham/homee.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2573986,
+          43.8542115
+        ]
+      },
+      "id": "node/2908425808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2909423024",
+        "addr:city": "Markham",
+        "addr:country": "CA",
+        "addr:province": "ON",
+        "name": "No Frills",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3335982,
+          43.8583353
+        ]
+      },
+      "id": "node/2909423024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2916190281",
+        "addr:city": "Markham",
+        "addr:country": "CA",
+        "addr:housenumber": "3085",
+        "addr:postcode": "L3R 0J5",
+        "addr:province": "ON",
+        "addr:street": "Highway 7",
+        "name": "Longos",
+        "operator": "Longos",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3551471,
+          43.8496309
+        ]
+      },
+      "id": "node/2916190281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2916217446",
+        "addr:city": "Markham",
+        "addr:housenumber": "3997",
+        "addr:postcode": "L3R 5M6",
+        "addr:street": "Highway 7",
+        "name": "Whole Foods",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+1-905-474-4900",
+        "shop": "supermarket",
+        "website": "http://www.wholefoodsmarket.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3223661,
+          43.8579203
+        ]
+      },
+      "id": "node/2916217446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926526060",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4111297,
+          43.8775099
+        ]
+      },
+      "id": "node/2926526060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926787703",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "20",
+        "addr:province": "ON",
+        "addr:street": "Ashtonbee Road",
+        "name": "Adonis",
+        "payment:visa": "yes",
+        "phone": "+1 416 642 1515",
+        "shop": "supermarket",
+        "website": "http://www.adonisgroup.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2907455,
+          43.7290984
+        ]
+      },
+      "id": "node/2926787703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926805701",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "1970",
+        "addr:postcode": "M1L 2M6",
+        "addr:street": "Eglinton Avenue East",
+        "hst_number": "12345-5140",
+        "name": "Al Premium Food Mart",
+        "opening_hours": "Mo-Fr 8:00-24:00",
+        "phone": "+1-416-751-3666",
+        "shop": "supermarket",
+        "website": "http://www.alpremium.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2849601,
+          43.7305937
+        ]
+      },
+      "id": "node/2926805701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2967604370",
+        "name": "bulk barn",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3699913,
+          43.6500767
+        ]
+      },
+      "id": "node/2967604370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2997099263",
+        "name": "Yummy Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4838142,
+          43.8635464
+        ]
+      },
+      "id": "node/2997099263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3016336373",
+        "addr:housenumber": "335",
+        "addr:postcode": "M1W 3Y1",
+        "addr:street": "Bamburgh Circle",
+        "name": "Foody Mart",
+        "name:zh": "丰泰超市",
+        "opening_hours": "9:00-12:00",
+        "phone": "+1-416-490-9890",
+        "shop": "supermarket",
+        "website": "http://www.foodymart.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3223916,
+          43.8149718
+        ]
+      },
+      "id": "node/3016336373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3032299219",
+        "name": "Food Basics",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3986362,
+          43.8209586
+        ]
+      },
+      "id": "node/3032299219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3042370038",
+        "name": "Nations Fresh Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5494273,
+          43.7875554
+        ]
+      },
+      "id": "node/3042370038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3078627678",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "310",
+        "addr:province": "ON",
+        "addr:street": "Spadina Avenue",
+        "name": "Oriental Harvest",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3986406,
+          43.6535768
+        ]
+      },
+      "id": "node/3078627678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3098467663",
+        "addr:city": "North York",
+        "addr:housenumber": "4771",
+        "addr:postcode": "M2N 5M5",
+        "addr:street": "Yonge Street",
+        "name": "Whole Foods Market",
+        "phone": "+1 416 730-1100",
+        "shop": "supermarket",
+        "source": "http://www.wholefoodsmarket.com/stores/yongeandsheppard",
+        "source:date": "2014-09-27",
+        "website": "http://www.wholefoodsmarket.com/stores/yongeandsheppard",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4104774,
+          43.7608195
+        ]
+      },
+      "id": "node/3098467663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3099829173",
+        "name": "Long Hui Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.550164,
+          43.7497353
+        ]
+      },
+      "id": "node/3099829173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3229188764",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3936809,
+          43.6455958
+        ]
+      },
+      "id": "node/3229188764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3245334360",
+        "name": "Bestco Food Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2710304,
+          43.7962796
+        ]
+      },
+      "id": "node/3245334360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3258796963",
+        "name": "FreshCo",
+        "operator": "Sobeys",
+        "shop": "supermarket",
+        "website": "http://www.freshco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3948959,
+          43.8807202
+        ]
+      },
+      "id": "node/3258796963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3283163145",
+        "name": "bulk barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4737722,
+          43.785455
+        ]
+      },
+      "id": "node/3283163145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3288802961",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "345",
+        "addr:postcode": "M4W 3J6",
+        "addr:province": "ON",
+        "addr:street": "Bloor Street East",
+        "alt_name": "Rob's No Frills",
+        "name": "No Frills",
+        "opening_hours": "Mo-Fr 8:00-21:30; Sa-Su 8:00-20:00",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3781127,
+          43.6716106
+        ]
+      },
+      "id": "node/3288802961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3302606183",
+        "name": "Sunny Foodmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3331597,
+          43.7144362
+        ]
+      },
+      "id": "node/3302606183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3306493403",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "3685",
+        "addr:postcode": "M3J 3H6",
+        "addr:province": "ON",
+        "addr:street": "Keele Street",
+        "alt_name": "Vito's No Frills",
+        "name": "No Frills",
+        "opening_hours": "Mo-Su 8:00-21:00",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "http://www.nofrills.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4876884,
+          43.7541597
+        ]
+      },
+      "id": "node/3306493403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3306518480",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "3701",
+        "addr:postcode": "M3J 1N1",
+        "addr:province": "ON",
+        "addr:street": "Keele Street",
+        "name": "Danforth Food Mart",
+        "opening_hours": "Mo-Su 8:00-21:00",
+        "operator": "Mr. Soow",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4883549,
+          43.7551773
+        ]
+      },
+      "id": "node/3306518480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3313337535",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "1150",
+        "addr:postcode": "M1B 3A4",
+        "addr:province": "ON",
+        "addr:street": "Morningside Avenue",
+        "name": "Fusion Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2003631,
+          43.8004902
+        ]
+      },
+      "id": "node/3313337535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3318025983",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "1145",
+        "addr:province": "ON",
+        "addr:street": "Morningside Avenue",
+        "name": "Gunams Supermarket",
+        "note": "Sri Lankan, Indian and Western Groceries",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1984187,
+          43.8008914
+        ]
+      },
+      "id": "node/3318025983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3326486318",
+        "name": "Price Chopper",
+        "operator": "Sobeys",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.512093,
+          43.7400242
+        ]
+      },
+      "id": "node/3326486318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3368947344",
+        "addr:housenumber": "11",
+        "addr:street": "Widmer Street",
+        "name": "Champ's Food Supplies Ltd",
+        "note": "Wholesale store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3911588,
+          43.6469377
+        ]
+      },
+      "id": "node/3368947344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396318852",
+        "name": "Independent CityMarket",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4152848,
+          43.6415625
+        ]
+      },
+      "id": "node/3396318852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3403171753",
+        "name": "bulk barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5383829,
+          43.6407282
+        ]
+      },
+      "id": "node/3403171753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3418915694",
+        "name": "Metro",
+        "note": "Opened March 26, 2015",
+        "shop": "supermarket",
+        "store_name": "Humber Bay Park",
+        "website": "http://www.metro.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4827082,
+          43.6231048
+        ]
+      },
+      "id": "node/3418915694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3445656550",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1845116,
+          43.770121
+        ]
+      },
+      "id": "node/3445656550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3464728189",
+        "addr:city": "Markham",
+        "addr:housenumber": "98",
+        "addr:postcode": "L6B 0P2",
+        "addr:street": "Copper Creek Drive",
+        "name": "Longo's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2297759,
+          43.8683902
+        ]
+      },
+      "id": "node/3464728189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3479310674",
+        "name": "West Indian Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5999174,
+          43.7313949
+        ]
+      },
+      "id": "node/3479310674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3493438703",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "725",
+        "addr:province": "ON",
+        "addr:street": "Dovercourt Road",
+        "name": "Popbox MicroMarket",
+        "phone": "+1-416-539-0215",
+        "shop": "supermarket",
+        "website": "http://www.popboxmicromrkt.com/",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4290306,
+          43.6607569
+        ]
+      },
+      "id": "node/3493438703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3561927415",
+        "level": "-1",
+        "name": "The Market by Longo's",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3789097,
+          43.6470368
+        ]
+      },
+      "id": "node/3561927415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3594694567",
+        "name": "Asian Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4873984,
+          43.7461503
+        ]
+      },
+      "id": "node/3594694567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3594724685",
+        "name": "Asian Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5117315,
+          43.7388424
+        ]
+      },
+      "id": "node/3594724685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3620992885",
+        "name": "Pat Mart Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4196225,
+          43.8051165
+        ]
+      },
+      "id": "node/3620992885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3654403517",
+        "alt_name": "Quallity Dixie Grocers",
+        "diet:halal": "yes",
+        "name": "Dixie Grocers",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.606083,
+          43.6239316
+        ]
+      },
+      "id": "node/3654403517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3698533565",
+        "level": "-1",
+        "name": "Nutrition House",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3810245,
+          43.6475091
+        ]
+      },
+      "id": "node/3698533565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3713001864",
+        "name": "Fortinos",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6236633,
+          43.7932696
+        ]
+      },
+      "id": "node/3713001864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3732233409",
+        "name": "Kabul Farms",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6226737,
+          43.5752193
+        ]
+      },
+      "id": "node/3732233409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3740334280",
+        "name": "Fresh Food Market",
+        "phone": "+1 905 677-1333",
+        "shop": "supermarket",
+        "website": "http://freshfoodmarketinc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6346329,
+          43.7331594
+        ]
+      },
+      "id": "node/3740334280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3740787162",
+        "name": "bulk barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2922658,
+          43.7819453
+        ]
+      },
+      "id": "node/3740787162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3741392546",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "111",
+        "addr:province": "ON",
+        "addr:street": "St. Clair Avenue West",
+        "name": "the market by Longo's",
+        "opening_hours": "Mo-Fr 7:00-22:00; Sa-Su 7:00-20:00",
+        "operator": "Longo's",
+        "phone": "+1 416 921 6108",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3999382,
+          43.6866521
+        ]
+      },
+      "id": "node/3741392546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3748566485",
+        "name": "Mr. India Grocers",
+        "shop": "supermarket",
+        "website": "http://www.mrindiagrocers.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6482331,
+          43.5798374
+        ]
+      },
+      "id": "node/3748566485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3767279731",
+        "name": "Food Basics",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "website": "http://www.foodbasics.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2402785,
+          43.7924246
+        ]
+      },
+      "id": "node/3767279731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790920524",
+        "name": "Indian & Pakistani Groceries",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4404621,
+          43.8903723
+        ]
+      },
+      "id": "node/3790920524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3796212747",
+        "level": "0",
+        "name": "Lucky Moose Food Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.394402,
+          43.653574
+        ]
+      },
+      "id": "node/3796212747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3816467386",
+        "name": "Dad's Cookie Outlet",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2654932,
+          43.7752297
+        ]
+      },
+      "id": "node/3816467386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818765674",
+        "addr:city": "Toronto",
+        "addr:housenumber": "337",
+        "addr:postcode": "M5T 2E9",
+        "addr:province": "Ontario",
+        "addr:street": "Spadina Avenue",
+        "name": "LCBO",
+        "opening_hours": "10 AM - 9 PM",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4128518,
+          43.6888036
+        ]
+      },
+      "id": "node/3818765674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3894314045",
+        "name": "Blossom Pure Organic",
+        "phone": "+1 905 891-2005",
+        "shop": "supermarket",
+        "website": "https://blossompure.wordpress.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5509007,
+          43.6196015
+        ]
+      },
+      "id": "node/3894314045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3925581768",
+        "diet:halal": "yes",
+        "name": "Indo Pak Grocery & Halal Meat",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6914027,
+          43.6062375
+        ]
+      },
+      "id": "node/3925581768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3928979016",
+        "name": "Uthayam Supermarket",
+        "phone": "+1 905 270-8800",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6609913,
+          43.5781314
+        ]
+      },
+      "id": "node/3928979016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3933307437",
+        "diet:halal": "yes",
+        "name": "New Fatima Grocers",
+        "phone": "+1-905-890-9797;+1-905-848-7000",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6712663,
+          43.6020235
+        ]
+      },
+      "id": "node/3933307437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4004435203",
+        "name": "Coconut Grove Foods",
+        "note": "Indian Groceries, Spices, Vegetable",
+        "phone": "+1 905 238-9100",
+        "shop": "supermarket",
+        "website": "http://www.coconutgrovefood.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.622526,
+          43.6355186
+        ]
+      },
+      "id": "node/4004435203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013809949",
+        "addr:city": "Toronto",
+        "addr:housenumber": "638",
+        "addr:postcode": "M4C 1K9",
+        "addr:province": "Ontario",
+        "addr:street": "Danforth Avenue",
+        "name": "The Bulk Food Emporium",
+        "opening_hours": "10:00-19:00",
+        "operator": "Strictly Bulk",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3453131,
+          43.6790198
+        ]
+      },
+      "id": "node/4013809949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4015549339",
+        "addr:city": "Toronto",
+        "addr:housenumber": "607",
+        "addr:postcode": "M4X 1P9",
+        "addr:province": "Ontario",
+        "addr:street": "Parliament Street",
+        "name": "Yaris Super Store",
+        "operator": "607 Parliament St, Toronto, ON M4X 1P9",
+        "phone": "+1-416-923-9806",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3692816,
+          43.6680266
+        ]
+      },
+      "id": "node/4015549339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4015549348",
+        "addr:city": "Toronto",
+        "addr:housenumber": "591",
+        "addr:postcode": "M4X 1P9",
+        "addr:province": "Ontario",
+        "addr:street": "Parliament Street",
+        "name": "Ambal Trading",
+        "phone": "+1-416-928-6665",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3691722,
+          43.6676089
+        ]
+      },
+      "id": "node/4015549348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4020625321",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6172838,
+          43.6158779
+        ]
+      },
+      "id": "node/4020625321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4023857905",
+        "addr:city": "Toronto",
+        "addr:housenumber": "60",
+        "addr:postcode": "M5B 1J2",
+        "addr:street": "Carlton Street",
+        "name": "Loblaws",
+        "opening_hours": "07:00-23:00",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3801385,
+          43.6620397
+        ]
+      },
+      "id": "node/4023857905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100650892",
+        "addr:housenumber": "489",
+        "addr:street": "Parliament Street",
+        "name": "Lennie's Whole Foods",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:30-18:00; Su 12:00-17:00",
+        "phone": "+1-416-920-3777",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.367824,
+          43.6643125
+        ]
+      },
+      "id": "node/4100650892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228616955",
+        "name": "Yummy Market",
+        "shop": "supermarket",
+        "website": "http://yummymarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4678185,
+          43.7645439
+        ]
+      },
+      "id": "node/4228616955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4236615849",
+        "name": "No Frills",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6124974,
+          43.7737154
+        ]
+      },
+      "id": "node/4236615849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4245247491",
+        "name": "Homeland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5036624,
+          43.701111
+        ]
+      },
+      "id": "node/4245247491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4253506981",
+        "alt_name": "Cosimo's No Frills",
+        "name": "No Frills",
+        "opening_hours": "Mo-Fr 08:00-09:00, Sa,Su 08:00-08:00",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3673789,
+          43.6634713
+        ]
+      },
+      "id": "node/4253506981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4253525773",
+        "name": "Kabul Farms Supermarket",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3654115,
+          43.6575704
+        ]
+      },
+      "id": "node/4253525773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315151553",
+        "name": "Real Canadian SuperStore",
+        "shop": "supermarket",
+        "website": "http://www.realcanadiansuperstore.ca/en_CA/storedetail.346.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4716149,
+          43.7847587
+        ]
+      },
+      "id": "node/4315151553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4320427326",
+        "name": "bulk barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4524653,
+          43.8107467
+        ]
+      },
+      "id": "node/4320427326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4351195700",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "2699",
+        "addr:province": "ON",
+        "addr:street": "Jane Street",
+        "name": "FreshCo",
+        "old_name": "Price Chopper",
+        "operator": "Sobeys",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.516578,
+          43.7555642
+        ]
+      },
+      "id": "node/4351195700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4368028495",
+        "addr:housenumber": "8550",
+        "addr:postcode": "L6T 5C8",
+        "addr:street": "Torbram Road",
+        "name": "Makkah Halal Meat and Grocery",
+        "name:en": "Makkah Halal Meat and Grocery",
+        "phone": "+1-905-458-7610",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6950023,
+          43.7246889
+        ]
+      },
+      "id": "node/4368028495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4378209726",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3557694,
+          43.6766139
+        ]
+      },
+      "id": "node/4378209726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4379889589",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "2192",
+        "addr:postcode": "M6R 1X3",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street West",
+        "name": "Baraka Halal Food",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4510183,
+          43.6536038
+        ]
+      },
+      "id": "node/4379889589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4406283078",
+        "addr:city": "Toronto",
+        "name": "K&K Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.434564,
+          43.689451
+        ]
+      },
+      "id": "node/4406283078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4420814201",
+        "name": "Top Food Fresh Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2601508,
+          43.7521097
+        ]
+      },
+      "id": "node/4420814201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4425187036",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4189138,
+          43.6380405
+        ]
+      },
+      "id": "node/4425187036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455114193",
+        "addr:street": "Eglinton Avenue West",
+        "name:en": "Qi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.431453,
+          43.6995876
+        ]
+      },
+      "id": "node/4455114193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460800873",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1842044,
+          43.7712632
+        ]
+      },
+      "id": "node/4460800873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4461076612",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "101",
+        "addr:province": "ON",
+        "addr:street": "Eglinton Avenue East",
+        "addr:unit": "1",
+        "alt_name": "Loblaws Toronto Eglinton",
+        "name": "Loblaws",
+        "phone": "+1 416 489 7653",
+        "shop": "supermarket",
+        "website": "http://www.loblaws.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3950342,
+          43.707252
+        ]
+      },
+      "id": "node/4461076612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462701575",
+        "name": "Real Canadian Superstore",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2631516,
+          43.7781266
+        ]
+      },
+      "id": "node/4462701575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462759877",
+        "name": "Yal Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2592499,
+          43.7339059
+        ]
+      },
+      "id": "node/4462759877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463416712",
+        "name": "India Town",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2240133,
+          43.7610457
+        ]
+      },
+      "id": "node/4463416712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4483873691",
+        "addr:housenumber": "7181",
+        "addr:street": "Yonge Street",
+        "internet_access": "wlan",
+        "name": "Seasons Foodmart",
+        "name:en": "Seasons Foodmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4196599,
+          43.8034798
+        ]
+      },
+      "id": "node/4483873691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4504457658",
+        "addr:housenumber": "2231",
+        "addr:street": "Jane Street",
+        "name": "Seui Thi Super Market Chi Thanh",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5090055,
+          43.72429
+        ]
+      },
+      "id": "node/4504457658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4528951890",
+        "name": "Panchvati",
+        "name:en": "Panchvati",
+        "phone": "+1 905 794 5372",
+        "shop": "supermarket",
+        "website": "http://www.patelbrothers.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6588619,
+          43.7666527
+        ]
+      },
+      "id": "node/4528951890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535947650",
+        "name": "Asian Cash & Carry",
+        "phone": "+1 905-794-0015",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.661036,
+          43.7711422
+        ]
+      },
+      "id": "node/4535947650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4602942588",
+        "name": "WinCo Food Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3512936,
+          43.8481945
+        ]
+      },
+      "id": "node/4602942588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612661999",
+        "addr:housenumber": "877",
+        "addr:postcode": "M6J 1G3",
+        "addr:street": "Queen Street West",
+        "name": "The Spice Market",
+        "name:en": "The Spice Market",
+        "opening_hours": "Mo-Sa 11:00-18:00; Su 12:00-17:00",
+        "phone": "+1-647-430-7085",
+        "shop": "supermarket",
+        "website": "http://thespicetrader.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4113655,
+          43.6455973
+        ]
+      },
+      "id": "node/4612661999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4622240925",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "325",
+        "addr:postcode": "M1W 3Y1",
+        "addr:province": "ON",
+        "addr:street": "Bamburgh Circle",
+        "name": "Ben's Variety Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3238055,
+          43.8144421
+        ]
+      },
+      "id": "node/4622240925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625687051",
+        "addr:housenumber": "301",
+        "addr:street": "College Street",
+        "name": "Independent CityMarket",
+        "opening_hours": "Mo-Su 8:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4015575,
+          43.657462
+        ]
+      },
+      "id": "node/4625687051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4643369998",
+        "name": "Marhabah SuperMarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.290648,
+          43.6908919
+        ]
+      },
+      "id": "node/4643369998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4650410830",
+        "name": "Sankanai Furniture",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2565278,
+          43.734629
+        ]
+      },
+      "id": "node/4650410830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4650573941",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.436889,
+          43.8534274
+        ]
+      },
+      "id": "node/4650573941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4663402595",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2980774,
+          43.7590495
+        ]
+      },
+      "id": "node/4663402595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4697780122",
+        "addr:city": "Toronto",
+        "addr:housenumber": "468",
+        "addr:postcode": "M5S 1X8",
+        "addr:province": "ON",
+        "addr:street": "Bloor Street West",
+        "name": "Rowe Farms",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4093404,
+          43.6656534
+        ]
+      },
+      "id": "node/4697780122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4804929629",
+        "addr:city": "Toronto",
+        "addr:housenumber": "705",
+        "addr:postcode": "M6G 1C2",
+        "addr:province": "ON",
+        "addr:street": "College St",
+        "diet:vegan": "only",
+        "email": "talktous@yamchops.com",
+        "name": "Yam Chops",
+        "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
+        "phone": "+1-416-645-0117",
+        "shop": "supermarket",
+        "website": "https://yamchops.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4180545,
+          43.655049
+        ]
+      },
+      "id": "node/4804929629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4858715364",
+        "addr:housenumber": "1860",
+        "addr:street": "Bayview Avenue",
+        "name": "Whole Foods Market",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3779615,
+          43.7140497
+        ]
+      },
+      "id": "node/4858715364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4869906504",
+        "name": "Bombay Foods Cash \"N\" Carry",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.253456,
+          43.7534523
+        ]
+      },
+      "id": "node/4869906504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4951853433",
+        "name": "Shorebazaar Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2331517,
+          43.7404061
+        ]
+      },
+      "id": "node/4951853433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4953740624",
+        "addr:housenumber": "1230",
+        "addr:street": "Queen Street West",
+        "name": "Metro",
+        "name:en": "Metro",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4277573,
+          43.642549
+        ]
+      },
+      "id": "node/4953740624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045251805",
+        "name": "Valley Farm Produce",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5381997,
+          43.6405213
+        ]
+      },
+      "id": "node/5045251805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045251809",
+        "name": "M&M Meats",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5382641,
+          43.6406146
+        ]
+      },
+      "id": "node/5045251809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5061254768",
+        "name": "Al Premium Foodmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5949077,
+          43.5974455
+        ]
+      },
+      "id": "node/5061254768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5090693670",
+        "name": "B.K. Natural Foods",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3195687,
+          43.6731641
+        ]
+      },
+      "id": "node/5090693670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5120659721",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housename": "Qi Natural Food",
+        "addr:housenumber": "506",
+        "addr:place": "Qi Natural Food",
+        "addr:postcode": "M5V 2B3",
+        "addr:province": "ON",
+        "addr:street": "Queen Street West",
+        "name": "Natural Foods",
+        "phone": "+1-416-539-0459",
+        "shop": "supermarket",
+        "website": "qinaturalfood.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.401387,
+          43.647839
+        ]
+      },
+      "id": "node/5120659721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5126695145",
+        "name": "Ararat",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4193071,
+          43.7304005
+        ]
+      },
+      "id": "node/5126695145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5127412877",
+        "name": "Independent CityMarket",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.392845,
+          43.6480134
+        ]
+      },
+      "id": "node/5127412877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5151451023",
+        "addr:city": "Dartmouth",
+        "addr:housenumber": "612",
+        "addr:postcode": "B2W 5M5",
+        "addr:street": "Highway #7",
+        "name": "Sobeys",
+        "phone": "+1-902-433-0140",
+        "shop": "supermarket",
+        "website": "https://www.sobeys.com/en/stores/sobeys-panavista-drive/?f=789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6385544,
+          43.5739977
+        ]
+      },
+      "id": "node/5151451023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5241595321",
+        "addr:housenumber": "249",
+        "addr:street": "Sheppard Avenue East",
+        "name": "Mézes Mackó (Honey Bear)",
+        "opening_hours": "Tu-We 08:00-18:00; Th-Fr 08:00-19:00; Sa 08:00-17:30; Su 08:00-14:00",
+        "phone": "+1-416-733-0022",
+        "shop": "supermarket",
+        "website": "http://www.mezesmacko.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3959358,
+          43.7645464
+        ]
+      },
+      "id": "node/5241595321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5241595721",
+        "addr:housenumber": "6",
+        "addr:postcode": "M1L 2L6",
+        "addr:street": "Lebovic Avenue",
+        "email": "info@abceurodeli.com",
+        "name": "ABC Euro Delicatessen",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 10:00-17:00",
+        "phone": "+1-416-495-0368",
+        "shop": "supermarket",
+        "website": "http://www.abceurodeli.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.292814,
+          43.7243345
+        ]
+      },
+      "id": "node/5241595721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5241595921",
+        "addr:housenumber": "1335",
+        "addr:postcode": "M3A 1C6",
+        "addr:street": "Lawrence Avenue East",
+        "name": "Mak European Delicatessens",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 10:00-17:00",
+        "phone": "+1-416-444-0719",
+        "shop": "supermarket",
+        "website": "http://cevapi.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3207066,
+          43.7406777
+        ]
+      },
+      "id": "node/5241595921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5262869935",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2571588,
+          43.8549827
+        ]
+      },
+      "id": "node/5262869935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5267154723",
+        "name": "Spice Town",
+        "phone": "+1 905 471 9444",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2533742,
+          43.8405775
+        ]
+      },
+      "id": "node/5267154723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5334282121",
+        "addr:housenumber": "6",
+        "addr:postcode": "M1L 4V9",
+        "addr:street": "Lebovic Avenue",
+        "email": "INFO@ABCEURODELI.COM",
+        "name": "ABC Euro Delicatessen",
+        "phone": "+1-416-495-0368",
+        "shop": "supermarket",
+        "website": "http://www.ABCEURODELI.COM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.292828,
+          43.7243511
+        ]
+      },
+      "id": "node/5334282121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5335713721",
+        "addr:housenumber": "513",
+        "addr:postcode": "M6C 1A1",
+        "addr:street": "Saint Clair Avenue West",
+        "name": "Evergreen Natural Foods",
+        "opening_hours": "Mo-Fr 09:30-21:00; Sa 09:30-19:00; Su 11:00-18:00",
+        "phone": "+1-416-536-2932",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4187832,
+          43.6828753
+        ]
+      },
+      "id": "node/5335713721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5359367316",
+        "name": "Farmers Market",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5600043,
+          43.8467336
+        ]
+      },
+      "id": "node/5359367316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368647056",
+        "name": "Santo Fine Meat & Deli",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4980857,
+          43.7227352
+        ]
+      },
+      "id": "node/5368647056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368656861",
+        "name": "Blue Sky Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5115212,
+          43.7195027
+        ]
+      },
+      "id": "node/5368656861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368912117",
+        "name": "Ava Esfahan Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3990762,
+          43.7639064
+        ]
+      },
+      "id": "node/5368912117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5379390971",
+        "addr:city": "North York",
+        "addr:housenumber": "12",
+        "addr:postcode": "M2N 7G4",
+        "addr:province": "ON",
+        "addr:street": "Harrison Garden Blvd",
+        "name": "Rabba Fine Foods",
+        "opening_hours": "24/7",
+        "phone": "+1-416-250-0005",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4094981,
+          43.7579857
+        ]
+      },
+      "id": "node/5379390971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445582027",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1033",
+        "addr:street": "Gerrard Street East",
+        "name": "Philippine Oriental Food Market",
+        "phone": "+1-416-466-6938",
+        "shop": "supermarket",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3369521,
+          43.6687891
+        ]
+      },
+      "id": "node/5445582027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5473806721",
+        "addr:city": "Toronto",
+        "addr:housenumber": "147",
+        "addr:postcode": "M6P 3W5",
+        "addr:street": "Symington Ave",
+        "name": "Wallace Market",
+        "phone": "(416) 532-6858",
+        "shop": "supermarket",
+        "wheelchair": "yes",
+        "wheelchair:description": "StopGap ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4492733,
+          43.6614997
+        ]
+      },
+      "id": "node/5473806721"
+    }
+  ]
+}

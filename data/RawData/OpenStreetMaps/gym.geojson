@@ -1,0 +1,800 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-12T22:41:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/804614443",
+        "addr:city": "Toronto",
+        "addr:housenumber": "181",
+        "addr:postcode": "M4M 2S1",
+        "addr:street": "Carlaw Avenue",
+        "email": "info@honefitness.com",
+        "leisure": "fitness_centre",
+        "name": "Hone Fitness",
+        "opening_hours": "Mo-Fr 06:00-23:00; Sa-Su 09:00-19:00",
+        "phone": "+1-416-238-0015",
+        "source": "CanVec 6.0 - NRCan",
+        "website": "http://honefitness.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3399754,
+          43.6612652
+        ]
+      },
+      "id": "node/804614443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1906215914",
+        "addr:housenumber": "579",
+        "addr:postcode": "L5G 1H9",
+        "addr:street": "Lakeshore Road East",
+        "addr:unit": "B",
+        "contact:facebook": "https://www.facebook.com/portcredathletics/",
+        "leisure": "fitness_centre",
+        "name": "Port Credit Athletics",
+        "phone": "+1 905 271-9700",
+        "website": "http://portcreditathletics.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5696569,
+          43.5687336
+        ]
+      },
+      "id": "node/1906215914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2231961892",
+        "leisure": "fitness_centre",
+        "level": "-1",
+        "name": "Goodlife Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7234707,
+          43.7154307
+        ]
+      },
+      "id": "node/2231961892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2291775928",
+        "leisure": "fitness_centre",
+        "name": "Women's Fitness Centre",
+        "website": "http://womensfitnesscentre.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4803367,
+          43.6601225
+        ]
+      },
+      "id": "node/2291775928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2298309446",
+        "addr:city": "Toronto",
+        "addr:housenumber": "276",
+        "addr:street": "Carlaw Avenue",
+        "addr:unit": "302-123",
+        "leisure": "fitness_centre",
+        "name": "Pole Inc",
+        "website": "http://www.poleinc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3418048,
+          43.6632017
+        ]
+      },
+      "id": "node/2298309446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2298543324",
+        "addr:city": "Toronto",
+        "addr:housenumber": "245",
+        "addr:postcode": "M4M 2S1",
+        "addr:street": "Carlaw Avenue",
+        "leisure": "fitness_centre",
+        "name": "The Flying Yogi",
+        "website": "http://theflyingyogi.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.340698,
+          43.6636498
+        ]
+      },
+      "id": "node/2298543324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2491700551",
+        "addr:city": "Brampton",
+        "addr:housenumber": "7700",
+        "addr:postcode": "L6Y 4M3",
+        "addr:street": "Hurontario Street",
+        "leisure": "fitness_centre",
+        "name": "Anytime Fitness",
+        "phone": "+1 905 497-2288",
+        "sport": "fitness",
+        "website": "http://anytimefitness.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7249626,
+          43.6593307
+        ]
+      },
+      "id": "node/2491700551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2501772180",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "445",
+        "addr:province": "ON",
+        "addr:street": "King Street West",
+        "leisure": "fitness_centre",
+        "name": "Totum Lifescience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3958831,
+          43.6451188
+        ]
+      },
+      "id": "node/2501772180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2685651130",
+        "leisure": "fitness_centre",
+        "name": "Anytime Fitness",
+        "opening_hours": "mo-th 10:00-20:00;sa 09:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.683127,
+          43.5244957
+        ]
+      },
+      "id": "node/2685651130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2819392252",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "400",
+        "addr:postcode": "M6P 2R1",
+        "addr:province": "ON",
+        "addr:street": "Pacific Avenue",
+        "leisure": "fitness_centre",
+        "name": "Snap Fitness",
+        "website": "http://www.snapfitness.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4687509,
+          43.6653559
+        ]
+      },
+      "id": "node/2819392252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3308636856",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "98",
+        "addr:postcode": "M5E 1A9",
+        "addr:province": "ON",
+        "addr:street": "The Esplanade",
+        "leisure": "fitness_centre",
+        "name": "Wynne Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3724778,
+          43.6478392
+        ]
+      },
+      "id": "node/3308636856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3474264104",
+        "leisure": "fitness_centre",
+        "name": "Crossfit 416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3903946,
+          43.6382134
+        ]
+      },
+      "id": "node/3474264104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3494914034",
+        "addr:city": "Etobicoke",
+        "addr:country": "CA",
+        "addr:housenumber": "268",
+        "addr:province": "ON",
+        "addr:street": "Manitoba Street",
+        "fitness_centre": "yoga",
+        "leisure": "fitness_centre",
+        "name": "Mystic Pointe Voga",
+        "phone": "+1 647 352-5433",
+        "website": "http://mysticpointeyoga.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4897493,
+          43.6241525
+        ]
+      },
+      "id": "node/3494914034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3748566478",
+        "leisure": "fitness_centre",
+        "name": "UFC Gym",
+        "website": "http://www.ufcgym.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6471632,
+          43.5790135
+        ]
+      },
+      "id": "node/3748566478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786761688",
+        "leisure": "fitness_centre",
+        "name": "Mibody Health and Fitness",
+        "phone": "+1 416 301-7586",
+        "website": "http://www.mibody.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5000312,
+          43.6021928
+        ]
+      },
+      "id": "node/3786761688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4012033028",
+        "addr:city": "Mississauga",
+        "addr:housenumber": "4561",
+        "addr:province": "ON",
+        "addr:street": "Hurontario Street",
+        "leisure": "fitness_centre",
+        "name": "LA Fitness",
+        "phone": "+1 647 243-5081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.651232,
+          43.6067744
+        ]
+      },
+      "id": "node/4012033028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4015869511",
+        "addr:city": "Toronto",
+        "addr:housenumber": "222",
+        "addr:postcode": "M8V 3W7",
+        "addr:street": "Islington Avenue",
+        "addr:unit": "4",
+        "contact:email": "info@crossfitcolosseum.com",
+        "contact:phone": "+1-416-644-0075",
+        "contact:website": "http://www.crossfitcolosseum.com",
+        "leisure": "fitness_centre",
+        "name": "CrossFit Colosseum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5072666,
+          43.6047577
+        ]
+      },
+      "id": "node/4015869511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4171646493",
+        "leisure": "fitness_centre",
+        "name": "Fit4Less",
+        "operator": "GoodLife"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.414709,
+          43.7684617
+        ]
+      },
+      "id": "node/4171646493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4286043213",
+        "leisure": "fitness_centre",
+        "name": "KLF Fitness Training Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6142048,
+          43.7743414
+        ]
+      },
+      "id": "node/4286043213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4333069089",
+        "leisure": "fitness_centre",
+        "name": "Goodlife Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1838774,
+          43.7703758
+        ]
+      },
+      "id": "node/4333069089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373039276",
+        "addr:housenumber": "2461",
+        "addr:postcode": "M4E 1H8",
+        "addr:street": "Queen Street East",
+        "leisure": "fitness_centre",
+        "name": "Thrive Fit",
+        "phone": "+1-416-792-0707",
+        "website": "https://www.thrivefit.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2832984,
+          43.6734059
+        ]
+      },
+      "id": "node/4373039276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373039277",
+        "leisure": "fitness_centre",
+        "name": "Training Pad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2819639,
+          43.6736425
+        ]
+      },
+      "id": "node/4373039277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4613240750",
+        "addr:city": "Toronto",
+        "addr:housenumber": "12",
+        "addr:postcode": "M4T 1L7",
+        "addr:province": "ON",
+        "addr:street": "Saint Clair Avenue East",
+        "leisure": "fitness_centre",
+        "name": "Goodlife Fitness",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3938561,
+          43.6884879
+        ]
+      },
+      "id": "node/4613240750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4616716676",
+        "addr:city": "Toronto",
+        "addr:housenumber": "319",
+        "addr:postcode": "M5B 2C3",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "leisure": "fitness_centre",
+        "name": "Goodlife Fitness",
+        "opening_hours": "5AM - 11PM",
+        "sport": "gym"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3809062,
+          43.6567118
+        ]
+      },
+      "id": "node/4616716676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630113390",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2638",
+        "addr:postcode": "M4B 3M1",
+        "addr:province": "ON",
+        "addr:street": "Saint Clair Avenue East",
+        "leisure": "fitness_centre",
+        "name": "Redwood Hot Yoga Studio",
+        "sport": "yoga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3136439,
+          43.7053864
+        ]
+      },
+      "id": "node/4630113390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4636625488",
+        "addr:city": "Toronto",
+        "addr:housenumber": "835",
+        "addr:postcode": "M4J 1L2",
+        "addr:province": "ON",
+        "addr:street": "Danforth Avenue",
+        "description": "Gym",
+        "leisure": "fitness_centre",
+        "name": "Riverdale Fitness Center",
+        "opening_hours": "06:00-23:00",
+        "phone": "+1-416-406-1944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3406379,
+          43.6794189
+        ]
+      },
+      "id": "node/4636625488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4652769081",
+        "leisure": "fitness_centre",
+        "name": "Planet Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4427739,
+          43.6677062
+        ]
+      },
+      "id": "node/4652769081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4691663364",
+        "addr:housenumber": "B1-103",
+        "addr:postcode": "M5C 1N9",
+        "addr:street": "Richmond Street East",
+        "email": "info@crossfit6s.com",
+        "leisure": "fitness_centre",
+        "name": "CrossFit 6S",
+        "phone": "+1-416-518-5746",
+        "sport": "fitness",
+        "website": "http://www.crossfit6s.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3738333,
+          43.6526916
+        ]
+      },
+      "id": "node/4691663364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730509012",
+        "addr:city": "North York",
+        "addr:housenumber": "32",
+        "addr:street": "Colville Road",
+        "leisure": "fitness_centre",
+        "sport": "The_Fitness_Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4763662,
+          43.7066673
+        ]
+      },
+      "id": "node/4730509012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937782917",
+        "leisure": "fitness_centre",
+        "name": "Fitness Studio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2301154,
+          43.726648
+        ]
+      },
+      "id": "node/4937782917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5125524239",
+        "leisure": "fitness_centre",
+        "name": "Uptown Fitness Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4426157,
+          43.6782263
+        ]
+      },
+      "id": "node/5125524239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166313525",
+        "leisure": "fitness_centre",
+        "name": "Be Relax",
+        "name:it": "Be Relax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6257943,
+          43.6872227
+        ]
+      },
+      "id": "node/5166313525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166408221",
+        "leisure": "fitness_centre",
+        "name": "Be Relax",
+        "name:it": "Be Relax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6200902,
+          43.6827094
+        ]
+      },
+      "id": "node/5166408221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5184936117",
+        "leisure": "fitness_centre",
+        "name": "Anytime Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.468162,
+          43.672727
+        ]
+      },
+      "id": "node/5184936117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5220252162",
+        "leisure": "fitness_centre",
+        "name": "Goodlife Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3137952,
+          43.7426862
+        ]
+      },
+      "id": "node/5220252162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5223897951",
+        "leisure": "fitness_centre",
+        "name": "Just Bounce",
+        "sport": "trampoline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4723016,
+          43.7568567
+        ]
+      },
+      "id": "node/5223897951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5237184223",
+        "leisure": "fitness_centre",
+        "name": "The Freedom Factory",
+        "sport": "yoga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4218645,
+          43.6416833
+        ]
+      },
+      "id": "node/5237184223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5237184224",
+        "leisure": "fitness_centre",
+        "name": "99 Sudbury Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4225472,
+          43.6411865
+        ]
+      },
+      "id": "node/5237184224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5369001999",
+        "leisure": "fitness_centre",
+        "name": "Goodlife Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3323147,
+          43.7209992
+        ]
+      },
+      "id": "node/5369001999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5379390976",
+        "addr:city": "North York",
+        "addr:housenumber": "100",
+        "addr:postcode": "M2N 6N5",
+        "addr:province": "Ontario",
+        "addr:street": "Sheppard Avenue East",
+        "addr:unit": "100",
+        "description": "#RyersonGEO44",
+        "leisure": "fitness_centre",
+        "name": "Moksha Yoga North York",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1-416-225-6767",
+        "sport": "yoga",
+        "website": "http://north-york.mokshayoga.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4055625,
+          43.7632026
+        ]
+      },
+      "id": "node/5379390976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5435799121",
+        "leisure": "fitness_centre",
+        "name": "Danforth Karate Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.334793,
+          43.6810589
+        ]
+      },
+      "id": "node/5435799121"
+    }
+  ]
+}
