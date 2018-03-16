@@ -65,7 +65,7 @@ To edit the app using ESRI's web builder SDK:
 * Download the Zip file and upload it from the app builder's interface
 
 To edit the app's code directly:
-* Download the the directory called `2` and place it in a server
+* Download the the directory called `2/` and place it in a server
 
 To run the GIS analytics:
 * See the python script located in `data/` for more details
