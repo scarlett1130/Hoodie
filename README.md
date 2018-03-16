@@ -17,14 +17,14 @@ Hoodie enables users to apply advanced spatial analysis techniques when looking 
 ### The Data
 We used a large variety of open data sources to analyze the apartments.
 
-* Toronto Police
+* Toronto Police [link](http://data.torontopolice.on.ca/)
   * Crime data
-* City of Toronto Open Data Portal
+* City of Toronto Open Data Portal [link](https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/)
   * Parks, schools, subway stations
-* Open Street Maps
+* Open Street Maps [link](https://overpass-turbo.eu/)
   * Restaurants, cafés, bars, gyms, supermarkets, gyms...
 
-The apartment data  **STILL NEEDS TO BE WRITTEN**
+The apartment data was generated for demonstration purposes only.
 
 ### The Map
 Hoodie uses ESRI's web app interface to display apartments in Toronto. As the user zooms in more local features like restaurants, schools and parks appear on the map.
@@ -64,7 +64,7 @@ To edit the app using ESRI's web builder SDK:
 * Install the SDK from [ESRI's Website](https://developers.arcgis.com/web-appbuilder/)
 * Download the Zip file and upload it from the app builder's interface
 
-To edit the app's code directly:
+To host the website or edit the app's code directly:
 * Download the the directory called `2/` and place it in a server
 
 To run the GIS analytics:
