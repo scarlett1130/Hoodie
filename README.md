@@ -57,7 +57,7 @@ The website contains a link to a form which allows users to post a rental. The u
 
 **Jay Karon** is a 2nd Year Computer Science student, who, through his studies, has slowly been forsaking the outside world for assembly code, the command line, and data structures. Through GIS he hopes to discover it again.
 
-**Nadav Hames** is a computer science student, musician, and operetta fan trying to make a name for himself in the high tech and musical worlds.
+**Nadav Hames** is a Computer Science student, musician, and operetta fan trying to make it in the technological and musical realms. With GIS, he has furthered his appreciation for digital cartography to even higher elevations.
 
 # Installation
 To edit the app using ESRI's web builder SDK:
