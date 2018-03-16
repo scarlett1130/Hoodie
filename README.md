@@ -1,4 +1,5 @@
 ![Hoodie Logo](imgs/logo.png "Hoodie Logo")
+
 # The Problem
 Toronto is a **BIG** city. With over 6 million people in the GTA, every year thousands of people move into rentals in the city.
 
@@ -48,6 +49,12 @@ Based on user chosen weights the query returns the 10 top rated apartments.
 
 ### The Form
 The website contains a link to a form which allows users to post a rental. The user submits the basic information about the apartment and we periodically analyze the location data and upload the results to the web app.
+
+# The Video
+<a href="https://drive.google.com/open?id=1NjwraYWxGCJA2wpwzQRHGtyMu4OZtqFu">
+![Hoodie Logo](imgs/videoShot.png "Hoodie Video")
+</a>
+The above image is a [link](https://drive.google.com/open?id=1NjwraYWxGCJA2wpwzQRHGtyMu4OZtqFu) to a video hosted on google drive.
 
 # The Team
 
