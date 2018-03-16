@@ -52,8 +52,11 @@ The website contains a link to a form which allows users to post a rental. The u
 
 # The Video
 <a href="https://drive.google.com/open?id=1NjwraYWxGCJA2wpwzQRHGtyMu4OZtqFu">
-![Hoodie Logo](imgs/videoShot.png "Hoodie Video")
+<img src="imgs/videoShot.png">
 </a>
+The above image is a [link](https://drive.google.com/open?id=1NjwraYWxGCJA2wpwzQRHGtyMu4OZtqFu) to a video hosted on google drive.
+
+
 The above image is a [link](https://drive.google.com/open?id=1NjwraYWxGCJA2wpwzQRHGtyMu4OZtqFu) to a video hosted on google drive.
 
 # The Team
