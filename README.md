@@ -1,5 +1,8 @@
 ![Hoodie Logo](imgs/logo.png "Hoodie Logo")
 
+### Demo
+Check out the [live app](https://jaykaron.github.io/Hoodie/). 
+
 # The Problem
 Toronto is a **BIG** city. With over 6 million people in the GTA, every year thousands of people move into rentals in the city.
 
