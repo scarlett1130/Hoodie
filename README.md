@@ -60,16 +60,6 @@ The website contains a link to a form which allows users to post a rental. The u
 
 The above image is a [link](https://drive.google.com/open?id=1NjwraYWxGCJA2wpwzQRHGtyMu4OZtqFu) to a video hosted on google drive.
 
-# The Team
-
-**Muhammad Usman** is a PhD candidate in the Department of Electrical Engineering and Computer Science at York University. He received his MSc degree in Computer Science from York University in 2016. His research interests include Crowd Simulation, Crowd Steering Behavior, Design Architecture Analysis in Virtual Reality, and Assistive Technologies.
-
-**Josh Karon** likes to think of himself as a world explorer, thanks to GIS he can do it in his PJs. Josh is in his final year of Geomatics Engineering at York University. He is passionate about spatial analysis, data visualization, and his favourite programming language is Python.
-
-**Jay Karon** is a 2nd Year Computer Science student, who, through his studies, has slowly been forsaking the outside world for assembly code, the command line, and data structures. Through GIS he hopes to discover it again.
-
-**Nadav Hames** is a Computer Science student, musician, and operetta fan trying to make it in the technological and musical realms. With GIS, he has furthered his appreciation for digital cartography to even higher elevations.
-
 # Installation
 To edit the app using ESRI's web builder SDK:
 * Install the SDK from [ESRI's Website](https://developers.arcgis.com/web-appbuilder/)
